@@ -414,73 +414,89 @@
 			</div>
 			<!-- /REVOLUTION SLIDER -->
 
+			<section id="contact" class="container">
 
-			<section class="container text-center">
-				<h1 class="text-center">
-				   <span class="subtitle" style="font-size:24px"><strong>联系我们 CONTACT US</strong></span>
-			    </h1>
-
-				<h4 class="text-left">			
-				   <div class="row">
-					   <div class="col-md-2"></div>
-					   <div class="col-md-8 m-t-5">
-						   公司名称：浙江大镭核技术应用设备有限公司<br />
-						   大镭官网：http://www.bigradium.com<br />
-						   公司地址：浙江省舟山市经济开发区定海新港工业园区迎宾大道36号<br />
-						   邮&nbsp;&nbsp;&nbsp;&nbsp;编：316000<br />
-						   电&nbsp;&nbsp;&nbsp;&nbsp;话：0580-2929878<br />
-						   传&nbsp;&nbsp;&nbsp;&nbsp;真：0580-2929879<br />				
-					   </div>
-				   </div>
-				</h4>
-
-			</section>
-
-
-			<div class="container">
-				<hr class="half-margins" /><!-- hr line -->
-			</div>
-
-
-			<!-- ONE NATION -->
-			<section class="container">
 				<div class="row">
-					<div class="col-md-6">
-						<h2>选择大镭  Why Dalei Tech?</h2>
-						<p>Lorem ipsum dolor sit amet, <a href="#">consectetur adipiscing</a> elit. Maecenas metus nulla, commodo a sodales sed, dignissim pretium nunc. Nam et lacus neque. Ut enim massa, sodales tempor convallis et, iaculis ac massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus nulla, commodo a sodales sed, dignissim pretium nunc. Nam et lacus neque. Ut enim massa, sodales tempor convallis et, iaculis ac massa.</p>
-						<h4>Opening Hours</h4>
-						<div class="row">
-							<div class="col-md-4">
-								Monday - Friday <br />
-								Saturday <br />
-								Sunday <br />
-							</div>
-							<div class="col-md-4">
-								 8.00 - 17.00<br />
-								 9.30 - 17.30<br />
-								 9.30 - 15.00<br />							
-							</div>
+
+					<!-- INFO -->
+					<div class="col-md-8">
+
+						<h2>联系方式</h2>
+
+						<p>
+							如果您有任何的疑问或需求，请致电或邮件我们！
+						</p>
+
+						<div class="divider half-margins"><!-- divider -->
+							<i class="fa fa-star"></i>
 						</div>
+
+						<p style="font-size:20px">
+							<span class="block"><strong><i class="fa fa-flag"></i> &nbsp;公司名称：</strong> 浙江大镭核技术应用设备有限公司</span>
+							<br />
+							<span class="block"><strong><i class="fa fa-home"></i> &nbsp;大镭官网：</strong> http://www.bigradium.com</span>
+							<br />
+							<span class="block"><strong><i class="fa fa-map-marker"></i> &nbsp;&nbsp;公司地址：</strong> 浙江省舟山市经济开发区定海新港工业园区迎宾大道36号</span>
+							<br />
+							<span class="block"><strong><i class="fa fa-envelope-o"></i> &nbsp;邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;编：</strong> 316000</span>
+							<br />
+							<span class="block"><strong><i class="fa fa-phone"></i> &nbsp;电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：</strong> 0580-2929878</span>
+							<br />
+							<span class="block"><strong><i class="fa fa-print"></i> &nbsp;传&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;真：</strong> 0580-2929879</span>
+							<br />
+							<span class="block"><strong><i class="fa fa-envelope"></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email:</strong> <a href="mailto:mail@yourdomain.com"> lrf65@126.com</a></span>			
+
+						</p>
+
 					</div>
+					<!-- /INFO -->
 
-					<div class="col-md-6">
+                    <!-- FORM -->
+					<div class="col-md-4">
 
-						<!-- carousel -->
-						<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
-							<div>
-								<img alt="" class="img-responsive" src="assets/images/dalei/fnal-5.jpg">
+						<h2>邮件大镭</h2>
+
+						<form class="white-row" action="php/contact.php" method="post">
+							<div class="row">
+								<div class="form-group">
+									<div class="col-md-6">
+										<label>Full Name *</label>
+										<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name">
+									</div>
+									<div class="col-md-6">
+										<label>E-mail Address *</label>
+										<input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email">
+									</div>
+								</div>
 							</div>
-							<div>
-								<img alt="" class="img-responsive" src="assets/images/dalei/fnal-4.jpg">
+							<div class="row">
+								<div class="form-group">
+									<div class="col-md-12">
+										<label>Subject</label>
+										<input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject">
+									</div>
+								</div>
 							</div>
-						</div>
-						<!-- /carousel -->
-
+							<div class="row">
+								<div class="form-group">
+									<div class="col-md-12">
+										<label>Message *</label>
+										<textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" id="message"></textarea>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<input type="submit" value="Send Message" class="btn btn-primary btn-lg" data-loading-text="Loading...">
+								</div>
+							</div>
+						</form>
+					
 					</div>
+					<!-- /FORM -->
 				</div>
-			</section>
-			<!-- /ONE NATION -->
 
+			</section>
 
 			<div class="divider"><!-- divider -->
 				<i class="fa fa-leaf"></i>
