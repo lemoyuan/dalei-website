@@ -736,6 +736,8 @@ function _masonry() {
 					layoutMode: 	'sloppyMasonry'
 				});
 
+                destination.isotope({filter : '.development'});    //just load "development" item
+                
 				_el.find("a").click(function(e) {
 
 					e.preventDefault();
