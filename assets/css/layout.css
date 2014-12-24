@@ -1267,7 +1267,7 @@ span.js_loader {
 	/*white-space: nowrap;*/
 }
 	.item-box.fixed-box .item-box-desc p {
-		height:150px;
+		height:90px;
 	}
 .item-box-desc h4 {
 	padding:0; margin:0;
@@ -1277,7 +1277,7 @@ span.js_loader {
 }
 
 .item-box.fixed-box .item-box-desc {
-	height:210px;
+	height:170px;
 }
 
 .item-box.fixed-box figure {
