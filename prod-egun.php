@@ -71,7 +71,7 @@
 						
 						    <div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
 							    <div><br/><br/><br/><br/><br/><br/>
-								    <img alt="电子枪" class="img-responsive" src="assets/images/dalei/egun.jpg">
+								    <img alt="直线电子加速器辐照加工应用大镭核技术电子枪" class="img-responsive" src="assets/images/dalei/egun.jpg">
 							    </div>
 							
 						    </div>

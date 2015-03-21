@@ -15,7 +15,7 @@
 				<div class="fullwidthbanner">
 					<ul>	
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
-							<img src="assets/images/dummy.png" alt="大镭" data-lazyload="assets/images/dalei/en.jpg" data-fullwidthcentering="on">
+							<img src="assets/images/dummy.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" data-lazyload="assets/images/dalei/en.jpg" data-fullwidthcentering="on">
 						</li>
 					</ul>
 				</div>

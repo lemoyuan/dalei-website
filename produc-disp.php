@@ -55,7 +55,7 @@
 											<strong>电子加速器</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/eaccel1.jpg"  alt="电子加速器">
+									<img class="img-responsive" src="assets/images/dalei/eaccel1.jpg"  alt="直线电子加速器辐照加工应用大镭核技术成套设备">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">工业辐照电子直线加速器</h4>
@@ -78,7 +78,7 @@
 											<strong>智能高功率调制器</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/modulator1.jpg" alt="智能高功率调制器">
+									<img class="img-responsive" src="assets/images/dalei/modulator1.jpg" alt="直线电子加速器辐照加工应用大镭核技术智能高功率调制器">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">智能高功率脉冲调制器</h4>
@@ -100,7 +100,7 @@
 											<strong>电子枪</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/egun.jpg"  alt="电子枪">
+									<img class="img-responsive" src="assets/images/dalei/egun.jpg"  alt="直线电子加速器辐照加工应用大镭核技术电子枪">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">脉冲强流电子枪</h4>
@@ -123,7 +123,7 @@
 											<strong>加速器循环温度控制机</strong> 
 										</span>
 									</a>  
-									<img class="img-responsive" src="assets/images/dalei/tem.jpg"  alt="加速器循环温度控制机">
+									<img class="img-responsive" src="assets/images/dalei/tem.jpg"  alt="直线电子加速器辐照加工应用大镭核技术加速器循环温度控制机">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">加速器循环温度控制机</h4>
@@ -145,7 +145,7 @@
 											<strong>电子枪智能控制器</strong>
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/fnal-3.jpg"  alt="电子枪智能控制器">   
+									<img class="img-responsive" src="assets/images/dalei/fnal-3.jpg"  alt="直线电子加速器辐照加工应用大镭核技术电子枪智能控制器">   
 								</figure>
 								<div class="item-box-desc " >
 									<h4 class="text-center">电子枪智能控制器</h4>
@@ -167,7 +167,7 @@
 											<strong>束流偏转控制器</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/pro.jpg"  alt="束流偏转控制器">
+									<img class="img-responsive" src="assets/images/dalei/pro.jpg"  alt="直线电子加速器辐照加工应用大镭核技术束流偏转控制器">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">束流偏转控制器</h4>
@@ -189,7 +189,7 @@
 											<strong>溅射离子泵控制器</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/ion.jpg"  alt="溅射离子泵控制器">
+									<img class="img-responsive" src="assets/images/dalei/ion.jpg"  alt="直线电子加速器辐照加工应用大镭核技术溅射离子泵控制器">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">溅射离子泵控制器</h4>
@@ -210,7 +210,7 @@
 											<strong>微波功率源</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/fnal-3.jpg"  alt="全固态微波功率源">   
+									<img class="img-responsive" src="assets/images/dalei/fnal-3.jpg"  alt="直线电子加速器辐照加工应用大镭核技术全固态微波功率源">   
 								</figure>
 								<div class="item-box-desc " >
 									<h4 class="text-center">全固态微波功率源</h4>

@@ -17,7 +17,7 @@
 				<div class="fullwidthbanner">
 					<ul>	
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
-							<img src="assets/images/dummy.png" alt="" data-lazyload="assets/images/dalei/fnal-2.jpg" data-fullwidthcentering="on">
+							<img src="assets/images/dummy.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" data-lazyload="assets/images/dalei/fnal-2.jpg" data-fullwidthcentering="on">
 							<div class="tp-caption medium_text lft"
 							data-x="90" 
 							data-y="180"
@@ -44,7 +44,7 @@
 							</div>
 						</li>
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
-							<img src="assets/images/dummy.png"  alt="" data-lazyload="assets/images/dalei/fnal-3.jpg" data-fullwidthcentering="on">
+							<img src="assets/images/dummy.png"  alt="直线电子加速器辐照加工应用大镭核技术成套设备" data-lazyload="assets/images/dalei/fnal-3.jpg" data-fullwidthcentering="on">
 							<div class="tp-caption medium_text lft"
 							data-x="90" 
 							data-y="180"
@@ -119,7 +119,7 @@
 						<!--one picture -->
 						<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
 							<div>
-								<img alt="大镭" class="img-responsive" src="assets/images/dalei/fnal-3.jpg">
+								<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/fnal-3.jpg">
 							</div>
 							
 						</div>

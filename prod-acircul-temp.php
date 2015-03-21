@@ -12,7 +12,7 @@
     <!-- WRAPPER -->
 		<div id="wrapper">
 			
-	    <header id="page-title">
+	        <header id="page-title">
 
                 <div class="container">	
 
@@ -68,7 +68,7 @@
 						
 						    <div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
 							    <div><br/><br/><br/><br/>
-								    <img alt="加速器循环温度控制机" class="img-responsive" src="assets/images/dalei/tem.jpg">
+								    <img alt="直线电子加速器辐照加工应用大镭核技术加速器循环温度控制机" class="img-responsive" src="assets/images/dalei/tem.jpg">
 							    </div>
 							
 						    </div>

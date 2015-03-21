@@ -43,7 +43,7 @@
 
 								<!-- image -->
 								<figure>
-									<img src="assets/images/articles/inno-11.jpg" class="img-responsive" alt="img" />
+									<img src="assets/images/articles/inno-11.jpg" class="img-responsive" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 								</figure>
 
 								<!-- blog short preview -->
@@ -69,7 +69,7 @@
 
                                 <!-- image -->
 								<figure>
-									<img src="assets/images/articles/inno-12.jpg" class="img-responsive" alt="img" />
+									<img src="assets/images/articles/inno-12.jpg" class="img-responsive" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 								</figure>
 
 								<!-- blog short preview -->

@@ -73,7 +73,7 @@
 					    <div class="col-md-5 "><br/><br/>
 						    <div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
 							    <div>
-								   <img class="img-responsive" src="assets/images/dalei/pro.jpg"  alt="束流偏转控制器">
+								   <img class="img-responsive" src="assets/images/dalei/pro.jpg"  alt="直线电子加速器辐照加工应用大镭核技术束流偏转控制器">
 							    </div>
 						    </div>	
 		                </div>

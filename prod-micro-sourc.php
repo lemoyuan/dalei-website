@@ -68,7 +68,7 @@
 						
 						    <div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
 							    <div><br/>
-								    <img alt="全固态微波功率源" class="img-responsive" src="assets/images/dalei/fnal-1.jpg">
+								    <img alt="直线电子加速器辐照加工应用大镭核技术全固态微波功率源" class="img-responsive" src="assets/images/dalei/fnal-1.jpg">
 							    </div>
 							
 						    </div>

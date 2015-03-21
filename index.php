@@ -18,7 +18,7 @@
 					<ul>	
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
 
-							<img src="assets/images/dummy.png" alt="大镭" data-lazyload="assets/images/dalei/fnal-2.jpg" data-fullwidthcentering="on">
+							<img src="assets/images/dummy.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" data-lazyload="assets/images/dalei/fnal-2.jpg" data-fullwidthcentering="on">
 							<div class="tp-caption medium_text lft"
 							data-x="90" 
 							data-y="180"
@@ -46,7 +46,7 @@
 
 						</li>
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
-							<img src="assets/images/dummy.png"  alt="大镭" data-lazyload="assets/images/dalei/fnal-3.jpg" data-fullwidthcentering="on">
+							<img src="assets/images/dummy.png"  alt="直线电子加速器辐照加工应用大镭核技术成套设备" data-lazyload="assets/images/dalei/fnal-3.jpg" data-fullwidthcentering="on">
 							<div class="tp-caption medium_text lft"
 							data-x="90" 
 							data-y="180"
@@ -75,7 +75,7 @@
 						</li>
 
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
-							<img src="assets/images/dummy.png"  alt="大镭" data-lazyload="assets/images/dalei/fnal-1.jpg" data-fullwidthcentering="on">
+							<img src="assets/images/dummy.png"  alt="直线电子加速器辐照加工应用大镭核技术成套设备" data-lazyload="assets/images/dalei/fnal-1.jpg" data-fullwidthcentering="on">
 							<div class="tp-caption medium_text lft"
 							data-x="90" 
 							data-y="180"
@@ -118,7 +118,7 @@
 			    </div>
 			    <div class="col-md-8">     
 
-                    <img  class="img-responsive "  style="text-align: center" src="assets/images/font1.png" alt="大镭" />
+                    <img  class="img-responsive "  style="text-align: center" src="assets/images/font1.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                     
 				</div>  <br/><br/> <br/> <br/>    
 			    <div class="col-md-12">
@@ -193,7 +193,7 @@
 								    <strong>加速器</strong> 整机
 								</span>
 							</a>
-							<img class="img-responsive" src="assets/images/dalei/eaccel1.jpg" width="260" height="260" alt="电子直线加速主机">
+							<img class="img-responsive" src="assets/images/dalei/eaccel1.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">
 						</figure>
 						<div class="item-box-desc">
 							<h4 ><strong>电子直线加速主机</strong> </h4>
@@ -213,7 +213,7 @@
 								    <strong>调制器</strong>
 								</span>
 							</a>
-							<img class="img-responsive" src="assets/images/dalei/modulator1.jpg" width="260" height="260" alt="智能高功率脉冲调制器">
+							<img class="img-responsive" src="assets/images/dalei/modulator1.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备智能高功率脉冲调制器">
 						</figure>
 						<div class="item-box-desc">
 							<h4 > <strong >智能高功率脉冲调制器</strong> </h4>
@@ -233,7 +233,7 @@
 								    <strong>加速器循环温度控制机</strong> 
 								</span>
 							</a>
-							<img class="img-responsive" src="assets/images/dalei/tem.jpg" width="260" height="260" alt="加速器循环温度控制机">
+							<img class="img-responsive" src="assets/images/dalei/tem.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备加速器循环温度控制机">
 						</figure>
 						<div class="item-box-desc">
 							<h4 > <strong >加速器循环温度控制机</strong> </h4>
@@ -253,7 +253,7 @@
 								    <strong >电子枪</strong> 
 
 							</a>
-							<img class="img-responsive" src="assets/images/dalei/egun.jpg" width="260" height="260" alt="电子枪">
+							<img class="img-responsive" src="assets/images/dalei/egun.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子枪">
 						</figure>
 						<div class="item-box-desc">
 							<h4 > <strong >电子枪</strong> </h4>
@@ -276,16 +276,16 @@
 
 					<div class="col-md-4 col-sm-6 col-xs-12 margin-top30">
 						<figure>
-							<img class="img-responsive" src="assets/images/dalei/pic-plant.jpg" alt="大镭" />
+							<img class="img-responsive" src="assets/images/dalei/pic-plant.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备辐照中心" />
 						</figure>
 
-						<h4>厂区一角鸟瞰</h4>
+						<h4>辐照中心一角鸟瞰</h4>
 						
 					</div>
 
 					<div class="col-md-4 col-sm-6 col-xs-12 margin-top30">
 						<figure>
-							<img class="img-responsive" src="assets/images/dalei/index.jpg" alt="大镭" />
+							<img class="img-responsive" src="assets/images/dalei/index.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备控制室" />
 						</figure>
 
 						<h4>智能控制系统</h4>
@@ -294,7 +294,7 @@
 
 					<div class="col-md-4 col-sm-6 col-xs-12 margin-top30">
 						<figure>
-							<img class="img-responsive" src="assets/images/dalei/pic-ui.jpg" alt="大镭" />
+							<img class="img-responsive" src="assets/images/dalei/pic-ui.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备人机界面" />
 						</figure>
 
 						<h4>人机交互界面</h4>

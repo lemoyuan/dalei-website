@@ -104,13 +104,13 @@
 						        <div class="row">
 						            <div class="col-md-6 col-sm-6 col-xs-12">
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/electric-vacuum1.jpg" alt="大镭" />
+							                    <img class="img-responsive" src="assets/images/articles/electric-vacuum1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
 					                </div>
 
 					                <div class="col-md-6 col-sm-6 col-xs-12">
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/electric-vacuum2.jpg" alt="大镭" />
+							                    <img class="img-responsive" src="assets/images/articles/electric-vacuum2.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
 					                </div>
 					            </div>

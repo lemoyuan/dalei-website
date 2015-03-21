@@ -79,12 +79,12 @@
 					    <div class="col-md-5 col-sm-6 col-xs-12"><br/><br/><br/><br/>
 						    <div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
 							    <div>
-								    <img alt="智能高功率脉冲调制器<" class="img-responsive" src="assets/images/dalei/modulator1.jpg">
+								    <img alt="直线电子加速器辐照加工应用大镭核技术智能高功率脉冲调制器<" class="img-responsive" src="assets/images/dalei/modulator1.jpg">
 							    </div>
 						    </div><br/><br/><br/>	
 						    <div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
 							    <div>
-								    <img alt="控制系统" class="img-responsive" src="assets/images/dalei/modulator2.jpg">
+								    <img alt="直线电子加速器辐照加工应用大镭核技术调制器控制系统" class="img-responsive" src="assets/images/dalei/modulator2.jpg">
 							    </div>
 						    </div>	
 					    </div>

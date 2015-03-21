@@ -17,7 +17,7 @@
 				<div class="fullwidthbanner">
 					<ul>	
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
-							<img src="assets/images/dummy.png" alt="" data-lazyload="assets/images/dalei/fnal-2.jpg" data-fullwidthcentering="on">
+							<img src="assets/images/dummy.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" data-lazyload="assets/images/dalei/fnal-2.jpg" data-fullwidthcentering="on">
 							<div class="tp-caption medium_text lft"
 							data-x="90" 
 							data-y="180"
@@ -44,7 +44,7 @@
 							</div>
 						</li>
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
-							<img src="assets/images/dummy.png"  alt="" data-lazyload="assets/images/dalei/fnal-3.jpg" data-fullwidthcentering="on">
+							<img src="assets/images/dummy.png"  alt="直线电子加速器辐照加工应用大镭核技术成套设备" data-lazyload="assets/images/dalei/fnal-3.jpg" data-fullwidthcentering="on">
 							<div class="tp-caption medium_text lft"
 							data-x="90" 
 							data-y="180"
@@ -71,7 +71,7 @@
 							</div>
 						</li>
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
-							<img src="assets/images/dummy.png"  alt="" data-lazyload="assets/images/dalei/fnal-1.jpg" data-fullwidthcentering="on">
+							<img src="assets/images/dummy.png"  alt="直线电子加速器辐照加工应用大镭核技术成套设备" data-lazyload="assets/images/dalei/fnal-1.jpg" data-fullwidthcentering="on">
 							<div class="tp-caption medium_text lft"
 							data-x="90" 
 							data-y="180"
@@ -173,34 +173,34 @@
 						<!-- carousel -->
 						<div class="owl-carousel" data-plugin-options='{"items": 4, "singleItem": false, "pagination": false, "autoPlay": 1000, "stopOnHover":true}'>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-11.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-11.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-12.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-12.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-7.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-7.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-9.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-9.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-2.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-2.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-8.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-8.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-1.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-3.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-3.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-4.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-4.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 							<div>
-								<img class="img-responsive" src="assets/images/innovation/inno-5.jpg" alt="大镭">
+								<img class="img-responsive" src="assets/images/innovation/inno-5.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备专利">
 							</div>
 						</div>
 
