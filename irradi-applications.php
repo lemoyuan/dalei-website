@@ -15,11 +15,11 @@
 			<header id="page-title">
                 <div class="container">	
 
-		                <h1>科普</h1>
+		                <h1>辐照应用</h1>
 
 			            <ul class="breadcrumb">
 					       <li><a href="index.php">首页</a></li>
-					       <li><a href="tech-garden.php">技术园地</a></li>
+					       <li><a href="tech-garden.php">辐照应用</a></li>
 				        </ul>
 		        </div>
             </header>
@@ -29,44 +29,21 @@
 
 				<div class="row">
 
-				    <aside class="col-md-3">
+				   <aside class="col-md-2">
 
-				    	<div class="widget">
+					
+						<ul class="nav nav-list">
+							<li><a href=""><i class="fa fa-circle-o"></i> 辐照技术</a></li>
+							<li><a href=""><i class="fa fa-circle-o"></i> 行业标准</a></li>
+							<li><a href=""><i class="fa fa-circle-o"></i> 食品辐照</a></li>
+							<li><a href=""><i class="fa fa-circle-o"></i> 农产品辐照</a></li>
+							<li><a href=""><i class="fa fa-circle-o"></i>医药用品辐照 </a></li>
+							<li><a href=""><i class="fa fa-circle-o"></i> 工业辐照</a></li>
+						</ul>
 
-							<h4><strong>文章搜索</strong></h4>
-
-							<form method="get" action="#" class="input-group">
-								<input type="text" class="form-control" name="k" id="k" value="" placeholder="search..." />
-								<span class="input-group-btn">
-									<button class="btn btn-primary"><i class="fa fa-search"></i></button>
-								</span>
-							</form>
-						</div>
-
-						<div class="widget">
-
-							<h4><strong>首页</strong></h4>
-
-						    <ul class="nav nav-list">
-							    <li><a href="tech-garden.php"><i class="fa fa-circle-o"></i>技术园地</a></li>
-						    </ul>
-						</div>
-
-						<!-- recent posts -->
-						<div class="widget">
-
-							<h4><strong>近期更新</strong></h4>
-                            
-							<ul>
-								<li><a href="article-paper3.php"><i class="fa fa-sign-out"></i>电真空器件的使用与维护 </a> <small></small></li>
-								<li><a href="article-paper2.php"><i class="fa fa-sign-out"></i>工业辐照直线电子加速器技术维护要点与实践 </a> <small> </small></li>
-								<li><a href="article-paper1.php"><i class="fa fa-sign-out"></i>食品与半导体辐照加工等行业对射线设备性能的要求 </a> <small></small></li>
-							</ul>
-
-						</div>
 				    </aside>
 
-                    <div class="col-md-9" style="padding:20px">
+                    <div class="col-md-10" style="padding:20px">
 				    	<div class="col-md-12">
 
 						    <h2><strong>辐照应用</strong></h2>
