@@ -72,7 +72,7 @@
 
 						    <h2><strong>工业辐照直线电子加速器技术维护要点与实践（节选）</strong></h2>
                             <ul>
-						        <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王超其&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陆锐锋</P>
+						        <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭加速器研发中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王超其&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陆锐锋</P>
 						    </ul>
                             <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>

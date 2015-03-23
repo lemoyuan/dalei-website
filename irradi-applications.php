@@ -47,7 +47,7 @@
 				    	<div class="col-md-12">
 
 						    <h2><strong>辐照应用</strong></h2>
-                            <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015年3月14日</P>
+                            <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭加速器研发中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015年3月14日</P>
                             <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
