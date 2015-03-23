@@ -38,7 +38,7 @@
 							<li><a href="application-food.php"><i class="fa fa-circle-o"></i> 食品辐照</a></li>
 							<li><a href=""><i class="fa fa-circle-o"></i> 农产品辐照</a></li>
 							<li><a href=""><i class="fa fa-circle-o"></i>医药用品辐照 </a></li>
-							<li><a href=""><i class="fa fa-circle-o"></i> 工业辐照</a></li>
+							<li><a href="application-industry.php"><i class="fa fa-circle-o"></i> 工业辐照</a></li>
 						</ul>
 
 				    </aside>
