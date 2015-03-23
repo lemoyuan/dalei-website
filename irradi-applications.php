@@ -19,7 +19,7 @@
 
 			            <ul class="breadcrumb">
 					       <li><a href="index.php">首页</a></li>
-					       <li><a href="tech-garden.php">辐照应用</a></li>
+					       <li><a href="irradi-applications.php">辐照应用</a></li>
 				        </ul>
 		        </div>
             </header>
@@ -34,7 +34,7 @@
 					
 						<ul class="nav nav-list">
 							<li><a href=""><i class="fa fa-circle-o"></i> 辐照技术</a></li>
-							<li><a href=""><i class="fa fa-circle-o"></i> 行业标准</a></li>
+							<li><a href="application-standard.php"><i class="fa fa-circle-o"></i> 辐照标准</a></li>
 							<li><a href="application-food.php"><i class="fa fa-circle-o"></i> 食品辐照</a></li>
 							<li><a href="application-agriculture.php"><i class="fa fa-circle-o"></i> 农产品辐照</a></li>
 							<li><a href="application-medical.php"><i class="fa fa-circle-o"></i>医药辐照 </a></li>
@@ -53,7 +53,7 @@
 						    </div>
 					    	
 						    <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器的使用已经深入到国民经济的各个领域,目前使用最多的领域是医院的癌症治疗,其次是工业应用领域的辐照加工,辐照改性和工业探伤,另外射线的无损检查,如海关集装箱检查等也可以归到工业应用领域,直线加速器的应用在以上两个领域已得到了普遍认同和普及。</P>
-						    
+
 						    			       	
 					    </div>
 

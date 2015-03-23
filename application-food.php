@@ -19,7 +19,7 @@
 
 			            <ul class="breadcrumb">
 					       <li><a href="index.php">首页</a></li>
-					       <li><a href="tech-garden.php">辐照应用</a></li>
+					       <li><a href="irradi-applications.php">辐照应用</a></li>
 				        </ul>
 		        </div>
             </header>
@@ -34,7 +34,7 @@
 					
 						<ul class="nav nav-list">
 							<li><a href=""><i class="fa fa-circle-o"></i> 辐照技术</a></li>
-							<li><a href=""><i class="fa fa-circle-o"></i> 行业标准</a></li>
+							<li><a href="application-standard.php"><i class="fa fa-circle-o"></i> 辐照标准</a></li>
 							<li><a href="application-food.php"><i class="fa fa-circle-o"></i> 食品辐照</a></li>
 							<li><a href="application-agriculture.php"><i class="fa fa-circle-o"></i> 农产品辐照</a></li>
 							<li><a href="application-medical.php"><i class="fa fa-circle-o"></i>医药辐照 </a></li>

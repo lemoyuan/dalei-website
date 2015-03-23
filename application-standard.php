@@ -47,18 +47,35 @@
                     <div class="col-md-10" style="padding:20px">
 				    	<div class="col-md-12">
 
-						    <h3><strong>辐照技术在农业领域的应用</strong></h3>
+						    <h3><strong>辐照标准</strong></h3>
                             <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
+                            <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;辐照装置相关标准</strong></h4>
+                            <br/>
 
-						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;农副产品辐照储存时利用核技术开发出来的一种新型的储存保鲜方法。其原理是：利用放射性核素（如钴60）放射出γ射线，或利用电子加速器产出的电子束在一定剂量范围内辐照农产品，杀灭其中害虫，消除其中病原微生物，或抑制农副产品中的某些生物活性或生理过程，从而达到农副产品安全储存或保险之目的。</p>
-				     	    <ul>
-							    <li><P style="color:#bbb">粮食：利用辐照法能有效地抑制粮食中害虫繁殖或彻底杀死害虫，并且辐照处理不宜熏蒸的粮食制品（如面粉）会取得更好的效果。</P></li>
-							    <li><P style="color:#bbb">蔬菜：一些蔬菜的特点是度过休眠期即发芽、消耗营养成分甚至腐烂变质而失去食用价值、采用辐照处理可取得良好的效果.</P></li>
-							    <li><P style="color:#bbb">干鲜果品：苹果、梨、大枣、荔枝、芒果、板栗、核桃、和银杏等通过辐照处理都能取得杀虫灭菌、减少霉烂、延缓后熟良好的效果。</P></li>
-							    <li><P style="color:#bbb">肉类：肉类及其制品的辐照目的主要是：抑制或杀灭腐败性微生物和致病性微生物，延长储存保险期。如新鲜猪肉用隔水、隔氧性能好的食品包装材料真空封装，辐照处理后在常温下储存两个月，其色泽、粘度、弹性、气味等使用品质近似新鲜猪肉。鸡鸭肉、兔肉、牛肉、鱼肉及其制品辐照贮藏技术也得到了应用。</P></li>
+                            <h5><strong>国标</strong></h5>
+                            <ul>
+							    <li><P style="color:#bbb">GB &nbsp;&nbsp;&nbsp;&nbsp;10252-2009 &nbsp;&nbsp;&nbsp;&nbsp;γ射线辐照装置的辐射防护与安全规范</P></li>
+							    <li><P style="color:#bbb">GB &nbsp;&nbsp;&nbsp;&nbsp;17568一2008 &nbsp;&nbsp;&nbsp;&nbsp;γ辐射装置设计建造和使用规范</P></li>
+							    <li><P style="color:#bbb">GB &nbsp;&nbsp;&nbsp;&nbsp;17279-1998  &nbsp;&nbsp;&nbsp;&nbsp;水池贮源型Υ辐照装置设计安全准则 </P></li>
+							    <li><P style="color:#bbb">GB &nbsp;&nbsp;&nbsp;&nbsp;16334-1996 &nbsp;&nbsp;&nbsp;&nbsp;γ辐照装置食品加工实用剂量学导则 </P></li>
 						    </ul>	
+                            <br/>
+
+                            <h5><strong>ISO标准</strong></h5>
+                            <ul><li><P style="color:#bbb">ISO &nbsp;&nbsp;&nbsp;&nbsp;ISO/ASTM &nbsp;&nbsp;&nbsp;&nbsp;51431-2005 &nbsp;&nbsp;&nbsp;&nbsp;食品加工用电子束和X射线(韧致辐射)辐照装置中剂量测定的实施</P></li></ul>	
+                            <br/>
+
+                            <h5><strong>国家职业卫生标准</strong></h5>
+                            <ul><li><P style="color:#bbb">GBZ &nbsp;&nbsp;&nbsp;&nbsp;141-2002 &nbsp;&nbsp;&nbsp;&nbsp;γ射线和电子束辐照装置防护检测规范</P></li></ul>	
+                            <br/>
+
+                            <h5><strong>国家推荐标准</strong></h5>
+                            <ul><li><P style="color:#bbb">DB32/T &nbsp;&nbsp;&nbsp;&nbsp;2281-2012 &nbsp;&nbsp;&nbsp;&nbsp;农用辐照装置剂量监测规范 </P></li></ul>	
+                            <br/>
+
+                            </div>
                         </div>
 
 				    </div>
