@@ -52,28 +52,28 @@
 							    <i class="fa fa-star"></i>
 						    </div>
                             <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;辐照装置相关标准</strong></h4>
-                            <br/>
 
-                            <h5><strong>国标</strong></h5>
                             <ul>
+                            	<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国标</strong></h5>
 							    <li><P style="color:#bbb">GB &nbsp;&nbsp;&nbsp;&nbsp;10252-2009 &nbsp;&nbsp;&nbsp;&nbsp;γ射线辐照装置的辐射防护与安全规范</P></li>
 							    <li><P style="color:#bbb">GB &nbsp;&nbsp;&nbsp;&nbsp;17568一2008 &nbsp;&nbsp;&nbsp;&nbsp;γ辐射装置设计建造和使用规范</P></li>
 							    <li><P style="color:#bbb">GB &nbsp;&nbsp;&nbsp;&nbsp;17279-1998  &nbsp;&nbsp;&nbsp;&nbsp;水池贮源型Υ辐照装置设计安全准则 </P></li>
 							    <li><P style="color:#bbb">GB &nbsp;&nbsp;&nbsp;&nbsp;16334-1996 &nbsp;&nbsp;&nbsp;&nbsp;γ辐照装置食品加工实用剂量学导则 </P></li>
 						    </ul>	
-                            <br/>
+                            
+                            <ul>
+                            	<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISO标准</strong></h5>
+                            	<li><P style="color:#bbb">ISO &nbsp;&nbsp;&nbsp;&nbsp;ISO/ASTM &nbsp;&nbsp;&nbsp;&nbsp;51431-2005 &nbsp;&nbsp;&nbsp;&nbsp;食品加工用电子束和X射线(韧致辐射)辐照装置中剂量测定的实施</P></li>
+                            </ul>	
 
-                            <h5><strong>ISO标准</strong></h5>
-                            <ul><li><P style="color:#bbb">ISO &nbsp;&nbsp;&nbsp;&nbsp;ISO/ASTM &nbsp;&nbsp;&nbsp;&nbsp;51431-2005 &nbsp;&nbsp;&nbsp;&nbsp;食品加工用电子束和X射线(韧致辐射)辐照装置中剂量测定的实施</P></li></ul>	
-                            <br/>
+                            <ul>
+                            	<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家职业卫生标准</strong></h5>
+                            	<li><P style="color:#bbb">GBZ &nbsp;&nbsp;&nbsp;&nbsp;141-2002 &nbsp;&nbsp;&nbsp;&nbsp;γ射线和电子束辐照装置防护检测规范</P></li>
+                            </ul>	
 
-                            <h5><strong>国家职业卫生标准</strong></h5>
-                            <ul><li><P style="color:#bbb">GBZ &nbsp;&nbsp;&nbsp;&nbsp;141-2002 &nbsp;&nbsp;&nbsp;&nbsp;γ射线和电子束辐照装置防护检测规范</P></li></ul>	
-                            <br/>
-
-                            <h5><strong>国家推荐标准</strong></h5>
-                            <ul><li><P style="color:#bbb">DB32/T &nbsp;&nbsp;&nbsp;&nbsp;2281-2012 &nbsp;&nbsp;&nbsp;&nbsp;农用辐照装置剂量监测规范 </P></li></ul>	
-                            <br/>
+                            <ul><h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家推荐标准</strong></h5>
+                            	<li><P style="color:#bbb">DB32/T &nbsp;&nbsp;&nbsp;&nbsp;2281-2012 &nbsp;&nbsp;&nbsp;&nbsp;农用辐照装置剂量监测规范 </P></li>
+                            </ul>	
 
                             </div>
                         </div>
