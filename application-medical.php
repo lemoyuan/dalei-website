@@ -39,7 +39,7 @@
 							<li><a href="application-agriculture.php"><i class="fa fa-circle-o"></i> 农产品辐照</a></li>
 							<li><a href="application-medical.php"><i class="fa fa-circle-o"></i>医药辐照 </a></li>
 							<li><a href="application-industry.php"><i class="fa fa-circle-o"></i> 工业辐照</a></li>
-							<li><a href=""><i class="fa fa-circle-o"></i> 日用品辐照</a></li>	
+							<li><a href=""><i class="fa fa-circle-o"></i> 日用品辐照</a></li>							
 						</ul>
 
 				    </aside>
@@ -47,15 +47,19 @@
                     <div class="col-md-10" style="padding:20px">
 				    	<div class="col-md-12">
 
-						    <h2><strong>辐照应用</strong></h2>
+						    <h3><strong>辐照技术在医药领域的应用</strong></h3>
                             <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
-					    	
-						    <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器的使用已经深入到国民经济的各个领域,目前使用最多的领域是医院的癌症治疗,其次是工业应用领域的辐照加工,辐照改性和工业探伤,另外射线的无损检查,如海关集装箱检查等也可以归到工业应用领域,直线加速器的应用在以上两个领域已得到了普遍认同和普及。</P>
-						    
-						    			       	
-					    </div>
+                            <ul>
+				     	     	<div class="col-md-8 col-sm-6 col-xs-12 margin-top30">
+							        <li><P style="color:#bbb">我国药典附录XⅦ：灭菌法，第四条辐照灭菌法规定：。。。。。不受辐射破坏的药品均可应用.</P></li>
+							        <li><P style="color:#bbb">卫生部于1997年5月21日发出“关于发布《钴60辐照中成药灭菌剂量标准》的通知，第5.1条规定中药辐照灭菌的最大吸收量：散剂、片剂为3kGy;丸剂为5kGy；中药原料6kGy；”。</P></li>
+						        </div>
+
+						    </ul>	
+                           
+                        </div>
 
 				    </div>
 						
@@ -67,12 +71,8 @@
 		</div>
 		<!-- /WRAPPER -->
 
-
     <?php require('footer.html');?>
     <?php require('script.html');?>
-
-
-
 		
 	</body>
 </html>
