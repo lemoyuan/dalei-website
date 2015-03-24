@@ -51,6 +51,8 @@
                             <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
+
+						    <h4><strong>中草药</strong></h4>
                             <ul>
 				     	     	<div class="col-md-8 col-sm-6 col-xs-12 margin-top30">
 							        <li><P style="color:#bbb">我国药典附录XⅦ：灭菌法，第四条辐照灭菌法规定：。。。。。不受辐射破坏的药品均可应用.</P></li>
@@ -59,6 +61,9 @@
 
 						    </ul>	
                            
+                            <h4><strong>医疗用品</strong></h4>
+
+                            
                         </div>
 
 				    </div>

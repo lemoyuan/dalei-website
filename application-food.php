@@ -51,7 +51,7 @@
                 <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
-						    
+
 						    <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器在食品领域的使用情况简表</strong></h4>
 
 						    <div class="col-md-12"><br/>
@@ -67,11 +67,6 @@
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>畜禽肉类及其制品,如冷冻肉类、火腿肠、罐头、熟食；水产品类：鱼、虾、蟹、贝类等；方便食品、饮料等；豆制品；中药材等 </span></td>
                               </tr>
                               <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>2</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>杀虫、防霉（尤其是杀灭黄曲霉素） </span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>粮食、饲料等</span></td>
-                              </tr>
-                              <tr>
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>3</span></td>
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>杀虫、灭菌、保鲜</span></td>
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>新鲜水果、干果等；调味品</span></td>
@@ -81,12 +76,6 @@
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>改善品质</span></td>
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>牛肉等经过辐照纤维变细，口感变嫩；酒类辐照后，口感更醇，达到多年陈酿的效果</span></td>
                               </tr>
-                              <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>5</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>抑制发芽 </span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>大蒜、洋葱、土豆、生姜等</span></td>
-                              </tr>
-
                               <tr>
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>6</span></td>
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>储存保鲜</span></td>
@@ -101,21 +90,6 @@
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>8</span></td>
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>毒素降解</span></td>
                                   <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>畜禽肉、水产品等的毒素,如所含氯霉素降解等</span></td>
-                              </tr>
-                              <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>9</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>进出口要求的其它消毒、灭菌</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>宠物食品、饲料、儿童玩具等</span></td>
-                              </tr>
-                              <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>11</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>消毒灭菌</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>医疗器械和卫生材料,如胃镜导管、一次性医疗用品、手术包、手术服、带入无菌室的用品等。</span></td>
-                              </tr>
-                              <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>12</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>废弃物安全消毒</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>各种含有病菌的废弃物的消毒,如爱滋、非碘等传染病人使用过的医疗、生活废弃物。</span></td>
                               </tr>
                         </table> 
                      </div>		
