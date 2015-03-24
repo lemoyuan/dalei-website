@@ -44,7 +44,7 @@
 
 				    </aside>
 
-                    <div class="col-md-10" style="padding:20px">
+            <div class="col-md-10" style="padding:20px">
 				    	<div class="col-md-12">
 
 						    <h3><strong>辐照技术在食品领域的应用</strong></h3>
