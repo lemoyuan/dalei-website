@@ -51,17 +51,21 @@
                             <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
-
-						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是利用射线与物质间的作用，电离和激发产生的活化原子与活化分子，使之与物质发生一系列物理、化学、与生物化学变化，导致物质的降解、聚合、交联、并发生改性。</p>
-						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前使用的辐射源装置主要有：</p>
+						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐射加工技术，是民用非动力核技术的一种，属于原子能的和平利用，即核能和射线技术的应用。</p>
+						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;原理：将电子加速器（0.2MeV~10MeV）产生的电子射线（β射线）或放射性同位素（Cs-137或Co-60）产生的γ射线的能量转移给被辐照物质，电离辐射作用到被辐照的物质上，产生电离和激发，释放出轨道电子，形成自由基，通过控制辐射条件，而使被辐照物质的物理性能和化学组成发生变化并能使其成为人们所需要的一种新的物质，或使生物体（微生物等）受到不可恢复的损失和破坏，达到人们所需要的目标。</p>
+						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前使用的射线源装置主要有：</p>
 				     	    <ul>
 				     	    	<li><P style="color:#bbb">微波电子直线加速器</P></li>
+				     	    	<li><P style="color:#bbb">钴60辐照装置</P></li>
 							    <li><P style="color:#bbb">静电加速器（范得格拉夫电子加速器）</P></li>
 							    <li><P style="color:#bbb">高频高压加速器（地那米加速器）</P></li>
 							    <li><P style="color:#bbb">绝缘磁芯变压器</P></li>
 							    <li><P style="color:#bbb">高压倍加器</P></li>
 							    <li><P style="color:#bbb">脉冲电子加速器</P></li>
 						    </ul>	
+						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;钴60装置、高压型加速器、电子直线加速器比较：</p>
+
+						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐射防护：</p>
                         </div>
 
 				    </div>
