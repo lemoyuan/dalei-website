@@ -66,6 +66,20 @@
 
                 </ul>
 
+                <div class="toogle">
+
+                  <div class="toggle active">
+                    <label>食品辐照保存机理：</label>
+                    <div class="toggle-content">
+                      <ul>
+                          <li><P style="color:#bbb">利用高能射线的电离能力和强大的穿透能力，引起生物体内部分子和原子的激发和电离，从而扰乱了生物体正常的新陈代谢，抑制了生命和酶的活动.</P></li>
+                          <li><P style="color:#bbb">辐射处理可以杀灭食品中的微生物和昆虫，而对食品本身的营养价值并无明显的影响。 </P></li>
+                      </ul>
+                    </div>
+                  </div>
+
+                </div>
+
                 <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生物学效应:</p>
                 <ul>
                   <li><P style="color:#bbb">使细胞分子产生辐射诱变，干扰微生物代谢，特别是其中脱氧核糖核酸的合成受影响。</P></li>
