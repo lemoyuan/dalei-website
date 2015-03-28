@@ -54,7 +54,7 @@
 
 						    <h4><strong>中草药</strong></h4>
                             <ul>
-				     	     	<div class="col-md-8 col-sm-6 col-xs-12 margin-top30">
+				     	     	<div class="col-md-12 col-sm-12 col-xs-12 margin-top30">
 							        <li><P style="color:#bbb">我国药典附录XⅦ：灭菌法，第四条辐照灭菌法规定：。。。。。不受辐射破坏的药品均可应用.</P></li>
 							        <li><P style="color:#bbb">卫生部于1997年5月21日发出“关于发布《钴60辐照中成药灭菌剂量标准》的通知，第5.1条规定中药辐照灭菌的最大吸收量：散剂、片剂为3kGy;丸剂为5kGy；中药原料6kGy；”。</P></li>
 						        </div>
