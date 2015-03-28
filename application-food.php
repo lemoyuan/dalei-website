@@ -35,7 +35,12 @@
 						<ul class="nav nav-list">
 							<li><a href="application-technology.php"><i class="fa fa-circle-o"></i> 辐照技术</a></li>
               <li><a href="application-standard.php"><i class="fa fa-circle-o"></i> 辐照标准</a></li>
-              <li><a href="application-food.php"><i class="fa fa-circle-o"></i> 食品辐照</a></li>
+              <li><a href="application-food.php"><i class="fa fa-circle-o"></i> 食品辐照</a>
+                  <ul class="dropdown-menu">
+                      <li><a href="index.php"><i class="fa fa-home"></i> &nbsp;&nbsp;&nbsp;大镭首页</a></li>
+                      <li><a href="innovation.php"><i class="fa fa-lightbulb-o"></i>&nbsp;&nbsp;&nbsp; &nbsp;技术创新</a></li> 
+                  </ul>
+              </li>
               <li><a href="application-industry.php"><i class="fa fa-circle-o"></i> 工业辐照</a></li>
               <li><a href="application-medical.php"><i class="fa fa-circle-o"></i> 医药辐照 </a></li>
               <li><a href="application-agriculture.php"><i class="fa fa-circle-o"></i> 农产品辐照</a></li>
