@@ -38,7 +38,7 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4 style="color:#36a0da">浙江大镭核技术应用设备有限公司实用新型专利——“一种工业辐照电子直线加速器”获得国家授权</h4>
+								<h4 style="color:#36a0da">浙江大镭核技术应用设备有限公司实用新型专利获得国家授权</h4>
 									
 
 								<!-- image -->
@@ -65,7 +65,7 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4 style="color:#36a0da">浙江大镭核技术应用设备有限公司实用新型专利——“电子加速器的综合温控机组”获得国家授权</a></h4>
+								<h4 style="color:#36a0da">浙江大镭核技术应用设备有限公司实用新型专利获得国家授权</a></h4>
 
                                 <!-- image -->
 								<figure>
