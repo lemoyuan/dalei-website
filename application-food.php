@@ -52,6 +52,50 @@
 							    <i class="fa fa-star"></i>
 						    </div>
 
+                <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器在食品领域的应用情况简表</strong></h4>
+
+                <div class="col-md-12"><br/>
+                    <table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
+                          <tr>
+                            <th width="" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>序号</span></th>
+                            <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>辐照目的</span></th>
+                            <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>辐照物品</span></th>
+                          </tr>
+                          <tr>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>1</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>杀虫灭菌(杀灭沙门氏菌、弓形浆虫卵、O157病毒、疯牛病、禽流感等)</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>畜禽肉类及其制品,如冷冻肉类、火腿肠、罐头、熟食；水产品类：鱼、虾、蟹、贝类等；方便食品、饮料等；豆制品；中药材等 </span></td>
+                          </tr>
+                          <tr>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>3</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>杀虫、灭菌、保鲜</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>新鲜水果、干果等；调味品</span></td>
+                          </tr>
+                          <tr>
+                            <td width="" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>4</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>改善品质</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>牛肉等经过辐照纤维变细，口感变嫩；酒类辐照后，口感更醇，达到多年陈酿的效果</span></td>
+                          </tr>
+                          <tr>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>6</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>储存保鲜</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>延长新鲜水果、蔬菜保鲜期和上货架期,如苹果、荔枝、花菜等</span></td>
+                          </tr>
+                          <tr>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>7</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>推迟后熟</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>番茄、蘑菇、冬笋等</span></td>
+                          </tr>
+                          <tr>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>8</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>毒素降解</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>畜禽肉、水产品等的毒素,如所含氯霉素降解等</span></td>
+                          </tr>
+                      </table> 
+                </div>    
+
+                </br>
+                
                 <div class="toogle">
                   <div class="toggle">
                     <label>食品辐照保存机理</label>
@@ -108,16 +152,21 @@
                             
                 <div class="toogle">
                   <div class="toggle">
-                    <label>辐射对食品成分的影响</label>
+                    <label>辐照对食品成分的影响</label>
                     <div class="toggle-content">
-                      <label>辐射对蛋白质与氨基酸的影响</label>
+                      <label>辐照对蛋白质与氨基酸的影响</label>
                       <ul>
                           <li><P style="color:#bbb">蛋白质：结构破坏、辐射交联、辐射降解</P></li>
                           <li><P style="color:#bbb">氨基酸经辐射发生脱氨基、氧化和脱羧反应；</P></li>
                           <li><P style="color:#bbb">导致蛋白质分子变性，发生凝聚、粘度下降和溶解度降低等变化。</P></li>
                       </ul> 
 
-                      <label>辐射对糖类的影响</label>
+                      <label>辐照对维生素的影响</label>
+                      <ul>
+                          <li><P style="color:#bbb">水溶性维生素、脂溶性维生素对辐照均很敏感。其损失率随着辐射剂量的增大而增大。 </P></li>
+                      </ul> 
+
+                      <label>辐照对糖类的影响</label>
                       <ul>
                           <li><P style="color:#bbb">一般来说，碳水化合物对辐照处理是相当稳定的，只有在大剂量辐照处理下，才引起氧化和分解。</P></li>
                           <li><P style="color:#bbb">在辐射过程中发生的变化主要是降解作用和辐解产物的形成。</P></li>
@@ -125,19 +174,13 @@
                           <li><P style="color:#bbb">对果蔬方面的研究，辐照的大蒜，其糖的浓度未受影响；辐照的洋葱经贮藏后，糖的浓度与对照无差别。用1.5kGy辐照苹果和苹果制品，其糖的浓度也没有变化。</P></li>
                       </ul> 
 
-                      <label>辐射对脂类的影响</label>
+                      <label>辐照对脂类的影响</label>
                       <ul>
                           <li><P style="color:#bbb">辐照对脂肪的变化，取决于脂肪的类型、剂量、温度和氧化速度以及环境条件诸因素。但其主要作用是使脂肪酸长链中的C—C键发生断裂，因而形成链烷，继发反应可生成通常的链烯。</P></li>
                           <li><P style="color:#bbb">脂肪酸长链中C-C键断裂；</P></li>
                           <li><P style="color:#bbb">受辐射感应而发生自动氧化（不饱和脂肪酸）；</P></li>
                           <li><P style="color:#bbb">发生非自动氧化性的辐射分解。</P></li>
                       </ul> 
-
-                      <label>辐射对脂类的影响</label>
-                      <ul>
-                          <li><P style="color:#bbb">水溶性维生素、脂溶性维生素对辐照均很敏感。其损失率随着辐射剂量的增大而增大。 </P></li>
-                      </ul> 
-
                     </div>
                   </div>
                 </div>
@@ -146,17 +189,17 @@
 
                 <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;食品辐照的安全性</strong></h4>
                 <ul>
-                    <li><P style="color:#bbb">放射性物质残留：食品在进行辐照时是外照射，没有直接接触放射性核素，因此，不会污染放射性物质，这与核爆炸和核源泄漏事故截然不同，故不存在残留问题。</P></li>
                     <li><P style="color:#bbb">毒性物质生成：未确证会产生有毒、致癌、和致畸物质。</P></li>
                     <li><P style="color:#bbb">微生物类变异：不会增加细菌、酵母菌和病毒的致病性。</P></li>
                     <li><P style="color:#bbb">营养物质破坏：低剂量辐射的营养损失微不足道。</P></li>
+                    <li><P style="color:#bbb">放射性物质残留：食品在进行辐照时是外照射，没有直接接触放射性核素，因此，不会污染放射性物质，这与核爆炸和核源泄漏事故截然不同，故不存在残留问题。</P></li>
                     <li><P style="color:#bbb">放射性污染：由电离辐射使食品中某些元素变成放射性元素。食品辐照的能量都低于在食品中可能诱导放射性的能量阈值，所以不会产生诱导放射性核素及其化合物。
                         </P>
                         <label>允许食品辐射的最大能量水平</label>
                         <ul>
-                            <li><P style="color:#bbb">电子射线：10 MeV</P></li>
                             <li><P style="color:#bbb">γ射线：5 MeV</P></li>
                             <li><P style="color:#bbb">x射线：5 MeV</P></li>
+                            <li><P style="color:#bbb">电子射线：10 MeV</P></li>
                         </ul> 
                     </li>
                 </ul> 
@@ -169,7 +212,7 @@
                     <li><P style="color:#bbb">辐照处理是“冷加工”，可保持食品原有的鲜度和风味，有的甚至可提高食品的工艺质量；</P></li>
                     <li><P style="color:#bbb">辐照食品无残留物，无“三废”产生，不污染环境，可提高食品卫生质量并有利于环保；</P></li>
                     <li><P style="color:#bbb">节省能源，电子直线加速器运行过程中只需消耗电能，与热处理、干燥和冷冻保藏食品法相比，能耗降低几倍到十几倍；</P></li>
-                    <li><P style="color:#bbb">可对包装、捆扎好的食品进行杀菌处理，消除了在食品生产和制备过程中可能出现的严重交叉污染问题；</P></li>
+                    <li><P style="color:#bbb">可对带包装的食品进行杀菌处理，消除了在食品生产和制备过程中可能出现的严重交叉污染问题；</P></li>
                     <li><P style="color:#bbb">杀菌效果好，并可通过调整辐照剂量达到对各类食品杀菌的要求；</P></li>
                     <li><P style="color:#bbb">大镭生产的电子直线加速器能量高，辐照灭菌速度快，设备智能化程度高，操作简便，配套《辐照加工工艺管理软件》，实现工艺自动调整，加工过程易控制，可连续长时间加工，经济、省力，适于大规模加工。</P></li>
                 </ul> 
@@ -184,50 +227,7 @@
                     <li>水果<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导致水果腐败的微生物大多是霉菌，通常辐射处理是为了抑制霉菌的生长。</P></li>
                     <li>蔬菜<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蔬菜类辐射处理的主要是为了抑制发芽和延缓新陈代谢作用。对脱水蔬菜采用6～10kGy剂量范围的γ射线，不仅可以有效杀灭脱水蔬菜中的微生物，还可以使贮藏保鲜效果达1年以上，而且经生物学检验、营养成分分析和吸收剂量测定，各项指标均符合标准。</P></li>
                     <li>谷物及其制品<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;谷物及其制品的辐照处理应以控制虫害及霉菌的繁殖为主。针对昆虫处理所需的剂量范围按立即致死、几天内死去和不育要求分别为3～5kGy、1kGy和0.1～0 .2kGy。而控制谷类中霉菌所需的剂量范围约在2～4kGy之间。</P></li>
-                </ul> 
-
-						    <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器在食品领域的使用情况简表</strong></h4>
-
-						    <div class="col-md-12"><br/>
-				                <table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
-				                   	  <tr>
-				          		          <th width="" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>序号</span></th>
-                                <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>辐照目的</span></th>
-                                <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>辐照物品</span></th>
-                              </tr>
-			                        <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>1</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>杀虫灭菌(杀灭沙门氏菌、弓形浆虫卵、O157病毒、疯牛病、禽流感等)</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>畜禽肉类及其制品,如冷冻肉类、火腿肠、罐头、熟食；水产品类：鱼、虾、蟹、贝类等；方便食品、饮料等；豆制品；中药材等 </span></td>
-                              </tr>
-                              <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>3</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>杀虫、灭菌、保鲜</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>新鲜水果、干果等；调味品</span></td>
-                              </tr>
-                              <tr>
-                                  <td width="" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>4</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>改善品质</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>牛肉等经过辐照纤维变细，口感变嫩；酒类辐照后，口感更醇，达到多年陈酿的效果</span></td>
-                              </tr>
-                              <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>6</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>储存保鲜</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>延长新鲜水果、蔬菜保鲜期和上货架期,如苹果、荔枝、花菜等</span></td>
-                              </tr>
-                              <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>7</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>推迟后熟</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>番茄、蘑菇、冬笋等</span></td>
-                              </tr>
-                              <tr>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>8</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>毒素降解</span></td>
-                                  <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>畜禽肉、水产品等的毒素,如所含氯霉素降解等</span></td>
-                              </tr>
-                        </table> 
-                     </div>		
-			              
+                </ul>   
 					    </div>
 
 				    </div>
