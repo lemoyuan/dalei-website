@@ -37,7 +37,7 @@
               <li><a href="application-standard.php"><i class="fa fa-circle-o"></i> 辐照标准</a></li>
               <li><a href="application-food.php"><i class="fa fa-circle-o"></i> 食品辐照</a></li>
               <li><a href="application-industry.php"><i class="fa fa-circle-o"></i> 工业辐照</a></li>
-              <li><a href="application-medical.php"><i class="fa fa-circle-o"></i> 医药辐照 </a></li>
+              <li><a href="application-medical.php"><i class="fa fa-circle-o"></i> 医疗保健产品 </a></li>
               <li><a href="application-agriculture.php"><i class="fa fa-circle-o"></i> 农产品辐照</a></li>
               <li><a href=""><i class="fa fa-circle-o"></i> 日用品辐照</a></li>  
 						</ul>
@@ -228,6 +228,11 @@
                     <li>蔬菜<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蔬菜类辐射处理的主要是为了抑制发芽和延缓新陈代谢作用。对脱水蔬菜采用6～10kGy剂量范围的γ射线，不仅可以有效杀灭脱水蔬菜中的微生物，还可以使贮藏保鲜效果达1年以上，而且经生物学检验、营养成分分析和吸收剂量测定，各项指标均符合标准。</P></li>
                     <li>谷物及其制品<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;谷物及其制品的辐照处理应以控制虫害及霉菌的繁殖为主。针对昆虫处理所需的剂量范围按立即致死、几天内死去和不育要求分别为3～5kGy、1kGy和0.1～0 .2kGy。而控制谷类中霉菌所需的剂量范围约在2～4kGy之间。</P></li>
                 </ul>   
+
+                <div class="alert alert-info">
+                    <h4>参考文献</h4>
+                    <p style="color:#bbb">《食品辐照保藏知识》</p>
+                </div>
 					    </div>
 
 				    </div>
