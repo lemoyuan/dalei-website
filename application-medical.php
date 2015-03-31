@@ -48,12 +48,12 @@
 				    	<div class="col-md-12">
 
 						    <h3><strong>辐照技术在医疗保健产品领域的应用</strong></h3>
-                            <div class="divider half-margins"><!-- divider -->
+                <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
 
                             <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;什么是医疗保健产品？</strong></h5>
-                            <P style="color:#bbb">医疗保健产品是指<span>医用器械</span>、<span>医药产品（药品和生物制品）</span>及<span>体外诊断用品</span>。医用器械是指用于人体治疗、诊断等用品，设备、工具、器械、移植敷料或其他类似物品。</P>
+                            <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;医疗保健产品是指<label>医用器械</label>、<label>医药产品（药品和生物制品）</label>及<label>体外诊断用品</label>。医用器械是指用于人体治疗、诊断等用品，设备、工具、器械、移植敷料或其他类似物品。</P>
                             </br>
 
                             <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;辐照灭菌消毒原理</strong></h5>
@@ -106,11 +106,11 @@
                               <li>一次性使用的高分子医疗用品<P style="color:#bbb">一次性使用的高分子医疗用品非常多，如注射器、手术器械、手套、采血与输血器具、吸入治疗装置、绷带、胶布、药棉、罩衣、帽子等；手术缝合线、体内插入物（如心脏瓣膜）等。</P></li>
                               <li>药品包装材料<P style="color:#bbb">药品包装材料主要有药品包装塑料制品、药品包装用复合膜、药品包装用PTP铝箔、疫苗包装瓶和抗生素铝塑组合盖等，国家食品药品监督管理总局已明令眼药水的包装瓶要达到无菌级，所以辐射灭菌在药品包装材料领域有巨大的市场前景。</P></li>
                             </ul>
-                            
+                </br>                           
                             <div class="alert alert-info" style="background-color:#05173b">
                             	<h4>参考文献</h4>
-                            	<p>李计萍. γ射线辐照灭菌法在中药及其制剂中应用现状和相关问题讨论. [J]中国中药杂志. 2007. 10</p>
-                            	<p>朱南康. 王传桢. 医疗保健品和食品的辐射加工. 北京. 中国原子能出版社. 2013. 10</p>
+                            	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李计萍. γ射线辐照灭菌法在中药及其制剂中应用现状和相关问题讨论. [J]中国中药杂志. 2007. 10</p>
+                            	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;朱南康. 王传桢. 医疗保健品和食品的辐射加工. 北京. 中国原子能出版社. 2013. 10</p>
                             </div>
 
                         </div>

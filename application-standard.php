@@ -156,6 +156,20 @@
 
 						        <div class="col-md-1"></div>
 						    </div>
+
+                            <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;医疗保健产品辐射灭菌标准</strong></h4>
+                            <div class="row">
+                            	<div class="col-md-1"></div>
+                            	<div class="col-md-10">
+                                	<ul>
+							        	<li><P style="color:#bbb">ISO&nbsp;&nbsp;&nbsp;11137:1995&nbsp;&nbsp;&nbsp;医疗保健产品辐射灭菌的国际标准</P></li>
+						        	</ul>
+						        </div>
+
+						        <div class="col-md-1"></div>
+						    </div>
+
+
                         </div>
 
 				    </div>
