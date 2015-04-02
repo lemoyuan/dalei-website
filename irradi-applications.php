@@ -53,12 +53,19 @@
 						    </div>
 					    	
 						    <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器的使用已经深入到国民经济的各个领域,目前使用最多的领域是医院的癌症治疗,其次是工业应用领域的辐照加工,辐照改性和工业探伤,另外射线的无损检查,如海关集装箱检查等也可以归到工业应用领域,直线加速器的应用在以上两个领域已得到了普遍认同和普及。</P>
-                            <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照应用简表</strong></h4>
+               
+                <div class="row">
+                    <div class="col-md-1">
+                    <div>
+                    <div class="col-md-10">
+                        <figure>
+                        <img class="img-responsive" src="assets/images/dalei/application.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备应用"/>
+                        </figure>
+                    <div>
+                <div>
+                <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照应用简表</strong></h4>
 
 						    <div class="col-md-12"><br/>
-                    <figure>
-                           <img class="img-responsive" src="assets/images/dalei/application.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备应用"/>
-                    </figure>
 
 				                <table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
 				                   	<tr>
