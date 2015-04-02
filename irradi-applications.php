@@ -56,6 +56,10 @@
                             <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照应用简表</strong></h4>
 
 						    <div class="col-md-12"><br/>
+                    <figure>
+                           <img class="img-responsive" src="assets/images/dalei/application.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备应用"/>
+                    </figure>
+
 				                <table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
 				                   	<tr>
 				          		        <th width="" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>序号</span></th>
