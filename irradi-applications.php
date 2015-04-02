@@ -56,12 +56,14 @@
                
                 <div class="row">
                     <div class="col-md-1">
-                    <div>
+                    </div>
                     <div class="col-md-10">
                         <figure>
-                        <img class="img-responsive" src="assets/images/dalei/application.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备应用"/>
+                            <img class="img-responsive" src="assets/images/dalei/application.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备应用"/>
                         </figure>
-                    <div>
+                    </div>
+                    <div class="col-md-1">
+                    </div>
                 <div>
                 <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照应用简表</strong></h4>
 
