@@ -61,10 +61,12 @@
 						    </ul>	
 
 						    </br>
+                         <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;大镭电子直线加速器优势</strong></h4>
+                         </br>
 
-                            <li><P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;针对电子直线加速器结构复杂、故障率高、维护难的特点，大镭投入了大量的人力物力，目前已取得了重要突破。主要成果如下：</P>
+                         <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;针对电子直线加速器结构复杂、故障率高、维护难的特点，大镭投入了大量的人力和物力。在丰富的设备应用经验和较强的团队研发能力的基础上，目前已取得了重要突破。</P>
                             <ul>
-                              <li><P style="color:#bbb"><strong>采用全新的智能化控制系统取代传统的硬件开关、按钮控制，优于市场上任意一款同类产品。</strong></P></li>
+                              <li><P><strong>采用全新的智能化控制系统取代传统的硬件开关、按钮控制，优于市场上任意一款同类产品。</strong></P></li>
                               <li><P style="color:#bbb">智能化的故障预测与检测系统，能及时提示设备的故障源，省去故障查找过程，极大的缩短了由故障率高而导致的停机时间。</P></li>
                               <li><P style="color:#bbb">傻瓜式的控制流程，有效地解决客户开关机逻辑复杂的难题。</P></li>
                               <li><P style="color:#bbb">采用远程终端，使设备不再受时间和地域限制，随时随地查看设备运行情况。</P></li>
@@ -72,14 +74,15 @@
                               <li><P style="color:#bbb">基于远程终端开发了多样性应用，既有控制系统，更有辐照工艺管理系统，使得整个设备和工艺流程融为一体，使设备自动化程度上了一个新的台阶。</P></li>
                             </ul>
                           
-                        </li>
+                        </br>
 
-                        <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器、钴60射线源装置比较：</p>
+                        <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器、钴60射线源装置比较：</strong></h4>
+                        
 
-						<div class="col-md-12"><br/>
+			<div class="col-md-12">
                         <table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
                           <tr>
-                            <th width="" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>比较因素</span></th>
+                            <th width="100" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>比较因素</span></th>
                             <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>电子直线加速器</span></th>
                             <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>钴60射线源装置</span></th>
                           </tr>
