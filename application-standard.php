@@ -52,12 +52,13 @@
 							    <i class="fa fa-star"></i>
 						    </div>
 
-                            <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;辐照装置相关标准</strong></h4>
-                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国标</strong></h5>
+                            <h4 style="color:#87cefa"><strong>辐照装置相关标准</strong></h4>
+                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国标</strong></h5>
                             <div class="row">
-                            	<div class="col-md-1"></div>
+                           
+                                 <div class="col-md-1"></div>
 
-					       	    <div class="col-md-10">
+					       	    <div class="col-md-6">
                                 	<ul>	
 							        	<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;10252-2009&nbsp;&nbsp;&nbsp;γ射线辐照装置的辐射防护与安全规范</P></li>
 							        	<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;17568一2008&nbsp;&nbsp;&nbsp;γ辐射装置设计建造和使用规范</P></li>
@@ -65,10 +66,10 @@
 							       	 	<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;16334-1996&nbsp;&nbsp;&nbsp;γ辐照装置食品加工实用剂量学导则 </P></li>
 						        	</ul>	
                              	</div>
-						        <div class="col-md-1"></div>
+						        <div class="col-md-3"><img class="img-responsive" src="assets/images/applications/gb.jpg" alt=""/></div>
                             </div>
 
-                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISO标准</strong></h5>
+                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISO标准</strong></h5>
                             <div class="row">
                             	<div class="col-md-1"></div>
 					       	    <div class="col-md-10">
@@ -79,7 +80,7 @@
 						        <div class="col-md-1"></div>
                             </div>
 
-                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家职业卫生标准</strong></h5>
+                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家职业卫生标准</strong></h5>
                             <div class="row">
                             	<div class="col-md-1"></div>
 					       	    <div class="col-md-10">
@@ -90,7 +91,7 @@
 						        <div class="col-md-1"></div>
                             </div>
 
-                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家推荐标准</strong></h5>
+                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家推荐标准</strong></h5>
                             <div class="row">
                             	<div class="col-md-1"></div>
 					       	    <div class="col-md-10">
@@ -102,8 +103,8 @@
                             </div>
                             </br>
 
-                            <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;食品辐照标准</strong></h4>
-                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;卫生标准</strong></h5>
+                            <h4 style="color:#87cefa"><strong>食品辐照标准</strong></h4>
+                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;卫生标准</strong></h5>
                             <div class="row">
                             	<div class="col-md-1"></div>
 					       	    <div class="col-md-5">
@@ -112,20 +113,22 @@
 							        	<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;14891.6-1994&nbsp;&nbsp;&nbsp;辐照猪肉卫生标准</P></li>
 							        	<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;14891.1-1997&nbsp;&nbsp;&nbsp;辐照熟畜禽肉类卫生标准</P></li>
 							        	<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;14891.3-1997&nbsp;&nbsp;&nbsp;辐照干果果脯类卫生标准</P></li>
-							        	<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;14891.4-1997&nbsp;&nbsp;&nbsp;辐照香辛料类卫生标准</P></li>
 						        	</ul>
 						        </div>
 						        <div class="col-md-5">
-						        	<ul>
-						        		<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;14891.5-1997&nbsp;&nbsp;&nbsp;辐照新鲜水果、蔬菜类卫生标准</P></li>
-							        	<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;14891.7-1997&nbsp;&nbsp;&nbsp;辐照冷冻包装畜禽肉类卫生标准</P></li>
-							        	<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;14891.8-1997&nbsp;&nbsp;&nbsp;辐照豆类、谷类及其制品卫生标准</P></li>
-						        	</ul>
+                                                                <ul>
+                                                                        <li><P style="color:#bbb">GB&nbsp;14891.4-1997&nbsp;辐照香辛料类卫生标准</P></li>
+                                                                        <li><P style="color:#bbb">GB&nbsp;14891.5-1997&nbsp;辐照新鲜水果、蔬菜类卫生标准</P></li>
+                                                                        <li><P style="color:#bbb">GB&nbsp;14891.7-1997&nbsp;辐照冷冻包装畜禽肉类卫生标准</P></li>
+                                                                        <li><P style="color:#bbb">GB&nbsp;14891.8-1997&nbsp;辐照豆类谷类及其制品卫生标准</P></li>
+                                                                </ul>
+
+
 						        </div>
 						        <div class="col-md-1"></div>
                             </div>
 
-                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照工艺国家推荐标准</strong></h5>
+                            <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照工艺国家推荐标准</strong></h5>
                             <div class="row">
                             	<div class="col-md-1"></div>
                             	<div class="col-md-5">
@@ -143,32 +146,27 @@
 						        </div>
                                 <div class="col-md-5">
                                 	<ul>
-							        	<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.3-2001&nbsp;&nbsp;&nbsp;脱水蔬菜辐照杀菌工艺</P></li>
-							        	<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.3-2001&nbsp;&nbsp;&nbsp;红枣辐照杀虫工艺 </P></li>
-							        	<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.4-2001&nbsp;&nbsp;&nbsp;香料和调味品辐照杀菌工艺</P></li>
-							        	<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.5-2001&nbsp;&nbsp;&nbsp;熟畜禽肉类辐照杀菌工艺</P></li>
-							        	<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.6-2001&nbsp;&nbsp;&nbsp;糟制肉食品辐照杀菌工艺</P></li>
-							        	<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.7-2001&nbsp;&nbsp;&nbsp;冷却包装分割猪肉辐照杀菌工艺</P></li>
-							        	<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18527.1-2001&nbsp;&nbsp;&nbsp;苹果辐照保鲜工艺</P></li>
-							        	<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18527.2-2001&nbsp;&nbsp;&nbsp;大蒜辐照抑制发芽工艺</P></li>
+							        	<li><P style="color:#bbb">GB/T&nbsp;18526.3-2001&nbsp;脱水蔬菜辐照杀菌工艺</P></li>
+							        	<li><P style="color:#bbb">GB/T&nbsp;18525.3-2001&nbsp;红枣辐照杀虫工艺 </P></li>
+							        	<li><P style="color:#bbb">GB/T&nbsp;18526.4-2001&nbsp;香料和调味品辐照杀菌工艺</P></li>
+							        	<li><P style="color:#bbb">GB/T&nbsp;18526.5-2001&nbsp;熟畜禽肉类辐照杀菌工艺</P></li>
+							        	<li><P style="color:#bbb">GB/T&nbsp;18526.6-2001&nbsp;糟制肉食品辐照杀菌工艺</P></li>
+							        	<li><P style="color:#bbb">GB/T&nbsp;18526.7-2001&nbsp;冷包装分割猪肉辐照杀菌工艺</P></li>
+							        	<li><P style="color:#bbb">GB/T&nbsp;18527.1-2001&nbsp;苹果辐照保鲜工艺</P></li>
+							        	<li><P style="color:#bbb">GB/T&nbsp;18527.2-2001&nbsp;大蒜辐照抑制发芽工艺</P></li>
 						        	</ul>	
 						        </div>
 
 						        <div class="col-md-1"></div>
 						    </div>
-
-                            <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;医疗保健产品辐射灭菌标准</strong></h4>
+                            </br>
+                            <h4 style="color:#87cefa"><strong>医疗保健产品辐射灭菌标准</strong></h4>
                             <div class="row">
-                            	<div class="col-md-1"></div>
-                            	<div class="col-md-10">
-                                	<ul>
-							        	<li><P style="color:#bbb">ISO&nbsp;&nbsp;&nbsp;11137:1995&nbsp;&nbsp;&nbsp;医疗保健产品辐射灭菌的国际标准</P></li>
-						        	</ul>
-						        </div>
+					<div class="col-md-2"></div>
 
-						        <div class="col-md-1"></div>
-						    </div>
-
+                           	<div class="col-md-1">
+                                    <img class="img-responsive pull-right" src="assets/images/applications/iso.jpg"/>
+                                </div><span style="color:#bbb">11137:1995&nbsp;&nbsp;&nbsp;医疗保健产品辐射灭菌的国际标准</span>
 
                         </div>
 
