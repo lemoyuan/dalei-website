@@ -57,17 +57,17 @@
 							<ul class="nav nav-tabs">
 								<li class="active">
 									<a href="#tab1" data-toggle="tab">
-										<i class="fa fa-heart"></i> 辐照装置
+										<i class="fa fa-cogs"></i> 辐照装置
 									</a>
 								</li>
 								<li>
 									<a href="#tab2" data-toggle="tab">
-										<i class="fa fa-cogs"></i> 食品辐照
+										<i class="fa fa-cutlery"></i> 食品辐照
 									</a>
 								</li>
 								<li>
 									<a href="#tab3" data-toggle="tab">
-										<i class="fa fa-cogs"></i> 医疗保健产品
+										<i class="fa fa-medkit"></i> 医疗保健产品
 									</a>
 								</li>
 							</ul>
@@ -75,7 +75,7 @@
                             <!-- tabs content -->
                             <div class="tab-content">
 								<div id="tab1" class="tab-pane active">
-                                    <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国标</strong></h5>
+                                    <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家标准</strong></h5>
                             		<div class="row">
                            
                                  		<div class="col-md-1"></div>
@@ -123,11 +123,13 @@
                             			</div>
                             			<div class="col-md-1"></div>
                             		</div>
+                                </div>
 
                             	<div id="tab2" class="tab-pane">
                            			<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照卫生标准</strong></h5>
                             		<div class="row">
-                            			<div class="col-md-1"></div>
+                                                <div class="col-md-1"></div>
+
 					       	    		<div class="col-md-5">
 						        			<ul>
 							        			<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;14891.2-1994&nbsp;&nbsp;&nbsp;辐照花粉卫生标准</P></li>
@@ -148,7 +150,8 @@
 						        		</div>
 						       			<div class="col-md-1"></div>
 						       		</div>
-                            
+                                       
+ 
 
                             		<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照工艺国家推荐标准</strong></h5>
                             		<div class="row">
@@ -180,7 +183,7 @@
 						        		</div>
 
 						        		<div class="col-md-1"></div>
-						        	<div>
+						        	</div>
 						    	</div>
 
                             	<div id="tab3" class="tab-pane">
