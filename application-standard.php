@@ -82,43 +82,46 @@
 
 					       	    		<div class="col-md-6">
                                 			<ul>	
-							        			<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;10252-2009&nbsp;&nbsp;&nbsp;γ射线辐照装置的辐射防护与安全规范</P></li>
-							        			<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;17568一2008&nbsp;&nbsp;&nbsp;γ辐射装置设计建造和使用规范</P></li>
-							        			<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;17279-1998&nbsp;&nbsp;&nbsp;水池贮源型Υ辐照装置设计安全准则 </P></li>
-							       	 			<li><P style="color:#bbb">GB&nbsp;&nbsp;&nbsp;16334-1996&nbsp;&nbsp;&nbsp;γ辐照装置食品加工实用剂量学导则 </P></li>
+							        			<li><span style="color:#bbb">GB&nbsp;&nbsp;&nbsp;10252-2009&nbsp;&nbsp;&nbsp;γ射线辐照装置的辐射防护与安全规范</span></li>
+							        			<li><span style="color:#bbb">GB&nbsp;&nbsp;&nbsp;17568一2008&nbsp;&nbsp;&nbsp;γ辐射装置设计建造和使用规范</span></li>
+							        			<li><span style="color:#bbb">GB&nbsp;&nbsp;&nbsp;17279-1998&nbsp;&nbsp;&nbsp;水池贮源型Υ辐照装置设计安全准则 </span></li>
+							       	 			<li><span style="color:#bbb">GB&nbsp;&nbsp;&nbsp;16334-1996&nbsp;&nbsp;&nbsp;γ辐照装置食品加工实用剂量学导则 </span></li>
 						        			</ul>	
                              			</div>
-						        		<div class="col-md-3"><img class="img-responsive" src="assets/images/applications/gb.jpg" alt=""/></div>
+						        		<div class="col-md-2"><img class="img-responsive" src="assets/images/applications/gb.jpg" alt=""/></div>
                             		</div>
 
+                                        </br>
                             		<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISO标准</strong></h5>
                            	 		<div class="row">
                             			<div class="col-md-1"></div>
 					       	    		<div class="col-md-10">
                                 			<ul>
-                            	    			<li><P style="color:#bbb">ISO&nbsp;&nbsp;&nbsp;ISO/ASTM&nbsp;&nbsp;&nbsp;51431-2005&nbsp;&nbsp;&nbsp;食品加工用电子束和X射线(韧致辐射)辐照装置中剂量测定的实施</P></li>
+                            	    			<li><span style="color:#bbb">ISO&nbsp;&nbsp;&nbsp;ISO/ASTM&nbsp;&nbsp;&nbsp;51431-2005&nbsp;&nbsp;&nbsp;食品加工用电子束和X射线(韧致辐射)辐照装置中剂量测定的实施</span></li>
                                 			</ul>	
                                 		</div>
 						        		<div class="col-md-1"></div>
                             		</div>
 
+                                        </br>
                             		<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家职业卫生标准</strong></h5>
                             		<div class="row">
                             			<div class="col-md-1"></div>
 					       	    		<div class="col-md-10">
                                 			<ul>
-                            	    			<li><P style="color:#bbb">GBZ&nbsp;&nbsp;&nbsp;141-2002&nbsp;&nbsp;&nbsp;γ射线和电子束辐照装置防护检测规范</P></li>
+                            	    			<li><span style="color:#bbb">GBZ&nbsp;&nbsp;&nbsp;141-2002&nbsp;&nbsp;&nbsp;γ射线和电子束辐照装置防护检测规范</span></li>
                                 			</ul>	
                                 		</div>
 						        		<div class="col-md-1"></div>
                             		</div>
+                                        </br>
 
                             		<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家推荐标准</strong></h5>
                             		<div class="row">
                             			<div class="col-md-1"></div>
 					       	    		<div class="col-md-10">
                             				<ul>
-                            					<li><P style="color:#bbb">DB32/T&nbsp;&nbsp;&nbsp;2281-2012&nbsp;&nbsp;&nbsp;农用辐照装置剂量监测规范 </P></li>
+                            					<li><span style="color:#bbb">DB32/T&nbsp;&nbsp;&nbsp;2281-2012&nbsp;&nbsp;&nbsp;农用辐照装置剂量监测规范 </span></li>
                            	 				</ul>	
                             			</div>
                             			<div class="col-md-1"></div>
@@ -151,34 +154,34 @@
 						       			<div class="col-md-1"></div>
 						       		</div>
                                        
- 
+                                        </br>
 
                             		<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照工艺国家推荐标准</strong></h5>
                             		<div class="row">
                             			<div class="col-md-1"></div>
                             			<div class="col-md-5">
                                 			<ul>
-							        			<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.1-2001&nbsp;&nbsp;&nbsp;豆类辐照杀虫工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.2-2001&nbsp;&nbsp;&nbsp;谷类制品辐照杀虫工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.3-2001&nbsp;&nbsp;&nbsp;红枣辐照杀虫工艺 </P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.4-2001&nbsp;&nbsp;&nbsp;枸杞干葡萄干辐照杀虫工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.5-2001&nbsp;&nbsp;&nbsp;干香菇辐照杀虫防霉工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.6-2001&nbsp;&nbsp;&nbsp;桂园干辐照杀虫防霉工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.7-2001&nbsp;&nbsp;&nbsp;空心莲辐照杀虫工艺 </P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.1-2001&nbsp;&nbsp;&nbsp;速溶茶辐照杀菌工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.2-2001&nbsp;&nbsp;&nbsp;花粉辐照杀菌工艺</P></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.1-2001&nbsp;&nbsp;&nbsp;豆类辐照杀虫工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.2-2001&nbsp;&nbsp;&nbsp;谷类制品辐照杀虫工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.3-2001&nbsp;&nbsp;&nbsp;红枣辐照杀虫工艺 </span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.4-2001&nbsp;&nbsp;&nbsp;枸杞干葡萄干辐照杀虫工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.5-2001&nbsp;&nbsp;&nbsp;干香菇辐照杀虫防霉工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.6-2001&nbsp;&nbsp;&nbsp;桂园干辐照杀虫防霉工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.7-2001&nbsp;&nbsp;&nbsp;空心莲辐照杀虫工艺 </span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.1-2001&nbsp;&nbsp;&nbsp;速溶茶辐照杀菌工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.2-2001&nbsp;&nbsp;&nbsp;花粉辐照杀菌工艺</span></li>
 						        			</ul>	
 						        		</div>
                                 		<div class="col-md-5">
                                 			<ul>
-							        			<li><P style="color:#bbb">GB/T&nbsp;18526.3-2001&nbsp;脱水蔬菜辐照杀菌工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;18525.3-2001&nbsp;红枣辐照杀虫工艺 </P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;18526.4-2001&nbsp;香料和调味品辐照杀菌工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;18526.5-2001&nbsp;熟畜禽肉类辐照杀菌工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;18526.6-2001&nbsp;糟制肉食品辐照杀菌工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;18526.7-2001&nbsp;冷包装分割猪肉辐照杀菌工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;18527.1-2001&nbsp;苹果辐照保鲜工艺</P></li>
-							        			<li><P style="color:#bbb">GB/T&nbsp;18527.2-2001&nbsp;大蒜辐照抑制发芽工艺</P></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;18526.3-2001&nbsp;脱水蔬菜辐照杀菌工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;18525.3-2001&nbsp;红枣辐照杀虫工艺 </span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;18526.4-2001&nbsp;香料和调味品辐照杀菌工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;18526.5-2001&nbsp;熟畜禽肉类辐照杀菌工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;18526.6-2001&nbsp;糟制肉食品辐照杀菌工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;18526.7-2001&nbsp;冷包装分割猪肉辐照杀菌工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;18527.1-2001&nbsp;苹果辐照保鲜工艺</span></li>
+							        			<li><span style="color:#bbb">GB/T&nbsp;18527.2-2001&nbsp;大蒜辐照抑制发芽工艺</span></li>
 						        			</ul>	
 						        		</div>
 
