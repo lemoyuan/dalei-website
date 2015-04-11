@@ -104,7 +104,7 @@
                           </tr>
                           <tr>
                             <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>政策优势</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>国外鼓励发展加速器替代钴源辐照。美国已经禁止发展股源，我国也在提倡发展加速器辐照</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>国外鼓励发展加速器替代钴源辐照。美国已经禁止发展钴源，我国也在提倡发展加速器辐照</span></td>
                             <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>50万以下的新建钴源不再审批，重点发展200万居里以上的辐照中心</span></td>
                           </tr>
                           <tr>
@@ -120,7 +120,7 @@
                           <tr>
                             <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>安全感</span></td>
                             <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>较高，关机后无辐射，各种电气联锁和机械联锁保证工作人员的人身安全</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>较低，天然放射源不受控，且“费源”处理出差错易引起社会恐慌</span></td>
+                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>较低，天然放射源不受控，且“废源”处理出差错易引起社会恐慌</span></td>
                           </tr>
                           <tr>
                             <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>技术难度</span></td>

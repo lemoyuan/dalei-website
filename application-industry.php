@@ -52,8 +52,39 @@
 							    <i class="fa fa-star"></i>
 						    </div>
 
-                            <p style="color:#bbb">辐照技术在工业领域，特别是辐射化工、工业“三废”处理、材料合成、材料改性、半导体辐照等方面都有着广泛的应用。</p>
+                            <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照技术在工业领域，特别是辐射化工、工业“三废”处理、新材料合成、材料改性、半导体辐照等方面都有着广泛的应用。</p>
                   
+			    	<div class="row text-center">
+
+					<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+						<figure>
+							<img class="img-responsive" src="assets/images/applications/foam.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						</figure>
+
+					</div>
+
+					<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+						<figure>
+							<img class="img-responsive" src="assets/images/applications/crystal.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						</figure>
+
+					</div>
+
+					<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+						<figure>
+							<img class="img-responsive" src="assets/images/applications/waste-gas.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						</figure>
+
+					</div>
+                                        <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                                                <figure>
+                                                        <img class="img-responsive" src="assets/images/applications/semiconductor.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                                                </figure>
+
+                                        </div>
+
+
+				</div>
                             <br/>
 
 							<div class="toogle toogle-accordion">
@@ -63,20 +94,15 @@
 								<div class="toggle-content">
 									<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label style="color:#428bca">辐射交联技术</label>就是在一定剂量的辐射作用下，聚合物大分子间形成化学键（即横键或交联键），导致分子量增加，并使聚合物的线状分子互相结合，把线状分子结构转变成热固性聚合物那样的网状大分子结构。这样，聚合物原有的性质就会有很大的改变。例如。</p>
 									<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐射交联技术应用面广，产业规模大。目前，国外辐射化工领域规模化的产业主要有电线电缆、热收缩制品、汽车轮胎、聚烯烃发泡材料、表面涂层固化、高分子PTC器件等。这几类主导型产品约占辐射化工年总产值的95%以上，创造了可观的经济效益。纵观国内电线电缆、低温阻燃柔软热缩细管等产品辐照较多，尚存在巨大的发展潜力。</p>
-								</div>
-							</div>
+									 <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;聚乙烯经辐射交联后才有一定强度，能将分解气体包埋住，产>品具有独立的微细气孔，表面柔滑美观、加工性能好，并具有优良的耐腐蚀性、消冲击性、绝缘和绝热性能。</p>
 
-							<div class="toggle">
-								<label>聚乙烯泡沫塑料</label>
-								<div class="toggle-content">
-									<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;聚乙烯经辐射交联后才有一定强度，能将分解气体包埋住，产品具有独立的微细气孔，表面柔滑美观、加工性能好，并具有优良的耐腐蚀性、消冲击性、绝缘和绝热性能。</p>
-								</div>
+ 								</div>
 							</div>
 
 							<div class="toggle">
 								<label>辐照去污</label>
 								<div class="toggle-content">
-									<p>电离辐射导致的<label style="color:#428bca">辐射分解及辐射合成反应</label>被用于处理工业三废，例如火力发电厂烟道气辐射脱硫脱硝，同时合成出化肥，非常有利于资源的综合利用。</p>
+									<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电离辐射导致的<label style="color:#428bca">辐射分解及辐射合成反应</label>被用于处理工业三废，例如火力发电厂烟道气辐射脱硫脱硝，同时合成出化肥，非常有利于资源的综合利用。</p>
 									<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;污水处理通常是采用“活性污泥法”，由此产生的沉积物、淤渣泥浆需要进一步处理。污泥浆本身含有很多磷、氮等优质肥料。但是，污泥中同时隐藏了各种各样的细菌。用辐射技术处理工业废水，能去除废水中的有机氯和重金属离子、杀灭微生物，然后将产物用作肥料。</p>
 								</div>
 							</div>
