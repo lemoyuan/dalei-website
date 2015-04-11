@@ -32,7 +32,7 @@
 
 						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
-								4.7 <span>2014</span>
+								4.7 <span>2015</span>
 							</div>
 
 							<div class="item">
@@ -44,10 +44,10 @@
 								<!-- add class "controlls-over" if you need the button controlls over the image -->
 								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
 									<div>
-										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dny-150407-1.jpg">
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-150407-2.jpg">
 									</div>
 									<div>
-										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dny-150407-2.jpg">
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-150407-1.jpg">
 									</div>
 								</div>
 
@@ -61,7 +61,7 @@
 
 						<article class="timeline-item pull-right" style="background-color:#444444">
 							<div class="item-date">
-								3.20<span>2014</span>
+								3.20<span>2015</span>
 							</div>
 
 							<div class="item">
@@ -72,10 +72,10 @@
 								<!-- add class "controlls-over" if you need the button controlls over the image -->
 								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
 									<div>
-										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dny-150320-1.jpg">
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-150320-2.jpg">
 									</div>
 									<div>
-										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dny-150320-2.jpg">
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-150320-1.jpg">
 									</div>
 								</div>
 
@@ -90,7 +90,7 @@
 
 						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
-								3.10 <span>2014</span>
+								12.30<span>2014</span>
 							</div>
 
 							<div class="item">
