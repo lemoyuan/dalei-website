@@ -32,13 +32,71 @@
 
 						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
-								3 <span>2014</span>
+								4.7 <span>2014</span>
 							</div>
 
 							<div class="item">
 
 								<!-- article title -->
-								<h4 style="color:#36a0da">浙江大镭核技术应用设备有限公司实用新型专利获得国家授权</h4>
+								<h4 style="color:#36a0da">舟山市科技局郭局长莅临大镭考察指导</h4>
+									
+
+								<!-- add class "controlls-over" if you need the button controlls over the image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dny-150407-1.jpg">
+									</div>
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dny-150407-2.jpg">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4月8日，市科技局郭局长一行莅临我公司考察指导，听取了公司创建发展、新产品新技术开发和市场营销等方面的工作汇报。在详细询问公司生产经营过程中遇到的难题后，郭局长表示市科技局将一如既往的给予支持和提供切实的帮助，为企业破解发展难题。
+								</p>								
+							</div>
+
+						</article>
+
+						<article class="timeline-item pull-right" style="background-color:#444444">
+							<div class="item-date">
+								3.20<span>2014</span>
+							</div>
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4 style="color:#36a0da">浙江省能源与核技术应用研究院郭院长莅临大镭实地考察</a></h4>
+
+								<!-- add class "controlls-over" if you need the button controlls over the image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dny-150320-1.jpg">
+									</div>
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dny-150320-2.jpg">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近日，浙江省能源与核技术应用研究院郭院长一行3人莅临我司，实地考察了我司的研发中心和设备运行情况。双方就高能电子直线加速器的制造现状、发展前景、开发合作等事宜进行探讨，郭院长对我司的产品给予高度评价，认为其技术指标先进、智能化程度高，运行稳定，达成初步的合作意向。
+								</p>
+
+							</div>
+
+						</article>
+
+						<article class="timeline-item pull-left" style="background-color:#444444">
+							<div class="item-date">
+								3.10 <span>2014</span>
+							</div>
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4 style="color:#36a0da">大镭实用新型专利获得国家授权</h4>
 									
 
 								<!-- image -->
@@ -47,39 +105,9 @@
 								</figure>
 
 								<!-- blog short preview -->
-                                <p style="color:#bbb;margin:0px">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本项实用新型采用一体化设计理念，使用机架为主体骨架形成一个电子加速器主体部件的一体化设备。应用本项专利成果使电子加速器主体组建工作从使用单位现场转移至制造单位，将繁琐的加速器真空系统组建与老练工作交由更专业、测试仪器更齐全的制造单位完成，有效降低了应用方的技术门槛，更便于产品的市场推广。
-								</p>
 								<p style="color:#bbb;margin:0px">
 									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长久以来，大镭在技术创新和产品研发的道路上坚持不懈，获得的国家专利逐年增加，相关的专利转化成果为公司“推动工业辐照电子直线加速器普及，助力辐照产业壮大”提供了强有力的技术支撑，亦坚定了大镭在技术研发的道路上持之以恒的信念！
 								</p>								
-							</div>
-
-						</article>
-
-						<article class="timeline-item pull-right" style="background-color:#444444">
-							<div class="item-date">
-								3 <span>2014</span>
-							</div>
-
-							<div class="item">
-
-								<!-- article title -->
-								<h4 style="color:#36a0da">浙江大镭核技术应用设备有限公司实用新型专利获得国家授权</a></h4>
-
-                                <!-- image -->
-								<figure>
-									<img src="assets/images/articles/inno-12.jpg" class="img-responsive" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-								</figure>
-
-								<!-- blog short preview -->
-								<p style="color:#bbb;margin:0px">
-									本项实用新型以一体化、标准化为指导思想，通过合理布局将电子加速器的恒温机组与冷却机组集成到1个标准机柜，其中所有管路连接采用快速卡套接头。应用本项专利成果使电子加速器的温控机组外形与脉冲调制机柜、控制机柜和谐统一，管路组装便捷，更便于产品的市场推广。
-								</p>
-								<p style="color:#bbb;margin:0px">
-									大镭自成立以来，一直将技术创新和产品研发作为第一要务和企业发展的源动力，在研发上的投入逐年增加，获得的成果相继转化为专利及产品，为“推动工业辐照电子直线加速器普及，助力辐照产业壮大”提供了强有力的技术支撑，亦坚定了大镭在技术研发的道路上持之以恒的信念！
-								</p>
-
 							</div>
 
 						</article>
