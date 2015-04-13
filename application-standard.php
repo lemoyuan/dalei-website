@@ -188,7 +188,7 @@
                             		<h5><strong>国家标准</strong></h5>
                             		<div class="row">
 
-					       	    		<div class="col-md-6">
+					       	    		<div class="col-md-8">
                                 			<ul>	
 							        			<li><a href="http://gb123.sac.gov.cn/gb/gbInfo?id=1097">GB&nbsp;&nbsp;&nbsp;16352-1996&nbsp;&nbsp;&nbsp;一次性医疗用品γ射线辐射灭菌标准</a></li>
 							        			<li><a href="http://gb123.sac.gov.cn/gb/gbInfo?id=1128">GB&nbsp;&nbsp;&nbsp;16383-1996&nbsp;&nbsp;&nbsp;医疗卫生用品辐射灭菌消毒质量控制标准</a></li>
@@ -201,13 +201,17 @@
 
                             		</div>
 
-                            		<h5><strong>ISO标准</strong></h5>
+                                        </br>
+                                        <h5><strong>ISO标准</strong></h5>
                             		<div class="row">
-                           				<div class="col-md-1">
-                                    		<img class="img-responsive pull-right" src="assets/images/applications/iso.jpg"/>
-                                		</div>
-                                		<span style="color:#bbb">11137:1995&nbsp;&nbsp;&nbsp;医疗保健产品辐射灭菌的国际标准</span>
-                            		</div>
+                                            <div class="col-md-8">
+
+                                                <ul>
+                                		    <li><p style="color:#bbb">11137:1995&nbsp;&nbsp;&nbsp;医疗保健产品辐射灭菌的国际标准</p></li>
+                            		        </ul>
+                                            </div>
+
+                                        </div>
                        			</div>
 
   							</div>
