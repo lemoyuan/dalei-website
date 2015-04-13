@@ -54,37 +54,37 @@
 
                             <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照技术在工业领域，特别是辐射化工、工业“三废”处理、半导体辐照等方面都有着广泛的应用。</p>
                   
-			    	<div class="row text-center">
+			    			<div class="row text-center">
 
-					<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
-						<figure>
-							<img class="img-responsive" src="assets/images/applications/foam.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-						</figure>
+								<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+									<figure>
+										<img class="img-responsive" src="assets/images/applications/foam.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+									</figure>
 
-					</div>
+								</div>
 
-					<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
-						<figure>
-							<img class="img-responsive" src="assets/images/applications/crystal.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-						</figure>
+								<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+									<figure>
+										<img class="img-responsive" src="assets/images/applications/crystal.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+									</figure>
 
-					</div>
+								</div>
 
-					<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
-						<figure>
-							<img class="img-responsive" src="assets/images/applications/waste-gas.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-						</figure>
+								<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+									<figure>
+										<img class="img-responsive" src="assets/images/applications/waste-gas.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+									</figure>
 
-					</div>
-                                        <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
-                                                <figure>
-                                                        <img class="img-responsive" src="assets/images/applications/semiconductor.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-                                                </figure>
+								</div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                                    <figure>
+                                          <img class="img-responsive" src="assets/images/applications/semiconductor.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                                    </figure>
 
-                                        </div>
+                                </div>
 
-
-				</div>
+							</div>
+							
                             <br/>
 
 							<div class="toogle">
