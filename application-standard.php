@@ -75,10 +75,9 @@
                             <!-- tabs content -->
                             <div class="tab-content">
 								<div id="tab1" class="tab-pane active">
-                                    <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家标准</strong></h5>
+                                    <h5><strong>国家标准</strong></h5>
                             		<div class="row">
                            
-                                 		<div class="col-md-1"></div>
 
 					       	    		<div class="col-md-6">
                                 			<ul>	
@@ -86,15 +85,17 @@
 							        			<li><span style="color:#bbb">GB&nbsp;&nbsp;&nbsp;17568一2008&nbsp;&nbsp;&nbsp;γ辐射装置设计建造和使用规范</span></li>
 							        			<li><span style="color:#bbb">GB&nbsp;&nbsp;&nbsp;17279-1998&nbsp;&nbsp;&nbsp;水池贮源型Υ辐照装置设计安全准则 </span></li>
 							       	 			<li><span style="color:#bbb">GB&nbsp;&nbsp;&nbsp;16334-1996&nbsp;&nbsp;&nbsp;γ辐照装置食品加工实用剂量学导则 </span></li>
-						        			</ul>	
+						        			</ul>
+	
                              			</div>
+                                                                <div class="col-md-1"></div>
+
 						        		<div class="col-md-2"><img class="img-responsive" src="assets/images/applications/gb.jpg" alt=""/></div>
                             		</div>
 
                                         </br>
-                            		<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ISO标准</strong></h5>
+                            		<h5><strong>ISO标准</strong></h5>
                            	 		<div class="row">
-                            			<div class="col-md-1"></div>
 					       	    		<div class="col-md-10">
                                 			<ul>
                             	    			<li><span style="color:#bbb">ISO&nbsp;&nbsp;&nbsp;ISO/ASTM&nbsp;&nbsp;&nbsp;51431-2005&nbsp;&nbsp;&nbsp;食品加工用电子束和X射线(韧致辐射)辐照装置中剂量测定的实施</span></li>
@@ -104,9 +105,8 @@
                             		</div>
 
                                         </br>
-                            		<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家职业卫生标准</strong></h5>
+                            		<h5><strong>国家职业卫生标准</strong></h5>
                             		<div class="row">
-                            			<div class="col-md-1"></div>
 					       	    		<div class="col-md-10">
                                 			<ul>
                             	    			<li><span style="color:#bbb">GBZ&nbsp;&nbsp;&nbsp;141-2002&nbsp;&nbsp;&nbsp;γ射线和电子束辐照装置防护检测规范</span></li>
@@ -116,9 +116,8 @@
                             		</div>
                                         </br>
 
-                            		<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家推荐标准</strong></h5>
+                            		<h5><strong>国家推荐标准</strong></h5>
                             		<div class="row">
-                            			<div class="col-md-1"></div>
 					       	    		<div class="col-md-10">
                             				<ul>
                             					<li><span style="color:#bbb">DB32/T&nbsp;&nbsp;&nbsp;2281-2012&nbsp;&nbsp;&nbsp;农用辐照装置剂量监测规范 </span></li>
@@ -129,11 +128,10 @@
                                 </div>
 
                             	<div id="tab2" class="tab-pane">
-                           			<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照卫生标准</strong></h5>
+                           			<h5><strong>辐照卫生标准</strong></h5>
                             		<div class="row">
-                                                <div class="col-md-1"></div>
 
-					       	    		<div class="col-md-5">
+					       	    		<div class="col-md-6">
 						        			<ul>
 							        			<li><a href="http://gb123.sac.gov.cn/gb/gbInfo?id=565">GB&nbsp;&nbsp;&nbsp;14891.2-1994&nbsp;&nbsp;&nbsp;辐照花粉卫生标准</a></li>
 							        			<li><a href="http://gb123.sac.gov.cn/gb/gbInfo?id=569">GB&nbsp;&nbsp;&nbsp;14891.6-1994&nbsp;&nbsp;&nbsp;辐照猪肉卫生标准</a></li>
@@ -141,7 +139,7 @@
 							        			<li><a href="http://gb123.sac.gov.cn/gb/gbInfo?id=566">GB&nbsp;&nbsp;&nbsp;14891.3-1997&nbsp;&nbsp;&nbsp;辐照干果果脯类卫生标准</a></li>
 						        			</ul>
 						      			</div>
-						     	    	<div class="col-md-5">
+						     	    	<div class="col-md-6">
                                             <ul>
                                                 <li><a href="http://gb123.sac.gov.cn/gb/gbInfo?id=567">GB&nbsp;14891.4-1997&nbsp;辐照香辛料类卫生标准</a></li>
                                                 <li><a href="http://gb123.sac.gov.cn/gb/gbInfo?id=568">GB&nbsp;14891.5-1997&nbsp;辐照新鲜水果、蔬菜类卫生标准</a></li>
@@ -151,15 +149,13 @@
 
 
 						        		</div>
-						       			<div class="col-md-1"></div>
 						       		</div>
                                        
                                         </br>
 
-                            		<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照工艺国家推荐标准</strong></h5>
+                            		<h5><strong>辐照工艺国家推荐标准</strong></h5>
                             		<div class="row">
-                            			<div class="col-md-1"></div>
-                            			<div class="col-md-5">
+                            			<div class="col-md-6">
                                 			<ul>
 							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.1-2001&nbsp;&nbsp;&nbsp;豆类辐照杀虫工艺</span></li>
 							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18525.2-2001&nbsp;&nbsp;&nbsp;谷类制品辐照杀虫工艺</span></li>
@@ -172,7 +168,7 @@
 							        			<li><span style="color:#bbb">GB/T&nbsp;&nbsp;&nbsp;18526.2-2001&nbsp;&nbsp;&nbsp;花粉辐照杀菌工艺</span></li>
 						        			</ul>	
 						        		</div>
-                                		<div class="col-md-5">
+                                		<div class="col-md-6">
                                 			<ul>
 							        			<li><span style="color:#bbb">GB/T&nbsp;18526.3-2001&nbsp;脱水蔬菜辐照杀菌工艺</span></li>
 							        			<li><span style="color:#bbb">GB/T&nbsp;18525.3-2001&nbsp;红枣辐照杀虫工艺 </span></li>
@@ -185,7 +181,6 @@
 						        			</ul>	
 						        		</div>
 
-						        		<div class="col-md-1"></div>
 						        	</div>
 						    	</div>
 
