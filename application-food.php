@@ -218,6 +218,39 @@
                 </ul> 
 
                 <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;常见几类食品的辐照杀菌</strong></h4>
+                <div class="row text-center">
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                        <figure>
+                              <img class="img-responsive" src="assets/images/applications/food-fruit.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                        </figure>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                        <figure>
+                              <img class="img-responsive" src="assets/images/applications/food-greens.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                        </figure>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                        <figure>
+                              <img class="img-responsive" src="assets/images/applications/food-fish.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                        </figure>
+
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                        <figure>
+                              <img class="img-responsive" src="assets/images/applications/food-meat.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                        </figure>
+
+                    </div>
+
+                </div>
+              
+                <br/>
+                
                 <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;禽畜肉类制品、蛋类、水产品及某些水果蔬菜含有丰富的营养成分，造成这类食品变质的主要原因是受微生物的作用，这几类食品辐射处理主要是为了杀菌。</P>
 
                 <div class="tabs nomargin-top">
@@ -249,39 +282,6 @@
                         <div id="tab-meat" class="tab-pane active">
                             <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;畜禽肉类的腐败变质主要是由腐败细菌引起的，一般在辐照前都采用适当的热处理使自溶酶钝化，但过高的温度又会影响肉类的口感和品质，所以采取辐照灭菌完善工艺，同时为了防止辐照过程中的“二次污染”，一般会采用真空包装来隔绝空气、水汽、微生物。低剂量辐射处理方式通常只是为了延长肉类产品的货架期。</P> 
                         </div>
-
-                        <div class="row text-center">
-
-                            <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
-                                <figure>
-                                        <img class="img-responsive" src="assets/images/applications/food-fruit.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-                                </figure>
-
-                            </div>
-
-                            <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
-                                <figure>
-                                        <img class="img-responsive" src="assets/images/applications/food-greens.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-                                </figure>
-
-                            </div>
-
-                            <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
-                                <figure>
-                                        <img class="img-responsive" src="assets/images/applications/food-fish.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-                                </figure>
-
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
-                                <figure>
-                                      <img class="img-responsive" src="assets/images/applications/food-meat.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-                                </figure>
-
-                            </div>
-
-                        </div>
-              
-                        <br/>
 
                         <div id="tab-fish" class="tab-pane">
                             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;水产品捕捞后容易死亡，也容易腐烂。世界卫生组织、联合国粮农组织、国际原子能机构共同认定并批准，以10～20万Ｇｙ辐射剂量来处理鱼，可以减少微生物，延长鲜鱼在3℃以下的保鲜期。</p>
