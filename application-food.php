@@ -88,8 +88,8 @@
                         </li>
                         <li><P style="color:#bbb">电离辐射对虫类的作用</P>
                             <ul>
-                              <li><P style="color:#bbb">昆虫 辐照的损伤作用：致死、缩短寿命、不育、延迟发育、减少进食和抑制呼吸。</P></li>
-                              <li><P style="color:#bbb">寄生虫 3~5 kGy 致死；0.2~.03 kGy 抑制生长；0.12 kGy 不育。</P></li>
+                              <li><P style="color:#bbb"><label style="color:#428bca">昆虫</label>辐照的损伤作用：致死、缩短寿命、不育、延迟发育、减少进食和抑制呼吸。</P></li>
+                              <li><P style="color:#bbb"><label style="color:#428bca">寄生虫</label>3~5 kGy 致死；0.2~.03 kGy 抑制生长；0.12 kGy 不育。</P></li>
                             </ul>
                           
                         </li>
@@ -161,7 +161,7 @@
                 </ul> 
 
                 <h4><strong>与传统食品储存方法相比，辐照技术的优点：</strong></h4>
-                <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;辐照保藏不同于化学熏蒸法和腌制法，不需要加入添加物，与加热、冷冻等方法一样，是一种物理保藏法，具有许多传统保藏法不可比拟的优点:</P>
+                <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照保藏不同于化学熏蒸法和腌制法，不需要加入添加物，与加热、冷冻等方法一样，是一种物理保藏法，具有许多传统保藏法不可比拟的优点:</P>
 
                 <ul>
                     <li><P style="color:#bbb"><label style="color:#428bca">射线穿透力强</label>，可对通过控制剂量和辐照工艺对带包装熟食进行均匀彻底处理，相比于热处理杀菌，辐照过程较易控制；</P></li>
@@ -175,7 +175,7 @@
 
                 </br>
                 <h4><strong>常见几类食品的辐照杀菌</strong></h4>
-                <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;禽畜肉类制品、蛋类、水产品及某些水果蔬菜含有丰富的营养成分，造成这类食品变质的主要原因是受微生物的作用，这几类食品辐射处理主要是为了杀菌。</P>
+                <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;禽畜肉类制品、蛋类、水产品及某些水果蔬菜含有丰富的营养成分，造成这类食品变质的主要原因是受微生物的作用，这几类食品辐射处理主要是为了杀菌。</P>
 
                 <div class="row text-center">
 
@@ -210,54 +210,19 @@
               
                 <br/>
 
-                <div class="tabs nomargin-top">
+                <ul>
+                    <li><P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label style="color:#428bca">畜禽肉类</label>的腐败变质主要是由腐败细菌引起的，一般在辐照前都采用适当的热处理使自溶酶钝化，但过高的温度又会影响肉类的口感和品质，所以采取辐照灭菌完善工艺，同时为了防止辐照过程中的“二次污染”，一般会采用真空包装来隔绝空气、水汽、微生物。低剂量辐射处理方式通常只是为了延长肉类产品的货架期。</P></li>
 
-                <!-- tabs -->
-                    <ul class="nav nav-tabs">
-                        <li class="active">
-                            <a href="#tab-meat" data-toggle="tab"><i class="fa fa-cutlery"></i> 畜禽肉类</a>
-                        </li>
-                        <li>
-                            <a href="#tab-fish" data-toggle="tab"><i class="fa fa-cutlery"></i> 水产品</a>
-                         </li>
-                         <li>
-                            <a href="#tab-egg" data-toggle="tab"><i class="fa fa-cutlery"></i> 蛋类</a>
-                         </li>
-                         <li>
-                            <a href="#tab-fruit" data-toggle="tab"><i class="fa fa-cutlery"></i> 水果</a>
-                         </li>
-                         <li>
-                            <a href="#tab-greens" data-toggle="tab"><i class="fa fa-cutlery"></i> 蔬菜</a>
-                         </li>
-                         <li>
-                            <a href="#tab-grain" data-toggle="tab"><i class="fa fa-cutlery"></i> 谷物及其制品</a>
-                         </li>
-                    </ul>
+                    <li><P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label style="color:#428bca">水产品</label>捕捞后容易死亡，也容易腐烂。世界卫生组织、联合国粮农组织、国际原子能机构共同认定并批准，以10～20万Ｇｙ辐射剂量来处理鱼，可以减少微生物，延长鲜鱼在3℃以下的保鲜期。</P></li>
 
-                    <!-- tabs content -->
-                    <div class="tab-content">
-                        <div id="tab-meat" class="tab-pane active">
-                            <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;畜禽肉类的腐败变质主要是由腐败细菌引起的，一般在辐照前都采用适当的热处理使自溶酶钝化，但过高的温度又会影响肉类的口感和品质，所以采取辐照灭菌完善工艺，同时为了防止辐照过程中的“二次污染”，一般会采用真空包装来隔绝空气、水汽、微生物。低剂量辐射处理方式通常只是为了延长肉类产品的货架期。</P> 
-                        </div>
+                    <li><P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label style="color:#428bca">蛋类</label>的应用辐照针对性杀菌，其中沙门氏菌是对象致病菌。蛋白质在受到辐射时会发生降解使蛋液的粘度降低，因此，一般蛋液及冰冻蛋液用电子射线或γ射线辐射，灭菌效果都比较好。而对带壳鲜蛋可用电子射线处理，剂量应控制在10kGy左右，更高的剂量会使蛋带有H2S等异味。</P></li>
 
-                        <div id="tab-fish" class="tab-pane">
-                            <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;水产品捕捞后容易死亡，也容易腐烂。世界卫生组织、联合国粮农组织、国际原子能机构共同认定并批准，以10～20万Ｇｙ辐射剂量来处理鱼，可以减少微生物，延长鲜鱼在3℃以下的保鲜期。</p>
-                        </div>
-                        <div id="tab-egg" class="tab-pane">
-                            <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蛋类的应用辐照针对性杀菌，其中沙门氏菌是对象致病菌。蛋白质在受到辐射时会发生降解使蛋液的粘度降低，因此，一般蛋液及冰冻蛋液用电子射线或γ射线辐射，灭菌效果都比较好。而对带壳鲜蛋可用电子射线处理，剂量应控制在10kGy左右，更高的剂量会使蛋带有H2S等异味。</p>
-                        </div>
-                        <div id="tab-fruit" class="tab-pane">
-                            <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导致水果腐败的微生物大多是霉菌，通常辐射处理是为了抑制霉菌的生长。</p>
-                        </div>
-                        <div id="tab-greens" class="tab-pane">
-                            <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蔬菜类辐射处理的主要是为了抑制发芽和延缓新陈代谢作用。对脱水蔬菜采用6～10kGy剂量范围的γ射线，不仅可以有效杀灭脱水蔬菜中的微生物，还可以使贮藏保鲜效果达1年以上，而且经生物学检验、营养成分分析和吸收剂量测定，各项指标均符合标准。</p>
-                        </div>
-                        <div id="tab-grain" class="tab-pane">
-                            <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;谷物及其制品的辐照处理应以控制虫害及霉菌的繁殖为主。针对昆虫处理所需的剂量范围按立即致死、几天内死去和不育要求分别为3～5kGy、1kGy和0.1～0 .2kGy。而控制谷类中霉菌所需的剂量范围约在2～4kGy之间。</P></p>
-                        </div>
-                    </div>
+                    <li><P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label style="color:#428bca">水果</label>腐败大多是由霉菌引起的，通常辐射处理是为了抑制霉菌的生长。</P></li>
 
-                </div>
+                    <li><P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label style="color:#428bca">蔬菜类</label>辐射处理的主要是为了抑制发芽和延缓新陈代谢作用。对脱水蔬菜采用6～10kGy剂量范围的γ射线，不仅可以有效杀灭脱水蔬菜中的微生物，还可以使贮藏保鲜效果达1年以上，而且经生物学检验、营养成分分析和吸收剂量测定，各项指标均符合标准。</P></li>
+ 
+                    <li><P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label style="color:#428bca">谷物及其制品</label>的辐照处理应以控制虫害及霉菌的繁殖为主。针对昆虫处理所需的剂量范围按立即致死、几天内死去和不育要求分别为3～5kGy、1kGy和0.1～0 .2kGy。而控制谷类中霉菌所需的剂量范围约在2～4kGy之间。</P></li>
+                </ul>   
 
                 </br>
                 <div class="alert alert-info" style="background-color:#05173b">
