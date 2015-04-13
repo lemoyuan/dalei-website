@@ -32,7 +32,7 @@
 
 						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
-								4.7 <span>2015</span>
+								4.8<span>2015</span>
 							</div>
 
 							<div class="item">
