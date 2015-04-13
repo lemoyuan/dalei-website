@@ -51,50 +51,6 @@
                 <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
-
-                <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器在食品领域的应用情况简表</strong></h4>
-
-                <div class="col-md-12"><br/>
-                    <table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
-                          <tr>
-                            <th width="" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>序号</span></th>
-                            <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>辐照目的</span></th>
-                            <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>辐照物品</span></th>
-                          </tr>
-                          <tr>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>1</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>杀虫灭菌(杀灭沙门氏菌、弓形浆虫卵、O157病毒、疯牛病、禽流感等)</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>畜禽肉类及其制品,如冷冻肉类、火腿肠、罐头、熟食；水产品类：鱼、虾、蟹、贝类等；方便食品、饮料等；豆制品；中药材等 </span></td>
-                          </tr>
-                          <tr>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>3</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>杀虫、灭菌、保鲜</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>新鲜水果、干果等；调味品</span></td>
-                          </tr>
-                          <tr>
-                            <td width="" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>4</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>改善品质</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>牛肉等经过辐照纤维变细，口感变嫩；酒类辐照后，口感更醇，达到多年陈酿的效果</span></td>
-                          </tr>
-                          <tr>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>6</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>储存保鲜</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>延长新鲜水果、蔬菜保鲜期和上货架期,如苹果、荔枝、花菜等</span></td>
-                          </tr>
-                          <tr>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>7</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>推迟后熟</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>番茄、蘑菇、冬笋等</span></td>
-                          </tr>
-                          <tr>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>8</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>毒素降解</span></td>
-                            <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>畜禽肉、水产品等的毒素,如所含氯霉素降解等</span></td>
-                          </tr>
-                      </table> 
-                </div>    
-
-                </br>
                 
                 <div class="toogle">
                   <div class="toggle">
@@ -187,36 +143,36 @@
                 
                 </br>
 
-                <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;食品辐照的安全性</strong></h4>
+                <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;食品辐照的<label style="color:#428bca">安全性</label></strong></h4>
                 <ul>
-                    <li><P style="color:#bbb">毒性物质生成：未确证会产生有毒、致癌、和致畸物质。</P></li>
-                    <li><P style="color:#bbb">微生物类变异：不会增加细菌、酵母菌和病毒的致病性。</P></li>
-                    <li><P style="color:#bbb">营养物质破坏：低剂量辐射的营养损失微不足道。</P></li>
-                    <li><P style="color:#bbb">放射性物质残留：食品在进行辐照时是外照射，没有直接接触放射性核素，因此，不会污染放射性物质，这与核爆炸和核源泄漏事故截然不同，故不存在残留问题。</P></li>
-                    <li><P style="color:#bbb">放射性污染：由电离辐射使食品中某些元素变成放射性元素。食品辐照的能量都低于在食品中可能诱导放射性的能量阈值，所以不会产生诱导放射性核素及其化合物。
+                    <li><P style="color:#bbb"><label style="color:#428bca">毒性物质生成</label>：未确证会产生有毒、致癌、和致畸物质。</P></li>
+                    <li><P style="color:#bbb"><label style="color:#428bca">微生物类变异</label>：不会增加细菌、酵母菌和病毒的致病性。</P></li>
+                    <li><P style="color:#bbb"><label style="color:#428bca">营养物质破坏</label>：低剂量辐射的营养损失微不足道。</P></li>
+                    <li><P style="color:#bbb"><label style="color:#428bca">放射性物质残留</label>：食品在进行辐照时是外照射，没有直接接触放射性核素，因此，不会污染放射性物质，这与核爆炸和核源泄漏事故截然不同，故不存在残留问题。</P></li>
+                    <li><P style="color:#bbb"><label style="color:#428bca">放射性污染</label>：由电离辐射使食品中某些元素变成放射性元素。食品辐照的能量都低于在食品中可能诱导放射性的能量阈值，所以不会产生诱导放射性核素及其化合物。
                         </P>
                         <label>允许食品辐射的最大能量水平</label>
                         <ul>
                             <li><P style="color:#bbb">γ射线：5 MeV</P></li>
                             <li><P style="color:#bbb">x射线：5 MeV</P></li>
-                            <li><P style="color:#bbb">电子射线：10 MeV</P></li>
+                            <li><P style="color:#bbb"><label style="color:#428bca">电子射线</label>：10 MeV</P></li>
                         </ul> 
                     </li>
                 </ul> 
 
-                <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;与传统食品储存方法相比，使用电子直线加速器作为放射源的辐照技术的优点</strong></h4>
+                <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;与传统食品储存方法相比，<label style="color:#428bca">辐照技术的优点</label>：</strong></h4>
                 <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;辐照保藏不同于化学熏蒸法和腌制法，不需要加入添加物，与加热、冷冻等方法一样，是一种物理保藏法，具有许多传统保藏法不可比拟的优点:</P>
 
                 <ul>
-                    <li><P style="color:#bbb">射线穿透力强，可对通过控制剂量和辐照工艺对带包装熟食进行均匀彻底处理，相比于热处理杀菌，辐照过程较易控制；</P></li>
-                    <li><P style="color:#bbb">辐照处理是“冷加工”，可保持食品原有的鲜度和风味，有的甚至可提高食品的工艺质量；</P></li>
-                    <li><P style="color:#bbb">辐照食品无残留物，无“三废”产生，不污染环境，可提高食品卫生质量并有利于环保；</P></li>
-                    <li><P style="color:#bbb">节省能源，电子直线加速器运行过程中只需消耗电能，与热处理、干燥和冷冻保藏食品法相比，能耗降低几倍到十几倍；</P></li>
+                    <li><P style="color:#bbb"><label style="color:#428bca">射线穿透力强</label>，可对通过控制剂量和辐照工艺对带包装熟食进行均匀彻底处理，相比于热处理杀菌，辐照过程较易控制；</P></li>
+                    <li><P style="color:#bbb">辐照处理是<label style="color:#428bca">“冷加工”</label>，可保持食品原有的鲜度和风味，有的甚至可提高食品的工艺质量；</P></li>
+                    <li><P style="color:#bbb">辐照食品<label style="color:#428bca">无残留物</label>，无“三废”产生，不污染环境，可提高食品卫生质量并有利于环保；</P></li>
+                    <li><P style="color:#bbb"><label style="color:#428bca">节能</label>，电子直线加速器运行过程中只需消耗电能，与热处理、干燥和冷冻保藏食品法相比，能耗降低几倍到十几倍；</P></li>
                     <li><P style="color:#bbb">可对带包装的食品进行杀菌处理，消除了在食品生产和制备过程中可能出现的严重交叉污染问题；</P></li>
                     <li><P style="color:#bbb">杀菌效果好，并可通过调整辐照剂量达到对各类食品杀菌的要求；</P></li>
                     <li><P style="color:#bbb">大镭生产的电子直线加速器能量高，辐照灭菌速度快，设备智能化程度高，操作简便，配套《辐照加工工艺管理软件》，实现工艺自动调整，加工过程易控制，可连续长时间加工，经济、省力，适于大规模加工。</P></li>
                 </ul> 
-                
+
                 </br>
                 <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;常见几类食品的辐照杀菌</strong></h4>
                 <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;禽畜肉类制品、蛋类、水产品及某些水果蔬菜含有丰富的营养成分，造成这类食品变质的主要原因是受微生物的作用，这几类食品辐射处理主要是为了杀菌。</P>
