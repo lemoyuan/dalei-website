@@ -216,8 +216,11 @@
                     <li><P style="color:#bbb">杀菌效果好，并可通过调整辐照剂量达到对各类食品杀菌的要求；</P></li>
                     <li><P style="color:#bbb">大镭生产的电子直线加速器能量高，辐照灭菌速度快，设备智能化程度高，操作简便，配套《辐照加工工艺管理软件》，实现工艺自动调整，加工过程易控制，可连续长时间加工，经济、省力，适于大规模加工。</P></li>
                 </ul> 
-
+                
+                </br>
                 <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;常见几类食品的辐照杀菌</strong></h4>
+                <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;禽畜肉类制品、蛋类、水产品及某些水果蔬菜含有丰富的营养成分，造成这类食品变质的主要原因是受微生物的作用，这几类食品辐射处理主要是为了杀菌。</P>
+
                 <div class="row text-center">
 
                     <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
@@ -250,30 +253,28 @@
                 </div>
               
                 <br/>
-                
-                <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;禽畜肉类制品、蛋类、水产品及某些水果蔬菜含有丰富的营养成分，造成这类食品变质的主要原因是受微生物的作用，这几类食品辐射处理主要是为了杀菌。</P>
 
                 <div class="tabs nomargin-top">
 
                 <!-- tabs -->
                     <ul class="nav nav-tabs">
                         <li class="active">
-                            <a href="#tab-meat" data-toggle="tab"><i class="fa fa-heart"></i> 畜禽肉类</a>
+                            <a href="#tab-meat" data-toggle="tab"><i class="fa fa-cutlery"></i> 畜禽肉类</a>
                         </li>
                         <li>
-                            <a href="#tab-fish" data-toggle="tab"><i class="fa fa-cogs"></i> 水产品</a>
+                            <a href="#tab-fish" data-toggle="tab"><i class="fa fa-cutlery"></i> 水产品</a>
                          </li>
                          <li>
-                            <a href="#tab-egg" data-toggle="tab"><i class="fa fa-cogs"></i> 蛋类</a>
+                            <a href="#tab-egg" data-toggle="tab"><i class="fa fa-cutlery"></i> 蛋类</a>
                          </li>
                          <li>
-                            <a href="#tab-fruit" data-toggle="tab"><i class="fa fa-cogs"></i> 水果</a>
+                            <a href="#tab-fruit" data-toggle="tab"><i class="fa fa-cutlery"></i> 水果</a>
                          </li>
                          <li>
-                            <a href="#tab-greens" data-toggle="tab"><i class="fa fa-cogs"></i> 蔬菜</a>
+                            <a href="#tab-greens" data-toggle="tab"><i class="fa fa-cutlery"></i> 蔬菜</a>
                          </li>
                          <li>
-                            <a href="#tab-grain" data-toggle="tab"><i class="fa fa-cogs"></i> 谷物及其制品</a>
+                            <a href="#tab-grain" data-toggle="tab"><i class="fa fa-cutlery"></i> 谷物及其制品</a>
                          </li>
                     </ul>
 
