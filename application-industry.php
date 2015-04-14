@@ -56,27 +56,27 @@
                   
 			    			<div class="row text-center">
 
-								<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+								<div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
 									<figure>
 										<img class="img-responsive" src="assets/images/applications/foam.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 									</figure>
 
 								</div>
 
-								<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+								<div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
 									<figure>
 										<img class="img-responsive" src="assets/images/applications/crystal.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 									</figure>
 
 								</div>
 
-								<div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+								<div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
 									<figure>
 										<img class="img-responsive" src="assets/images/applications/waste-gas.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 									</figure>
 
 								</div>
-                                <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                                <div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
                                     <figure>
                                           <img class="img-responsive" src="assets/images/applications/semiconductor.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                                     </figure>

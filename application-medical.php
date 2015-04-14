@@ -72,106 +72,107 @@
                           <li><P style="color:#bbb">有关生产企业应按照《药品生产质量管理规范》(GMP)要求，重视对所用药材使用前进行拣选、整理、洗涤等前处理加工，生产过程控制在不同洁净级别的厂房内，尽量把微生物的含量控制在一定范围内，如果微生物含量超标，再辅以适宜的灭菌方法，保证药品卫生质量的。</P></li>
                           <li><P style="color:#bbb">在应用中辐照剂量的选择非常重要，应<label style="color:#428bca">以最小的剂量达到最大的灭菌效果</label>，尽量减少重复辐照，保证药物质量。</P></li>
                       </ul>
-							        </br>
 
                       <div class="row text-center">
 
-                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top10">
                               <figure>
                                     <img class="img-responsive" src="assets/images/applications/medical-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                               </figure>
 
                           </div>
 
-                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top10">
                               <figure>
                                     <img class="img-responsive" src="assets/images/applications/medical-2.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                           </figure>
 
                           </div>
 
-                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top10">
                               <figure>
                                     <img class="img-responsive" src="assets/images/applications/medical-3.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                               </figure>
 
                           </div>
-                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top10">
                               <figure>
                                     <img class="img-responsive" src="assets/images/applications/medical-4.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                               </figure>
                           </div>
 
-                      </div> 
+                      </div>
+                      </br> 
 
                       <div class="toogle">
-                          <div class="toggle active">
+                          <div class="toggle">
                               <label>辐照灭菌对药品质量影响</label>
                               <div class="toggle-content">
-                                  <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;对化学成分的影响</strong></h5>
+                                  <h5><strong>对化学成分的影响</strong></h5>
                                   <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现今已有许多国家如德国、前苏联、印度等10多个国家对百余种药品进行了研究，对化学药品研究较多，研究结果表明:</P>
 
                                   <ul>
-                                      <li><P style="color:#bbb">药品受照射，在固态时多数是稳定的，少数分解不严重，分解程度与辐照剂量有关</p></li>
-                                      <li><P style="color:#bbb">剂量与污染的菌种、数量等相关</p></li>
-                                      <li><P style="color:#bbb">水溶液几乎均受到严重破坏，对一部分药品可以采用先辐照固态灭菌，然后再配成溶液的做法</p></li>
-                                      <li><P style="color:#bbb">大部分经一定剂量射线辐照的中药材,其化学成分在辐照前后无明显变化</p></li>
+                                      <li><span style="color:#bbb">药品受照射，在固态时多数是稳定的，少数分解不严重，分解程度与辐照剂量有关</span></li>
+                                      <li><span style="color:#bbb">剂量与污染的菌种、数量等相关</span></li>
+                                      <li><span style="color:#bbb">水溶液几乎均受到严重破坏，对一部分药品可以采用先辐照固态灭菌，然后再配成溶液的做法</span></li>
+                                      <li><span style="color:#bbb">大部分经一定剂量射线辐照的中药材，其化学成分在辐照前后无明显变化</span></li>
                                   </ul>
+                                  </br>
 
-                                  <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;对中药材及制剂外观的影响</strong></h5>
+                                  <h5><strong>对中药材及制剂外观的影响</strong></h5>
                                   <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照对大多数中药材及中成药的外观没有影响。</P>
-                                  <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;对药品生理活性的影响</strong></h5>
+
+                                  <h5><strong>对药品生理活性的影响</strong></h5>
                                   <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大多数中药及制剂经低于10kGy的射线辐照，其生物活性不受影响。</P>
-                                  <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;对药品安全性的影响</strong></h5>
+
+                                  <h5><strong>对药品安全性的影响</strong></h5>
                                   <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前用于药品辐射的射线不超过允许的最大剂量，不会使药品产生感生放射性，不存在放射性污染。</P>
 							       
                               </div>
                           </div>
                       </div>
 
-                      </br>
                       <div class="toogle">
-                          <div class="toggle active">
+                          <div class="toggle">
                               <label>灭菌效果与辐照剂量的关系</label>
                               <div class="toggle-content">
                                   <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照剂量越大，灭菌效果越好。但辐照剂量过大，对药品中某些有效成分可能会有一定的影响，因此在具体的试验中应确定最佳辐照剂量，并按<label style="color:#428bca">最佳剂量</label>进行辐照。</P>
                                   <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国药典规定高剂量有效灭菌为 2.5 kGy，中剂量为 1 kGy，低剂量为 0.2～0.4 kGy。</P>
                                   <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我国卫生部的标准规定辐照中药最高耐受剂量为
                                   <ul>
-                                      <li><P style="color:#bbb"><label style="color:#428bca">散剂、片剂</label>： 3 kGy</p></li>
-                                      <li><P style="color:#bbb"><label style="color:#428bca">丸剂</label>： 5 kGy</p></li>
-                                      <li><P style="color:#bbb"><label style="color:#428bca">中药原料粉</label>： 6 kGy</p></li>
+                                      <li><span style="color:#bbb"><label style="color:#428bca">散剂、片剂</label>： 3 kGy</span></li>
+                                      <li><span style="color:#bbb"><label style="color:#428bca">丸剂</label>： 5 kGy</span></li>
+                                      <li><span style="color:#bbb"><label style="color:#428bca">中药原料粉</label>： 6 kGy</span></li>
                                   </ul>
                             </div>
                           </div>
                       </div>
-                            
- 							        </br>
+                      </br>
 
                       <h4><strong>医用器械辐照灭菌主要种类</strong></h4>
                       <div class="row text-center">
 
-                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
                               <figure>
                                     <img class="img-responsive" src="assets/images/applications/injector.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                               </figure>
 
                           </div>
 
-                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
                               <figure>
                                     <img class="img-responsive" src="assets/images/applications/tap.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                           </figure>
 
                           </div>
 
-                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
                               <figure>
                                     <img class="img-responsive" src="assets/images/applications/tampon.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                               </figure>
 
                           </div>
-                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top30">
+                          <div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
                               <figure>
                                     <img class="img-responsive" src="assets/images/applications/gloves.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
                               </figure>
@@ -179,7 +180,7 @@
                           </div>
 
                       </div> 
-
+                      </br>
 
                       <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前辐射灭菌消毒的医用器械种类繁多，主要是以下几大类： </P>                        
                       <ul>
