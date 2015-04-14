@@ -111,6 +111,34 @@
 							</div>
 
 						</article>
+
+						<article class="timeline-item pull-left" style="background-color:#444444">
+							<div class="item-date">
+								11.5<span>2014</span>
+							</div>
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4 style="color:#36a0da">第七届长三角辐射加工学术交流会</h4>
+									
+								<!-- add class "controlls-over" if you need the button controlls over the image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-141105-2.jpg">
+									</div>
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-141105-1.jpg">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014年11月5日，我司负责人赴沪参加了由江浙沪核学会和长三角辐射加工联席会主办的第七届长三角辐射加工学术交流会。与会代表们对我司负责人汇报的《高能量β射线设备与海鲜食品高剂量辐照试验》论文表示浓厚的兴趣，积极参与互动，提出自己的观点和看法，现场气氛热烈。
+								</p>								
+							</div>
+
+						</article>
 					</div>
 
 
