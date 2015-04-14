@@ -98,11 +98,15 @@
 								<!-- article title -->
 								<h4 style="color:#36a0da">大镭实用新型专利获得国家授权</h4>
 									
-
-								<!-- image -->
-								<figure>
-									<img src="assets/images/articles/inno-11.jpg" class="img-responsive" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-								</figure>
+								<!-- add class "controlls-over" if you need the button controlls over the image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/articles/inno-11.jpg">
+									</div>
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/articles/inno-12.jpg">
+									</div>
+								</div>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb;margin:0px">
@@ -112,23 +116,20 @@
 
 						</article>
 
-						<article class="timeline-item pull-left" style="background-color:#444444">
+						<article class="timeline-item pull-right" style="background-color:#444444">
 							<div class="item-date">
 								11.5<span>2014</span>
 							</div>
 
 							<div class="item">
 
-								<!-- article title -->
-								<h4 style="color:#36a0da">第七届长三角辐射加工学术交流会</h4>
-									
 								<!-- add class "controlls-over" if you need the button controlls over the image -->
 								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
 									<div>
-										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-141105-2.jpg">
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-141105-1.jpg">
 									</div>
 									<div>
-										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-141105-1.jpg">
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-141105-2.jpg">
 									</div>
 								</div>
 
