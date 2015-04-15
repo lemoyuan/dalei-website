@@ -51,6 +51,38 @@
                             <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
+						    <div class="row text-center">
+
+                    			<div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
+                        			<figure>
+                              			<img class="img-responsive" src="assets/images/applications/garlic.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                        			</figure>
+
+                    			</div>
+
+                    			<div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
+                        			<figure>
+                              			<img class="img-responsive" src="assets/images/applications/potato.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                        			</figure>
+
+                    			</div>
+
+                    			<div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
+                        			<figure>
+                              			<img class="img-responsive" src="assets/images/applications/mushroom.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                        			</figure>
+
+                    			</div>
+                    			<div class="col-md-3 col-sm-6 col-xs-12 margin-top20">
+                        			<figure>
+                              			<img class="img-responsive" src="assets/images/applications/bamboo.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+                        			</figure>
+
+                    			</div>
+
+                			</div> 
+
+                			</br>
 
 						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;农副产品辐照储存时利用核技术开发出来的一种新型的储存保鲜方法。其原理是：利用放射性核素（如钴60）放射出γ射线，或利用电子加速器产出的电子束在一定剂量范围内辐照农产品，杀灭其中害虫，消除其中病原微生物，或抑制农副产品中的某些生物活性或生理过程，从而达到农副产品安全储存或保险之目的。</p>
 				     	    <ul>
