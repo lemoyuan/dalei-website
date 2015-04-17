@@ -39,7 +39,6 @@
 							<li><a href="application-industry.php"><i class="fa fa-circle-o"></i> 工业辐照</a></li>
 							<li><a href="application-medical.php"><i class="fa fa-circle-o"></i> 医疗保健产品 </a></li>
 							<li><a href="application-agriculture.php"><i class="fa fa-circle-o"></i> 农产品辐照</a></li>
-							<li><a href=""><i class="fa fa-circle-o"></i> 日用品辐照</a></li>
 						</ul>
 
 				    </aside>
