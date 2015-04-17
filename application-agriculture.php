@@ -93,7 +93,7 @@
 							    
 							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;构成大米的细胞是一种储藏细胞，其内部积累了淀粉、蛋白质、脂肪等多种成分，极易受虫、霉菌侵害。谷物和豆类由于虫害、霉变和不当的保藏方法每年都会发生大量损失。</P>
 							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传统的储粮防治多以化学方法为主，化学药剂的长期使用不仅污染环境，而且残留药物也直接危害到人类健康。</P>
-							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照技术能在不产生高温、引起较大化学变化、变质或污染的情况下，对储粮害虫有着较好的致死效果或使害虫发生生理变化而导致不育，所以辐照技术是<label style="color:#428bca">控制和杀灭粮食中害虫</label>、减少粮食损失的有效手段。</P>
+							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照技术能在不产生高温、引起较大化学变化、变质或污染的情况下，对储粮害虫有着较好的致死效果或使害虫发生生理变化而导致不育，所以辐照技术是<label style="color:#ffe100">控制和杀灭粮食中害虫</label>、减少粮食损失的有效手段。</P>
 							    	</div>
                  	 			</div>
                 			</div>
@@ -102,7 +102,7 @@
                   				<div class="toggle active">
                     				<label>香辛料、调味品和脱水蔬菜</label>
                     				<div class="toggle-content">
-							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;香辛料和调味品是人们日常生活所必需的。其主要成分是一些植物的根、茎、叶、皮、果实、芽等，或其提取物，具有刺激性香味，赋予食物风味，有增强食欲、助消化和吸收等功效。这些香辛料和调味品在生产和加工过程中，易被一些微生物和害虫污染，特别是<label style="color:#428bca">霉菌和芽孢杆菌。</label></P>
+							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;香辛料和调味品是人们日常生活所必需的。其主要成分是一些植物的根、茎、叶、皮、果实、芽等，或其提取物，具有刺激性香味，赋予食物风味，有增强食欲、助消化和吸收等功效。这些香辛料和调味品在生产和加工过程中，易被一些微生物和害虫污染，特别是<label style="color:#ffe100">霉菌和芽孢杆菌。</label></P>
 							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;加热方法杀菌：破坏调味品中的香味成分；化学熏蒸发杀菌：化学物质残留而导致调味品变味；辐照杀菌和杀虫可以达到理想的效果。</P>
 							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;脱水蔬菜对杀菌的要求与调味品基本一致，而且辐照对脱水蔬菜对其品质还有改善作用，经辐处理的脱水蔬菜不但卫生，而且干菜的复水时间短，复水率高。</P>
 							   		</div>
@@ -115,7 +115,7 @@
                     				<div class="toggle-content">
 							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;果蔬类农产品最大特点是含水量相当高，极易腐败变质，导致其保存期较短。</P>
 							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人们常常采用物理法和化学法对果蔬进行贮藏保鲜，提高其抗病性，延长其保鲜期。物理方法如降低环境温度、控制贮藏库中气体浓度等操作困难，耗时长，一次性投入大，不易普及；化学方法如使用防腐剂化学涂层等，会对果蔬造成一定毒害，达不到绿色农产品和有机农产品的要求，不宜提倡。</P>
-							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来，国内外学者大量研究表明，电离辐射技术辐照处理可以<label style="color:#428bca">控制果蔬腐烂</label>，延长采后寿命。适量的辐照剂量对果蔬可以起到杀虫灭菌、调节成熟度、保持园艺产品鲜度和改变加工性状的作用。</P>
+							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来，国内外学者大量研究表明，电离辐射技术辐照处理可以<label style="color:#ffe100">控制果蔬腐烂</label>，延长采后寿命。适量的辐照剂量对果蔬可以起到杀虫灭菌、调节成熟度、保持园艺产品鲜度和改变加工性状的作用。</P>
 							    	</div>
                  	 			</div>
                 			</div>
@@ -125,7 +125,7 @@
                     				<label>肉类制品</label>
                     				<div class="toggle-content">
 							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;农产品富含蛋白质、脂肪、氨基酸、维生素等多种营养成分。在制备和处理过程中会出现不同程度的细菌污染，若不加以控制，极易导致产品腐败。</P>
-							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;肉类及其制品的辐照主要是<label style="color:#428bca">抑制或杀灭腐败性微生物和致病性微生物</label>。采用辐照技术处理肉品可以延长贮存期，改善卫生质量，又能提高肉品品质，同时还可以替代部分着色剂亚硝酸盐的作用，从而减少其用量达到保色与防腐的双重目的。</P>
+							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;肉类及其制品的辐照主要是<label style="color:#ffe100">抑制或杀灭腐败性微生物和致病性微生物</label>。采用辐照技术处理肉品可以延长贮存期，改善卫生质量，又能提高肉品品质，同时还可以替代部分着色剂亚硝酸盐的作用，从而减少其用量达到保色与防腐的双重目的。</P>
 							    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如新鲜猪肉用隔水、隔氧性能好的食品包装材料真空封装，辐照处理后在常温下储存两个月，其色泽、粘度、弹性、气味等使用品质近似新鲜猪肉。鸡鸭肉、兔肉、牛肉、鱼肉及其制品辐照贮藏技术也得到了应用。</P>
 							    	</div>
                  	 			</div>

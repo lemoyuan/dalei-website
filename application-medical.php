@@ -52,25 +52,25 @@
 							             <i class="fa fa-star"></i>
 						          </div>
 
-                      <P style="color:#bbb"><label style="color:#428bca">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;医疗保健产品</label>是指<label>医用器械</label>、<label>医药产品</label>（药品和生物制品）及<label>体外诊断用品</label>。医用器械是指用于人体治疗、诊断等用品，设备、工具、器械、移植敷料或其他类似物品。</P>
+                      <P style="color:#bbb"><label style="color:#ffe100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;医疗保健产品</label>是指<label>医用器械</label>、<label>医药产品</label>（药品和生物制品）及<label>体外诊断用品</label>。医用器械是指用于人体治疗、诊断等用品，设备、工具、器械、移植敷料或其他类似物品。</P>
 
-                      <P style="color:#bbb"><label style="color:#428bca">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照灭菌消毒原理</label>：利用电子直线加速器产生的 10Mev 以下的高能电子射线的化学生物效应，以达到杀灭病原微生物的目的。</P>
+                      <P style="color:#bbb"><label style="color:#ffe100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照灭菌消毒原理</label>：利用电子直线加速器产生的 10Mev 以下的高能电子射线的化学生物效应，以达到杀灭病原微生物的目的。</P>
 
                       <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;医疗保健产品辐射灭菌是一项新技术，比蒸汽或环氧乙烷（Eto)灭菌法有许多优点：</strong></h5>
 							        <ul>
-                          <li><P style="color:#bbb">辐射灭菌可在<label style="color:#428bca">室温</label>下进行，适用于热敏感的塑料制品、生物体和药物；</P></li>
-                          <li><P style="color:#bbb">辐射穿透力强，<label style="color:#428bca">杀菌均匀彻底</label>，大量采用经辐射灭菌的一次性使用的医疗用品，可避免交叉感染降低发病率；</P></li>
-                          <li><P style="color:#bbb">辐射灭菌<label style="color:#428bca">速度快</label>，操作简便，稳定可靠；</P></li>
-                          <li><P style="color:#bbb">辐射灭菌后的物品<label style="color:#428bca">无毒性</label>、<label style="color:#428bca">无副作用</label>、<label style="color:#428bca">无残留物</label>、安全环保。</P></li>
+                          <li><P style="color:#bbb">辐射灭菌可在<label style="color:#ffe100">室温</label>下进行，适用于热敏感的塑料制品、生物体和药物；</P></li>
+                          <li><P style="color:#bbb">辐射穿透力强，<label style="color:#ffe100">杀菌均匀彻底</label>，大量采用经辐射灭菌的一次性使用的医疗用品，可避免交叉感染降低发病率；</P></li>
+                          <li><P style="color:#bbb">辐射灭菌<label style="color:#ffe100">速度快</label>，操作简便，稳定可靠；</P></li>
+                          <li><P style="color:#bbb">辐射灭菌后的物品<label style="color:#ffe100">无毒性</label>、<label style="color:#ffe100">无副作用</label>、<label style="color:#ffe100">无残留物</label>、安全环保。</P></li>
                       </ul>
                       </br>
 
 						          <h4><strong>中成药辐照灭菌</strong></h4>
 						          <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;卫生部标准规定:</strong></h5>
                       <ul>
-                          <li><P style="color:#bbb">60Co辐照仅是中药灭菌的<label style="color:#428bca">辅助手段</label>，各级卫生行政部门要按照有关法规监督“标准”的执行，防止滥用辐照灭菌。</P></li>
+                          <li><P style="color:#bbb">60Co辐照仅是中药灭菌的<label style="color:#ffe100">辅助手段</label>，各级卫生行政部门要按照有关法规监督“标准”的执行，防止滥用辐照灭菌。</P></li>
                           <li><P style="color:#bbb">有关生产企业应按照《药品生产质量管理规范》(GMP)要求，重视对所用药材使用前进行拣选、整理、洗涤等前处理加工，生产过程控制在不同洁净级别的厂房内，尽量把微生物的含量控制在一定范围内，如果微生物含量超标，再辅以适宜的灭菌方法，保证药品卫生质量的。</P></li>
-                          <li><P style="color:#bbb">在应用中辐照剂量的选择非常重要，应<label style="color:#428bca">以最小的剂量达到最大的灭菌效果</label>，尽量减少重复辐照，保证药物质量。</P></li>
+                          <li><P style="color:#bbb">在应用中辐照剂量的选择非常重要，应<label style="color:#ffe100">以最小的剂量达到最大的灭菌效果</label>，尽量减少重复辐照，保证药物质量。</P></li>
                       </ul>
 
                       <div class="row text-center">
@@ -136,13 +136,13 @@
                           <div class="toggle">
                               <label>灭菌效果与辐照剂量的关系</label>
                               <div class="toggle-content">
-                                  <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照剂量越大，灭菌效果越好。但辐照剂量过大，对药品中某些有效成分可能会有一定的影响，因此在具体的试验中应确定最佳辐照剂量，并按<label style="color:#428bca">最佳剂量</label>进行辐照。</P>
+                                  <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照剂量越大，灭菌效果越好。但辐照剂量过大，对药品中某些有效成分可能会有一定的影响，因此在具体的试验中应确定最佳辐照剂量，并按<label style="color:#ffe100">最佳剂量</label>进行辐照。</P>
                                   <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国药典规定高剂量有效灭菌为 2.5 kGy，中剂量为 1 kGy，低剂量为 0.2～0.4 kGy。</P>
                                   <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我国卫生部的标准规定辐照中药最高耐受剂量为
                                   <ul>
-                                      <li><span style="color:#bbb"><label style="color:#428bca">散剂、片剂</label>： 3 kGy</span></li>
-                                      <li><span style="color:#bbb"><label style="color:#428bca">丸剂</label>： 5 kGy</span></li>
-                                      <li><span style="color:#bbb"><label style="color:#428bca">中药原料粉</label>： 6 kGy</span></li>
+                                      <li><span style="color:#bbb"><label style="color:#ffe100">散剂、片剂</label>： 3 kGy</span></li>
+                                      <li><span style="color:#bbb"><label style="color:#ffe100">丸剂</label>： 5 kGy</span></li>
+                                      <li><span style="color:#bbb"><label style="color:#ffe100">中药原料粉</label>： 6 kGy</span></li>
                                   </ul>
                             </div>
                           </div>
@@ -184,10 +184,10 @@
 
                       <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前辐射灭菌消毒的医用器械种类繁多，主要是以下几大类： </P>                        
                       <ul>
-                          <li><P style="color:#bbb"><label style="color:#428bca">卫生材料</label>是以棉织物、无纺布等为材料制作的医用敷料、手术巾、手术衣、急救包和棉球等十几种卫生材料的总称。目前，我国的生产企业约有400多家，43%的企业生产的产品出口。</P></li>
-                          <li><P style="color:#bbb"><label style="color:#428bca">医用乳胶手套</label>大都采用辐射灭菌法，我国较具规模的生产企业约有30家，年产量约为3亿副。</P></li>
-                          <li><P style="color:#bbb"><label style="color:#428bca">一次性使用的高分子医疗用品</label>非常多，如注射器、手术器械、手套、采血与输血器具、吸入治疗装置、绷带、胶布、药棉、罩衣、帽子等；手术缝合线、体内插入物（如心脏瓣膜）等。</P></li>
-                          <li><P style="color:#bbb"><label style="color:#428bca">药品包装材料</label>主要有药品包装塑料制品、药品包装用复合膜、药品包装用PTP铝箔、疫苗包装瓶和抗生素铝塑组合盖等，国家食品药品监督管理总局已明令眼药水的包装瓶要达到无菌级，所以辐射灭菌在药品包装材料领域有巨大的市场前景。</P></li>
+                          <li><P style="color:#bbb"><label style="color:#ffe100">卫生材料</label>是以棉织物、无纺布等为材料制作的医用敷料、手术巾、手术衣、急救包和棉球等十几种卫生材料的总称。目前，我国的生产企业约有400多家，43%的企业生产的产品出口。</P></li>
+                          <li><P style="color:#bbb"><label style="color:#ffe100">医用乳胶手套</label>大都采用辐射灭菌法，我国较具规模的生产企业约有30家，年产量约为3亿副。</P></li>
+                          <li><P style="color:#bbb"><label style="color:#ffe100">一次性使用的高分子医疗用品</label>非常多，如注射器、手术器械、手套、采血与输血器具、吸入治疗装置、绷带、胶布、药棉、罩衣、帽子等；手术缝合线、体内插入物（如心脏瓣膜）等。</P></li>
+                          <li><P style="color:#bbb"><label style="color:#ffe100">药品包装材料</label>主要有药品包装塑料制品、药品包装用复合膜、药品包装用PTP铝箔、疫苗包装瓶和抗生素铝塑组合盖等，国家食品药品监督管理总局已明令眼药水的包装瓶要达到无菌级，所以辐射灭菌在药品包装材料领域有巨大的市场前景。</P></li>
                       </ul>
                       </br>                           
                       <div class="alert alert-info" style="background-color:#05173b">
