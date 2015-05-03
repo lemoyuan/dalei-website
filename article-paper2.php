@@ -111,7 +111,7 @@
                            	
                             <div class="row bs-callout" style="background-color:#05173b; margin-bottom:0px"><!-- divider -->
 						    	<div class="text-center">
-							    <h4 class="padding20"><i class="fa fa-hand-o-right" style="color:#36a0da"></i>声明：公司技术指导性文章，供学习和交流使用，引用请注明出处</h4>
+							    <h4 class="padding20"><i class="fa fa-hand-o-right" style="color:#36a0da"></i>声明：供学习和交流使用，引用请注明出处</h4>
 							</div>
 					    </div>
 
