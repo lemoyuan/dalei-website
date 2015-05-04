@@ -33,19 +33,20 @@
 
 				    	<div class="widget">
 
-							<h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-search"></i>搜索</strong></h4>
+							<label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-search"></i>搜索</label>
 
-							<form method="get" action="#" class="input-group">
+					         	<form method="get" action="#" class="input-group">
 								<input type="text" class="form-control" name="k" id="k" value="" placeholder="search..." />
 								<span class="input-group-btn">
 									<button class="btn btn-primary"><i class="fa fa-search"></i></button>
 								</span>
 							</form>
+                                                        </br>
 						</div>
 
 						<div class="widget">
 
-							<h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-refresh"></i>近期更新</strong></h4>
+							<label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-refresh"></i>近期更新</label>
 
 							<ul>
 								<li><a href="article-paper3.php"><i class="fa fa-sign-out"></i>电真空器件的使用与维护 </a> <small></small></li>
@@ -71,7 +72,9 @@
                                                               <li><a href="#chart1">高压系统的维护</a></li>
                                                               <li><a href="#chart2">结束语</a></li>
                                                           </ol>
-                                                       </div>
+
+                                                          <div><a href="tech-garden.php"><i class="fa fa-rotate-left"></i>返回前一页</a></div>
+                                                      </div>
 
                                                    </div>
 				    </aside>
