@@ -33,6 +33,32 @@
 					<span class="js_loader"><i class="fa fa-asterisk fa-spin"></i>LOADING</span>
 
 					<ul class="masonry-list">
+                                                    <li class="masonry-item" style="background-color:#444444">
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4><a href="paper-seafood-highdose-irradiation.php">高能量β射线设备与海鲜食品高剂量辐照试验</a></h4>
+                                                   <br/>
+
+                                                                <div class="col-md-12 col-sm-6 col-xs-12" style="margin-bottom:20px;">
+						            <figure>
+							                <img class="img-responsive" src="assets/images/articles/seafood-highdose.png" alt="大镭核技术" />
+						            </figure>
+				                            </div>	         
+
+								<!-- blog short preview -->
+								<p style="color:#bbb">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专用的射线设备结合高剂量辐照工艺，有助于推出不同于传统灭菌保鲜的新型即食海鲜食品产品。 · · · · · ·
+								</p>
+
+								<!-- read more button -->
+								<a href="paper-seafood-highdose-irradiation.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+							</div>
+
+						</li>
+
 
 						<li class="masonry-item" style="background-color:#444444">
 
@@ -42,11 +68,11 @@
 								<h4><a href="article-paper3.php">电真空器件的使用与维护</a></h4>
                                                    <br/>
 
-                                 <div class="col-md-12 col-sm-6 col-xs-12" style="margin-bottom:20px;">
+                                                                <div class="col-md-12 col-sm-6 col-xs-12" style="margin-bottom:20px;">
 						            <figure>
 							                <img class="img-responsive" src="assets/images/articles/egun.jpg" alt="大镭核技术" />
 						            </figure>
-				</div>	         
+				                            </div>	         
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
