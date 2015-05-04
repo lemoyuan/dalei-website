@@ -27,14 +27,13 @@
 			
             <!--article-->
             <section class="container">
-
-				<div class="row">
-
+				
+                    <div class="row">
 				    <aside class="col-md-3">
 
 				    	<div class="widget">
 
-							<h4><strong>文章搜索</strong></h4>
+							<h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-search"></i>搜索</strong></h4>
 
 							<form method="get" action="#" class="input-group">
 								<input type="text" class="form-control" name="k" id="k" value="" placeholder="search..." />
@@ -46,29 +45,39 @@
 
 						<div class="widget">
 
-							<h4><strong>首页</strong></h4>
-
-						    <ul class="nav nav-list">
-							    <li><a href="tech-garden.php"><i class="fa fa-circle-o"></i>技术园地</a></li>
-						    </ul>
-						</div>
-
-						<!-- recent posts -->
-						<div class="widget">
-
-							<h4><strong>近期更新</strong></h4>
+							<h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-refresh"></i>近期更新</strong></h4>
 
 							<ul>
 								<li><a href="article-paper3.php"><i class="fa fa-sign-out"></i>电真空器件的使用与维护 </a> <small></small></li>
 								<li><a href="article-paper2.php"><i class="fa fa-sign-out"></i>工业辐照直线电子加速器技术维护要点与实践 </a> <small> </small></li>
 								<li><a href="article-paper1.php"><i class="fa fa-sign-out"></i>食品与半导体辐照加工等行业对射线设备性能的要求 </a> <small></small></li>
 							</ul>
+</br>
 
 						</div>
+
+                                                <div class="niu2-right-container">
+                                                     <div id="niu2-sidebar-meta" class="niu2-sidebar">
+                                                          <div class="niu2-sidebar-label"><i class="icon-book"></i>分类:</div>
+                                                          <div class="niu2-sidebar-value"><a href="http://blog.atime.me/note/index.html">笔记</a></div>
+                                                     </div>
+
+                                                     <div id="niu2-sidebar-toc" class="niu2-sidebar" data-status="closed">
+                                                          <div class="niu2-sidebar-label">
+                                                               <i id="niu2-sidebar-toc-ctrl" class="icon-open-tocs"></i>目录
+                                                          </div>
+                                                          <ol id="niu2-sidebar-toc-list">
+                                                              <li><a href="#content-heading">真空系统常见故障与解决办法</a></li>
+                                                              <li><a href="#chart1">高压系统的维护</a></li>
+                                                              <li><a href="#chart2">结束语</a></li>
+                                                          </ol>
+                                                       </div>
+
+                                                   </div>
 				    </aside>
 
                     <div class="col-md-9" style="padding:20px">
-				    	<div class="col-md-12">
+				    	<div class="body-content">
 
 						    <h2><strong>工业辐照直线电子加速器技术维护要点与实践（节选）</strong></h2>
                             <ul>
@@ -84,7 +93,7 @@
 
 					        <br/>
 
-						    <h4>&nbsp;&nbsp;&nbsp;&nbsp;<strong>真空系统常见故障与解决办法</strong></h4>
+						    <h4 id="content-heading">&nbsp;&nbsp;&nbsp;&nbsp;<strong>真空系统常见故障与解决办法</strong></h4>
 						    </ul>
 					    	<ul>
 					    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子加速器必须在高真空条件下运行，要求真空度要达到1×10-8Pa左右，平时由数个溅射离子泵维持其需要的真空度。由于连接部件多，形状复杂，以及材料缺陷等原因，真空系统的故障随时都有可能出现，而且一旦真空出现问题，查找起来非常困难。真空系统容易出问题的是焊接部位，两个厚薄不一的部件如厚法兰与薄壁管焊接时，不管用氩弧焊还是电弧焊，都存在受热不匀冷却后在材料内部残留内应力的问题。这种情况开始用仪器检漏都检不出来，但随着使用时间的增加，设备开关机多次重复温差变化，就有可能产生细微裂缝而导致系统真空变坏。</P>
@@ -94,7 +103,7 @@
 
 						    <br/>
 
-                            <h4>&nbsp;&nbsp;&nbsp;&nbsp;<strong>高压系统的维护</strong></h4>
+                            <h4 id="chart1">&nbsp;&nbsp;&nbsp;&nbsp;<strong>高压系统的维护</strong></h4>
 						    </ul>
 					    	<ul>
 					    		<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子加速器系统离不开高压，通常电子枪上就加有几十KV的高压，脉冲调制器中的充放电回路也有一、二十KV以上的高压，速调管上更是加有一百二、三十KV以上的高压。任何设备中高电压、大电流部位历来都是技术维护保养的重点，对于加速器来说也不例外。高压部位最常见的故障现象便是打火，有时候甚至会出现炸雷一样的打火声，且很难找到打火的地方和原因，重复出现打火故障时往往打火点也不在同一处。高压打火的原因通常有绝缘和某些部件故障引起。我们曾遇到过因充电电感绝缘子问题以及高压过荷保护电路同时故障引起的调制器内到处打火并打坏许多零件的现象。也有闸流管到寿命失效引起的机架内到处打火的现象。</P>
@@ -104,7 +113,7 @@
                            	</ul>	
 
                            	<br/>
-                            <h4>&nbsp;&nbsp;&nbsp;&nbsp;<strong>结束语</strong></h4>
+                            <h4 id="chart2">&nbsp;&nbsp;&nbsp;&nbsp;<strong>结束语</strong></h4>
                             <ul>
                               <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子加速器系统组成复杂，通常又属于研制类的装置，使用初期可能会暴露出一些问题，故障率也许会比较高。作为应用单位的技术维护工程师，应该在充分了解系统工作原理的基础上，运用专业基础知识，排除故障，分析原因，逐步地予以完善提高，使设备达到比较理想的工作状态，大型电真空器件的寿命也尽量得以延长，大幅度节约运行成本。多年来，我们遵循了这一指导思想，逐步解决加速器运行过程中出现的各类问题，科学细致地做好技术维护工作，使设备运行渐趋向于正常、安全、稳定的状态，也有过盛夏季节机房温度33℃的条件下连续开机400多小时的记录；应用国产电子枪寿命达到了10000小时以上，应用国产速调管寿命达到7000～10000小时，应用国产的闸流管寿命达到4000～5000小时。</P>
                            	</ul>	
@@ -127,7 +136,9 @@
 
     <?php require('footer.html');?>
     <?php require('script.html');?>
-
+    <script type="text/javascript">
+            onContentLoaded();
+    </script>
 
 
 		
