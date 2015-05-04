@@ -39,13 +39,6 @@
 
 								<!-- article title -->
 								<h4><a href="paper-seafood-highdose-irradiation.php">高能量β射线设备与海鲜食品高剂量辐照试验</a></h4>
-                                                   <br/>
-
-                                                                <div class="col-md-12 col-sm-6 col-xs-12" style="margin-bottom:20px;">
-						            <figure>
-							                <img class="img-responsive" src="assets/images/articles/seafood-highdose.png" alt="大镭核技术" />
-						            </figure>
-				                            </div>	         
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">

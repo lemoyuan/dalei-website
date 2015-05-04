@@ -129,21 +129,29 @@
                                                              <h4 id="chart2-section1">&nbsp;&nbsp;&nbsp;&nbsp;<strong>高剂量辐照对射线装置的要求</strong></h4>
 					    	      <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;放射源60Co装置用于海产品高剂量辐照是不适宜的，主要是60Co装置γ射线剂量率低，需要辐照的时间长，而海鲜产品肉质鲜嫩颜色白净容易变质和辐照变色，且易产生“辐照味”，影响食品感官性能。另外，建60Co辐照装置投入大，审批困难，海鲜产品辐照货源不稳定，普及应用比较困难。所以，目前最合适的射线产生装置还是能产生高能量β射线的电子直线加速器。</P>
 					    	      <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子加速器输出能量集中，辐照效率高，能够以较快的速度实施高剂量辐照。食品辐照允许射线最高能量为10MeV。不同于γ射线的是，10MeV能量的β射线在密度为1的物体中理论穿透深度约为5CM，实际大约在4.5CM，通常的小包装食品需双向照射才能达到均匀的剂量。被照射物体接受剂量的均匀度同时也取决于射线能谱的分布情况，所以对加速器输出束流波形前后沿时间都有比较高的要求。</P>
-					               <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们采用浙江大镭核技术应用设备有限公司研发制造DL-Ⅱ型直线加速器作为射线源，主要特点为模块化组合的整机型的设备，方便安装使用，智能化程度高，便于剂量、能量、扫描均匀度的调整控制。主要技术指标为：
-                                                                <ul>
-                                                                   <li>输出电子束能量：10MeV</li>
-                                                                   <li>输出电子束功率：8kW</li>
-                                                                   <li>扫描宽度：300～800mm可调</li>
-                                                                   <li>能量不稳定度：≤2%</li>
-                                                                   <li>束流不稳定度：≤5%</li>
-                                                                   <li>扫描不均匀度：≤5%</li>
-                                                                </ul>
-                                                             </P>
+					               <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们采用浙江大镭核技术应用设备有限公司研发制造DL-Ⅱ型直线加速器作为射线源，主要特点为模块化组合的整机型的设备，方便安装使用，智能化程度高，便于剂量、能量、扫描均匀度的调整控制。主要技术指标为：</P>
+                                                             <div class="row">
+                                                                <div class="col-md-4">
+                                                                     <ul>
+                                                                        <li>输出电子束能量：10MeV</li>
+                                                                        <li>输出电子束功率：8kW</li>
+                                                                        <li>扫描宽度：300～800mm可调</li>
+                                                                        <li>能量不稳定度：≤2%</li>
+                                                                        <li>束流不稳定度：≤5%</li>
+                                                                        <li>扫描不均匀度：≤5%</li>
+                                                                     </ul>
+                                                                </div>
+                                                                <div class="col-md-2"></div>
+                                                                <div class="col-md-3">
+						            <figure>
+							                <img class="img-responsive" src="assets/images/articles/seafood-highdose.png" alt="大镭核技术" />
+						            </figure>      
+                                                                   <div class="text-center"><label>图1   深度剂量分布曲线</label></div>   
+                                                                </div>
+                                                             </div>
 
                                                              <h4 id="chart2-section2">&nbsp;&nbsp;&nbsp;&nbsp;<strong>被照射物体内剂量分布情况分析</strong></h4>
-                                                             <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;剂量在物体深度的分布情况是我们所关心的，否则就有可能因为剂量分布的不均匀而使实验数据不准。</p>
-                                                             <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按GB/T 16841-1997 电子束辐射加工装置剂量学导则，在均质物体中不同深度剂量分布情况如图1。  </p>
-                                                             <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从图中可以看出，β射线单向照射从表面到最佳深度，剂量不均匀度；弥补的办法是双向照射，单次深度取，剂量不均匀度可以减到1.1。 </p>
+                                                             <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;剂量在物体深度的分布情况是我们所关心的，否则就有可能因为剂量分布的不均匀而使实验数据不准。按GB/T 16841-1997 电子束辐射加工装置剂量学导则，在均质物体中不同深度剂量分布情况如图1。从图中可以看出，β射线单向照射从表面到最佳深度，剂量不均匀度；弥补的办法是双向照射，单次深度取，剂量不均匀度可以减到1.1。</p>
                                                              <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高水分海鲜产品通常浸泡在汤中，按密度等于1来考虑。10MeVβ射线的作用深度可以根据GB/T15447-95中的计算公式 Ep = 0.22 + 1.9Rp + 0.0025 (Rp ^ 2),推出≈5.18cm，≈4.5CM。</p>
                                                              <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于罐装海鲜食品和真空包装鲜鱼肉类产品，装箱时控制总高度8～9CM，双向照射，可望获得较为均匀的剂量吸收。</p>
                                                              <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;射线作用于物体，是以电子射线束横向扫描、物体纵向均匀移动的方式进行的。根据物体吸收剂量单位定义，1，在已知电子束射线的能量、功率、扫描宽度的条件下，容易求得匀速移动物体所接受的剂量。为使实验样品所接受的剂量尽量均匀，将实验样品置于横向尺寸小于射线扫描幅度1/3的盒子中以减少扫描不均匀带来的影响。 </p>
@@ -170,6 +178,37 @@
 
                                                              <h4 id="chart4-section2">&nbsp;&nbsp;&nbsp;&nbsp;<strong>测试结果及分析</strong></h4>
                                                              <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对所有评分表进行综合统计平均后得出的结果见表1。</p>
+
+                                                             <div class="text-center"><label>表1                试验样品主观评价平均得分统计表   </label></div>   
+                                                             <table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
+                                                                    <tr>
+                                                                        <th width="" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>样本</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>外观色泽</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>气味</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>口味</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>鲜度</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>肉质口感</span></th>
+                                                                    </tr>
+
+                                                                    <tr>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>A（经辐照）</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 4.88</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>4.21</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 4</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>4.86</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 4.17</span></td>
+                                                                    </tr>
+
+                                                                    <tr>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>B（未辐照）</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>5</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>3.29</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>2.29</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>2</span></td>
+                                                                    </tr>
+                                                             </table>       
+
                                                              <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从表1数据可以看出，除外观色泽这一项外，其余所有项目均为A组远优于B组，得分情况与实际有较好的对应。总的来看，通过高剂量辐照之后，新鲜贻贝肉的色泽略微变浅，隐约可闻得有的“辐照味”，对口感稍有影响但不明显，不影响食欲，如果不与对照组比较单独食用则根本感觉不到。影响较小的是口味鲜美度，综合得分4.86分。未经辐照的样本在4℃下冷藏60h后，已轻微变质，除外观色泽未变外，肉质口感已经变差。主观评价结果证明，经过25kGy辐照后对贻贝肉制品风味的影响基本可以忽略。 </p>
                                                              <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;鲜鱼肉制品主观评价情况基本近似。未经辐照的通过7天常温保存，已有轻微变质现象，口感变差，而经过辐照的口感、色泽无变化，也感觉不到有辐照味。 </p>
                                                              
@@ -177,7 +216,84 @@
 
                                                              <h4 id="chart5-section1">&nbsp;&nbsp;&nbsp;&nbsp;<strong>微生物培养试验</strong></h4>
 					    	      <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所有样本在38℃恒温培养箱内连续培养，每隔10天左右对不同批次的样本抽样检测，检测数据如表2。</P>
-					    	      
+
+                                                             <div class="text-center"><label>表2     试验样本微生物培养检测数据     </label></div>   
+                                                             <table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
+                                                                    <tr>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>样本编号</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>011</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>012</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>013</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>021</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>022</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>023</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>024</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>025</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>026</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>041</span></th>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>042</span></th>
+                                                                    </tr>
+
+                                                                    <tr>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>辐照剂量（kGy）</span></th>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 15</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>15</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 25</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>15</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 25</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 15</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>25</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 15</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>25</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 25</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 25</span></td>
+                                                                    </tr>
+
+                                                                    <tr>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>培养时间（天）</span></th>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>10</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>22</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>22</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>9</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>9</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>21</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>21</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>31</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>31</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>20</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 26</span></td>
+                                                                    </tr>
+                                                                   <tr>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>细菌总数（cfu/g）</span></th>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>3.0*10^2</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>2.0*10^3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>30</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>50</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><10</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>5.5*10^2</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>1.0*10^3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>1.3*10^3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>8.9*10^2</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>8.0*10^2</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>3.5*10^3</span></td>
+                                                                    </tr>
+                                                                   <tr>
+                                                                        <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>大肠菌群(MPN/g)</span></th>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                        <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span><3</span></td>
+                                                                    </tr>
+                                                                    
+                                                             </table>       
+
                                                              <h4 id="chart5-section2">&nbsp;&nbsp;&nbsp;&nbsp;<strong>数据分析</strong></h4>
                                                              <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从表2的数据可以看出，所有样本在38℃恒温培养箱中培养9～31天后菌落总数都小于1×104cfu/g，致病菌（大肠菌群）未检出，优于国家商检对于出口即食食品微生物含量的控制标准。在这种恒温38℃下培养几十天的条件下有3个样本的菌落总数仅在1次方数量级，说明通过高剂量灭菌的样本基本上达到了无菌的程度。通过破坏性试验的放大效应还可以看出，25kGy剂量的灭菌效果要优于15kGy的剂量。按照在38℃培养箱中放7天等效于常温下保质期6个月的推算，通过足够剂量辐照灭菌的高水分含量的海鲜制品在常温下保质12个月到24个月是可行的。</p>
                                                              					    	    
