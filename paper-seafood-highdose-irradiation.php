@@ -49,9 +49,9 @@
 							<label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-refresh"></i>近期更新</label>
 
 							<ul>
-								<li><a href="article-paper3.php"><i class="fa fa-sign-out"></i>电真空器件的使用与维护 </a> <small></small></li>
-								<li><a href="article-paper2.php"><i class="fa fa-sign-out"></i>工业辐照直线电子加速器技术维护要点与实践 </a> <small> </small></li>
-								<li><a href="article-paper1.php"><i class="fa fa-sign-out"></i>食品与半导体辐照加工等行业对射线设备性能的要求 </a> <small></small></li>
+								<li><a href="paper-seafood-highdose-irradiation.php"><i class="fa fa-sign-out"></i>高能量β射线设备与海鲜食品高剂量辐照试验 </a></li>
+								<li><a href="paper-maintenance.php"><i class="fa fa-sign-out"></i>工业辐照直线电子加速器技术维护要点与实践 </a></li>
+								<li><a href="article-paper1.php"><i class="fa fa-sign-out"></i>食品与半导体辐照加工等行业对射线设备性能的要求 </a></li>
 							</ul>
 </br>
 

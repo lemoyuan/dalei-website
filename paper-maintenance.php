@@ -49,9 +49,9 @@
 							<label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-refresh"></i>近期更新</label>
 
 							<ul>
-								<li><a href="article-paper3.php"><i class="fa fa-sign-out"></i>电真空器件的使用与维护 </a> <small></small></li>
-								<li><a href="article-paper2.php"><i class="fa fa-sign-out"></i>工业辐照直线电子加速器技术维护要点与实践 </a> <small> </small></li>
-								<li><a href="article-paper1.php"><i class="fa fa-sign-out"></i>食品与半导体辐照加工等行业对射线设备性能的要求 </a> <small></small></li>
+								<li><a href="paper-seafood-highdose-irradiation.php"><i class="fa fa-sign-out"></i>高能量β射线设备与海鲜食品高剂量辐照试验</a></li>
+								<li><a href="paper-maintenance.php"><i class="fa fa-sign-out"></i>工业辐照直线电子加速器技术维护要点与实践 </a></li>
+								<li><a href="article-paper1.php"><i class="fa fa-sign-out"></i>食品与半导体辐照加工等行业对射线设备性能的要求 </a></li>
 							</ul>
                                                        </br>
 
@@ -183,7 +183,7 @@
 					    	      <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们在使用的这套设备过去经常发现输出束流缓慢变化波动的现象，通过观察和电路分析，发现高压脉冲和微波脉冲的同步有问题。分析电路后发现两者都是由同步脉冲各自延时几十μs后触发的，由于RC延时电路的不稳定性造成了两个脉冲同步上的偏差。我们把电路改成高压脉冲由微波脉冲延时0.5μs触发，同步关系得到了稳定的保持，改装后设备输出束流一直来非常稳定。</p>
 					    	      <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;加速器许多线路中走的是脉冲直流信号，由于我们靠近海边空气潮湿且含有盐分，容易使接插件部分产生电化学作用而接触不良，这也是一个非常头疼的问题，后来只能在接插件两端焊跳线解决问题。</p>
 
-                                                             <h4 id="chart7">结束语</strong></h4>
+                                                             <h3 id="chart7">结束语</strong></h3>
 					    	      <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子加速器系统组成复杂，通常又属于研制类的装置，使用初期可能会暴露出一些问题，故障率也许会比较高。作为应用单位的技术维护工程师，应该在充分了解系统工作原理的基础上，运用专业基础知识，排除故障，分析原因，逐步地予以完善提高，使设备达到比较理想的工作状态，大型电真空器件的寿命也尽量得以延长，大幅度节约运行成本。多年来，我们遵循了这一指导思想，逐步解决加速器运行过程中出现的各类问题，科学细致地做好技术维护工作，使设备运行渐趋向于正常、安全、稳定的状态，也有过盛夏季节机房温度33℃的条件下连续开机400多小时的记录；应用国产电子枪寿命达到了10000小时以上，应用国产速调管寿命达到7000～10000小时，应用国产的闸流管寿命达到4000～5000小时。</p>
                            
                                                              <div class="row bs-callout" style="background-color:#05173b; margin-bottom:0px"><!-- divider -->
