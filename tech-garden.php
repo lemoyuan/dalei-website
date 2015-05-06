@@ -84,7 +84,7 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="article-paper2.php">工业辐照直线电子加速器技术维护要点与实践</a></h4>
+								<h4><a href="paper-maintenance.php">工业辐照直线电子加速器技术维护要点与实践</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
@@ -92,7 +92,7 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="article-paper2.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="paper-maintenance.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 
 							</div>
 

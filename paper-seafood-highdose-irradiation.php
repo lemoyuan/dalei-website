@@ -113,7 +113,7 @@
 						           <i class="fa fa-star"></i>
 						      </div>
 					    	   
-						      <P style="color:#bbb"><h4 id="content-heading"  style="color:#ffe100">[摘要]</h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按使用需求研制高剂量率辐照射线设备，对几种精加工高水分即食海鲜食品用β射线进行高剂量辐照试验，通过主观评价加权平均和计量测试结果表明，高达25kGy剂量辐照高水分海鲜食品并不对其食用性和风味带来明显的影响，各类微生物可以有效杀灭，能达到常温下长期保存的效果。专用的射线设备结合高剂量辐照工艺，有助于推出不同于传统灭菌保鲜的新型即食海鲜食品产品。</P>
+						      <P style="color:#bbb"><h4 id="content-heading"  style="color:#ffe100">[摘要]</h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按使用需求研制高剂量率辐照射线设备，对几种精加工高水分即食海鲜食品用β射线进行高剂量辐照试验，通过主观评价加权平均和计量测试结果表明，高达25kGy剂量辐照高水分海鲜食品并不对其食用性和风味带来明显的影响，各类微生物可以有效杀灭，能达到常温下长期保存的效果。专用的射线设备结合高剂量辐照工艺，有助于推出不同于传统灭菌保鲜的新型即食海鲜食品产品。</P>
                                                              <P style="color:#bbb"><label style="color:#ffe100">[关键词]</label>&nbsp;&nbsp;射线设备  辐照  剂量  灭菌 </p>
 
 						      <h3 id="chart1"><strong>前言</strong></h3>
