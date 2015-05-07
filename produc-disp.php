@@ -38,7 +38,7 @@
 
 
                 <!--product-->
-				<div class="row">
+				<div class="row" style="font-size:14px;line-height:22px">
 
 
 
@@ -83,7 +83,7 @@
 								<div class="item-box-desc">
 									<h4 class="text-center">智能高功率脉冲调制器</h4>
 									<p class="text-center">
-										MD-1501输出脉冲功率13MW，平均功率60KW<br/>MD-4501 输出脉冲功率13MW，平均功率120KW
+										MD-1501输出脉冲功率13MW<br/>平均功率60KW<br/>MD-4501 输出脉冲功率13MW<br/>平均功率120KW
 									</p>	
 								</div>
 							</div>
@@ -127,7 +127,7 @@
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">加速器循环温度控制机</h4>
-									<p class="text-center">恒温温度设定范围35～50℃,控温精度±0.5℃,介质加热功率 9KW,内循环冷却流量≥60L/m
+									<p class="text-center">恒温温度设定范围35～50℃，控温精度±0.5℃，介质加热功率 9KW，内循环冷却流量≥60L/m
 			                        </p>									
 								</div>
 							</div>
