@@ -176,13 +176,13 @@
 		    <!-- /ONE NATION -->
 
 
-            <section class="container text-center">
+            <section class="container text-center" style="font-size:14px; line-height:22px">
 
 			    <!-- divider -->
 				<hr/>
 			  
 
-			    <dev class="isotope-item col-sm-6 col-md-3 development"><!-- item -->
+			    <div class="isotope-item col-sm-6 col-md-3 development"><!-- item -->
 				    <div class="item-box">
 						<figure>
 							<a class="item-hover " href="prod-eaccel.php" data-plugin-options='{"type":"iframe"}'>
@@ -200,7 +200,7 @@
 						
 						</div>
 					</div>
-				</dev>
+				</div>
 
 				<div class="isotope-item col-sm-6 col-md-3 development"><!-- item 2-->
 				    <div class="item-box">
