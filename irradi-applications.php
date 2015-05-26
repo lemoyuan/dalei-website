@@ -54,7 +54,7 @@
                            <div class="col-md-1">
                            </div>
                            <div class="col-md-10">
-                                <img class="img-responsive" src="assets/images/dalei/application.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备应用"/>
+                                <div align="center"><img class="img-responsive" src="assets/images/dalei/application.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备应用"/></div>
                            </div>
                            <div class="col-md-1">
                            </div>

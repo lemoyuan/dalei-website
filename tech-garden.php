@@ -33,6 +33,24 @@
 					<span class="js_loader"><i class="fa fa-asterisk fa-spin"></i>LOADING</span>
 
 					<ul class="masonry-list">
+                                                   <li class="masonry-item" style="background-color:#444444">
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4><a href="paper-unknown-particle-accel.php">关于粒子加速器你可能不知道的10件事</a></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欧洲核子研究中心（CERN）的大型强子对撞机（LHC）已经逐渐进入了流行文化。在此，《symmetry》杂志整理出了10项你可能不知道的有关于粒子加速器的小知识 · · · · · ·
+								</p>
+
+								<!-- read more button -->
+								<a href="paper-unknown-particle-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+							</div>
+					      </li>
+
                                                     <li class="masonry-item" style="background-color:#444444">
 
 							<div class="item">
