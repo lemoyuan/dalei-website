@@ -33,6 +33,24 @@
 					<span class="js_loader"><i class="fa fa-asterisk fa-spin"></i>LOADING</span>
 
 					<ul class="masonry-list">
+                                                  <li class="masonry-item" style="background-color:#444444">
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4><a href="article-accel-tube.php">辐照加速器的新技术——带电粒子高梯度加速的研究</a></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高梯度加速结构是未来直线加速器的一个重要的发展方向。然而高频真空击穿（rf breakdown）现象严重制约了高梯度加速结构的发展。这是一个极其复杂的物理现象，关于它的研究已经进行几十年了，然而目前学术界对该现象的认识还有很多争议。 · · · · · ·
+								</p>
+
+								<!-- read more button -->
+								<a href="article-accel-tube.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+							</div>
+					      </li>
+   
                                                    <li class="masonry-item" style="background-color:#444444">
 
 							<div class="item">
