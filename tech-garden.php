@@ -38,6 +38,25 @@
 							<div class="item">
 
 								<!-- article title -->
+								<h4><a href="paper-without-accel.php">没了粒子加速器就活不下去的10个理由</a></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;粒子加速器早在几十年前就逐渐走出实验室、渗入到了工业界，而且科学家们还在不停设想新的应用。当用于基础研究的联邦资金减少的时候，科学家就会想新办法来筹钱。罗伯特•柯法特（Robert Kephart）是伊利诺伊加速器中心费米实验室的主任，伊利诺伊州商业和经济机会部（DCEO）联手资助科学研究，并发展粒子加速器的应用。他和他的同事讲解了你大概可能没听说过的10个粒子加速器的应用： · · · · · ·
+								</p>
+
+								<!-- read more button -->
+								<a href="paper-without-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+							</div>
+					      </li>
+
+
+                                                   <li class="masonry-item" style="background-color:#444444">
+
+							<div class="item">
+
+								<!-- article title -->
 								<h4><a href="paper-unknown-particle-accel.php">关于粒子加速器你可能不知道的10件事</a></h4>
 
 								<!-- blog short preview -->
