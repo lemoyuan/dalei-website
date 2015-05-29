@@ -16,7 +16,7 @@
 			<header id="page-title">
                 <div class="container">	
 
-		                <h1>技术</h1>
+		                <h1>科普</h1>
 
 			            <ul class="breadcrumb">
 					       <li><a href="index.php">首页</a></li>
