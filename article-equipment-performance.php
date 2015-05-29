@@ -54,17 +54,7 @@
 						</div>
 
 						<!-- recent posts -->
-						<div class="widget">
-
-							<h4><strong>近期更新</strong></h4>
-
-							<ul>
-								<li><a href="paper-seafood-highdose-irradiation.php"><i class="fa fa-sign-out"></i>高能量β射线设备与海鲜食品高剂量辐照试验 </a></li>
-								<li><a href="paper-maintenance.php"><i class="fa fa-sign-out"></i>工业辐照直线电子加速器技术维护要点与实践 </a></li>
-								<li><a href="article-paper1.php"><i class="fa fa-sign-out"></i>食品与半导体辐照加工等行业对射线设备性能的要求 </a></li>
-							</ul>
-
-						</div>
+                                                       <?php require ('article-updating.html');?>
 				    </aside>
 
                     <div class="col-md-9" style="padding:20px">
