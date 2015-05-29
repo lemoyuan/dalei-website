@@ -130,7 +130,7 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="article-paper1.php">食品与半导体辐照加工等行业对射线设备性能的要求</a></h4>
+								<h4><a href="article-equipment-performance.php">食品与半导体辐照加工等行业对射线设备性能的要求</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
@@ -138,7 +138,7 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="article-paper1.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="article-equipment-performance.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 
 							</div>
 
