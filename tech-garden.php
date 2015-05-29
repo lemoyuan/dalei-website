@@ -147,7 +147,7 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="article-irradiation-applications.php">辐照应用</a></h4>
+								<h4><a href="irradi-applications.php">辐照应用</a></h4>
 						
 								<!-- blog short preview -->
 								<p style="color:#bbb">
@@ -162,7 +162,7 @@
 					         
                                                 </div>
 								<!-- read more button -->
-								<a href="article-irradiation-applications.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
+								<a href="irradi-applications.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
 
 							</div>
 
