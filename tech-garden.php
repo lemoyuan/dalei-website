@@ -21,6 +21,7 @@
 
 			            <ul class="breadcrumb">
 					       <li><a href="index.php">首页</a></li>
+                                                     <li><a href="index.php">技术园地</a></li>
 				        </ul>
 		            </div>
                 </header>

@@ -15,7 +15,7 @@
 			<header id="page-title">
                 <div class="container">	
 
-		                <h1>辐照应用</h1>
+		                <h1>工业辐照</h1>
 
 			            <ul class="breadcrumb">
 					       <li><a href="index.php">首页</a></li>
