@@ -218,33 +218,17 @@
 							</li>
 						</ul>
 						
-					</div>
-
-
-
-
-
-				   
+					</div>				   
 
 				</div>
-
-		
 
 			</section>
 			<!-- /SERVICES -->
 
-
-			
-
 		</div>
 		<!-- /WRAPPER -->
 
-
     <?php require('footer.html');?>
     <?php require('script.html');?>
-
-
-
-		
 	</body>
 </html>

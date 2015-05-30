@@ -32,10 +32,21 @@
 					<span class="js_loader"><i class="fa fa-asterisk fa-spin"></i>LOADING</span>
 
 					<ul class="masonry-list">
-                                                  <li class="masonry-item" style="background-color:#444444">
-
+						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
+								<!-- article title -->
+								<h4><a href="article-food-history.php">国内外食品辐照的进展</a></h4>
 
+								<!-- blog short preview -->
+								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二次世界大战结束后--随着放射性同位素的大量应用和电子加速器等机械辐射源的问世，促进了射线处理食品的发展。</p>
+
+								<!-- read more button -->
+								<a href="article-food-history.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+							</div>
+						</li>
+
+						<li class="masonry-item" style="background-color:#444444">
+							<div class="item">
 								<!-- article title -->
 								<h4><a href="article-accel-tube.php">辐照加速器的新技术——带电粒子高梯度加速的研究</a></h4>
 
@@ -46,11 +57,10 @@
 
 								<!-- read more button -->
 								<a href="article-accel-tube.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
-
 							</div>
-					      </li>
+						</li>
    
-                                                   <li class="masonry-item" style="background-color:#444444">
+						<li class="masonry-item" style="background-color:#444444">
 
 							<div class="item">
 
@@ -66,13 +76,11 @@
 								<a href="paper-without-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 
 							</div>
-					      </li>
+						</li>
 
 
-                                                   <li class="masonry-item" style="background-color:#444444">
-
+						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
-
 								<!-- article title -->
 								<h4><a href="paper-unknown-particle-accel.php">关于粒子加速器你可能不知道的10件事</a></h4>
 
@@ -83,14 +91,11 @@
 
 								<!-- read more button -->
 								<a href="paper-unknown-particle-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
-
 							</div>
-					      </li>
+						</li>
 
-                                                    <li class="masonry-item" style="background-color:#444444">
-
+						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
-
 								<!-- article title -->
 								<h4><a href="paper-seafood-highdose-irradiation.php">高能量β射线设备与海鲜食品高剂量辐照试验</a></h4>
 
@@ -125,9 +130,7 @@
 						</li>
 
 						<li class="masonry-item" style="background-color:#444444">
-
 							<div class="item">
-
 								<!-- article title -->
 								<h4><a href="article-equipment-performance.php">食品与半导体辐照加工等行业对射线设备性能的要求</a></h4>
 
@@ -138,9 +141,7 @@
 
 								<!-- read more button -->
 								<a href="article-equipment-performance.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
-
 							</div>
-
 						</li>
 
                         <li class="masonry-item" style="background-color:#444444">
