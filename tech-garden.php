@@ -35,7 +35,20 @@
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="article-food-history.php">国内外食品辐照的进展</a></h4>
+								<h4><a href="article-radiation-terms.php">辐照量单位与剂量测量</a></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将一个化合物或元素中的放射性同位素的浓度称为"放射性比度"，也用以表示单位数量的物质的放射性强度。</p>
+
+								<!-- read more button -->
+								<a href="article-radiation-terms.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+							</div>
+						</li>
+
+						<li class="masonry-item" style="background-color:#444444">
+							<div class="item">
+								<!-- article title -->
+								<h4><a href="article-food-history.php">国内外食品辐照发展史</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二次世界大战结束后--随着放射性同位素的大量应用和电子加速器等机械辐射源的问世，促进了射线处理食品的发展。</p>
