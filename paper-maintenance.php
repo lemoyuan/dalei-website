@@ -89,7 +89,7 @@
 
                                                    <div id="niu2-left-container">
                                                         <div id="niu2-main-content">
-						      <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭加速器研发中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王超其&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陆锐锋</P>
+						      <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭核新技术研究部&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王超其&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陆锐锋</P>
 
                                                              <div class="divider half-margins"><!-- divider -->
 							  <i class="fa fa-star"></i>

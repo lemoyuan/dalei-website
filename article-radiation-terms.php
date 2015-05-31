@@ -61,7 +61,7 @@
 				    	<div class="col-md-12">
 
 						    <h2><strong>辐照量单位与剂量测量</strong></h2>
-                            <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭加速器研发中心</P>
+                            <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭核新技术研究部</P>
                             <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
@@ -81,7 +81,7 @@
 							</ul>
 						
                             <h4><strong>照射量</strong></h4>
- 							<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;照射量（Exposure）是用来度量X射线或γ射线在空气中电离能力的物理量。使用的单位有：伦琴（Roentgen，简写R）、SI库仑/千克（C·kg-1）</P>
+ 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;照射量（Exposure）是用来度量X射线或γ射线在空气中电离能力的物理量。使用的单位有：伦琴（Roentgen，简写R）、SI库仑/千克（C·kg-1）</P>
 
                             <h4><strong>吸收剂量</strong></h4>
 					    	<ul>

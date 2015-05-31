@@ -61,7 +61,7 @@
 				    	<div class="col-md-12">
 
 						    <h2><strong>国内外食品辐照发展史</strong></h2>
-                            <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭加速器研发中心</P>
+                            <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭核新技术研究部</P>
                             <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						    </div>
