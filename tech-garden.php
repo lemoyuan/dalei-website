@@ -35,6 +35,19 @@
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
+								<h4><a href="article-equipment.php">辐射源与食品辐照装置</a></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工业用食品辐照装置是以辐射源为核心，并配有严格的安全防护设施和自动输送、报警系统。所有的运转设备、自动控制、报警与安全系统必须组合得极其严密</p>
+
+								<!-- read more button -->
+								<a href="article-equipment.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+							</div>
+						</li>
+
+						<li class="masonry-item" style="background-color:#444444">
+							<div class="item">
+								<!-- article title -->
 								<h4><a href="article-radiation-terms.php">辐照量单位与剂量测量</a></h4>
 
 								<!-- blog short preview -->
@@ -90,7 +103,6 @@
 
 							</div>
 						</li>
-
 
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
