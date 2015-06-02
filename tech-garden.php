@@ -74,7 +74,7 @@
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="article-accel-tube.php">辐照加速器的新技术——带电粒子高梯度加速的研究</a></h4>
+								<h4><a href="/articles/article-accel-tube.php">辐照加速器的新技术——带电粒子高梯度加速的研究</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
@@ -82,7 +82,7 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="article-accel-tube.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/article-accel-tube.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
 						</li>
    

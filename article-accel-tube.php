@@ -3,11 +3,11 @@
 <!--[if IE 9]>			<html class="ie ie9"> <![endif]-->
 <!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
 
-	<?php require ('head.html');?>
+	<?php require ('../head.html');?>
 
 	<body class="pattern8"><!-- Available classes for body: boxed , pattern1...pattern10 . Background Image - example add: data-background="assets/images/boxed_background/1.jpg"  -->
 
-		<?php require('nav.html');?>
+		<?php require('../nav.html');?>
 
 
     <!-- WRAPPER -->
@@ -19,8 +19,8 @@
 		                <h1>新技术</h1>
 
 			            <ul class="breadcrumb">
-					       <li><a href="index.php">首页</a></li>
-					       <li><a href="tech-garden.php">技术园地</a></li>
+					       <li><a href="../index.php">首页</a></li>
+					       <li><a href="../tech-garden.php">技术园地</a></li>
 				        </ul>
 		        </div>
             </header>
@@ -49,12 +49,12 @@
 							<h4><strong>首页</strong></h4>
 
 						    <ul class="nav nav-list">
-							    <li><a href="tech-garden.php"><i class="fa fa-circle-o"></i>技术园地</a></li>
+							    <li><a href="../tech-garden.php"><i class="fa fa-circle-o"></i>技术园地</a></li>
 						    </ul>
 						</div>
 
 						<!-- recent posts -->
-						<?php require ('article-updating.html');?>
+						<?php require ('../article-updating.html');?>
 				    </aside>
 
                     <div class="col-md-9" style="padding:20px">
@@ -72,7 +72,7 @@
                             <div class="col-md-6">
                                     <div align="center" >
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/tube1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/tube1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                         <span>图1:新型高梯度加速器</span>
 					                 </div>
@@ -85,7 +85,7 @@
                              		<div align="center" >
 						           
 						                	<figure>
-							                    <img class="img-responsive" src="assets/images/articles/tube2.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/tube2.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                	</figure>
                                             <span>图2: 场至发射型高能电子源 a)</span>
                                       </div>
@@ -97,7 +97,7 @@
 									<div align="center" >
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/tube3.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/tube3.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                         <span>图2: 场至发射型高能电子源 b)</span>
 					                 </div>
@@ -118,8 +118,8 @@
 		</div>
 		<!-- /WRAPPER -->
 
-    <?php require('footer.html');?>
-    <?php require('script.html');?>
+    <?php require('../footer.html');?>
+    <?php require('../script.html');?>
 	
 	</body>
 </html>
