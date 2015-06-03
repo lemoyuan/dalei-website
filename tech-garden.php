@@ -35,39 +35,39 @@
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="article-equipment.php">辐射源与食品辐照装置</a></h4>
+								<h4><a href="/articles/article-equipment.php">辐射源与食品辐照装置</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工业用食品辐照装置是以辐射源为核心，并配有严格的安全防护设施和自动输送、报警系统。所有的运转设备、自动控制、报警与安全系统必须组合得极其严密</p>
 
 								<!-- read more button -->
-								<a href="article-equipment.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/article-equipment.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
 						</li>
 
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="article-radiation-terms.php">辐照量单位与剂量测量</a></h4>
+								<h4><a href="/articles/article-radiation-terms.php">辐照量单位与剂量测量</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将一个化合物或元素中的放射性同位素的浓度称为"放射性比度"，也用以表示单位数量的物质的放射性强度。</p>
 
 								<!-- read more button -->
-								<a href="article-radiation-terms.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/article-radiation-terms.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
 						</li>
 
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="article-food-history.php">国内外食品辐照发展史</a></h4>
+								<h4><a href="/articles/article-food-history.php">国内外食品辐照发展史</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二次世界大战结束后--随着放射性同位素的大量应用和电子加速器等机械辐射源的问世，促进了射线处理食品的发展。</p>
 
 								<!-- read more button -->
-								<a href="article-food-history.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/article-food-history.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
 						</li>
 
@@ -91,7 +91,7 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="paper-without-accel.php">没了粒子加速器就活不下去的10个理由</a></h4>
+								<h4><a href="/articles/paper-without-accel.php">没了粒子加速器就活不下去的10个理由</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
@@ -99,7 +99,7 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="paper-without-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/paper-without-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 
 							</div>
 						</li>
@@ -107,7 +107,7 @@
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="paper-unknown-particle-accel.php">关于粒子加速器你可能不知道的10件事</a></h4>
+								<h4><a href="/articles/paper-unknown-particle-accel.php">关于粒子加速器你可能不知道的10件事</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
@@ -115,14 +115,14 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="paper-unknown-particle-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/paper-unknown-particle-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
 						</li>
 
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="paper-seafood-highdose-irradiation.php">高能量β射线设备与海鲜食品高剂量辐照试验</a></h4>
+								<h4><a href="/articles/paper-seafood-highdose-irradiation.php">高能量β射线设备与海鲜食品高剂量辐照试验</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
@@ -130,7 +130,7 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="paper-seafood-highdose-irradiation.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/paper-seafood-highdose-irradiation.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 
 							</div>
 						</li>
@@ -140,7 +140,7 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="paper-maintenance.php">工业辐照直线电子加速器技术维护要点与实践</a></h4>
+								<h4><a href="/articles/paper-maintenance.php">工业辐照直线电子加速器技术维护要点与实践</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
@@ -148,7 +148,7 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="paper-maintenance.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/paper-maintenance.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 
 							</div>
 
@@ -157,7 +157,7 @@
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="article-equipment-performance.php">食品与半导体辐照加工等行业对射线设备性能的要求</a></h4>
+								<h4><a href="/articles/article-equipment-performance.php">食品与半导体辐照加工等行业对射线设备性能的要求</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
@@ -165,7 +165,7 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="article-equipment-performance.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/article-equipment-performance.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
 						</li>
 

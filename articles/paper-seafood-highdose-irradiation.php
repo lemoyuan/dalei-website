@@ -3,11 +3,11 @@
 <!--[if IE 9]>			<html class="ie ie9"> <![endif]-->
 <!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
 
-	<?php require ('head.html');?>
+	<?php require ('../head.html');?>
 
 	<body class="pattern8"><!-- Available classes for body: boxed , pattern1...pattern10 . Background Image - example add: data-background="assets/images/boxed_background/1.jpg"  -->
 
-		<?php require('nav.html');?>
+		<?php require('../nav.html');?>
 
 
 		<!-- WRAPPER -->
@@ -19,8 +19,8 @@
 		                <h1>技术</h1>
 
 			            <ul class="breadcrumb">
-					       <li><a href="index.php">首页</a></li>
-					       <li><a href="tech-garden.php">技术园地</a></li>
+					       <li><a href="../index.php">首页</a></li>
+					       <li><a href="../tech-garden.php">技术园地</a></li>
 				        </ul>
 		        </div>
             </header>
@@ -133,7 +133,7 @@
                                                                 <div class="col-md-2"></div>
                                                                 <div class="col-md-3">
 						            <figure>
-							                <img class="img-responsive" src="assets/images/articles/seafood-highdose.png" alt="大镭核技术" />
+							                <img class="img-responsive" src="../assets/images/articles/seafood-highdose.png" alt="大镭核技术" />
 						            </figure>      
                                                                    <div class="text-center"><label>图1   深度剂量分布曲线</label></div>   
                                                                 </div>
@@ -334,8 +334,8 @@
 		</div>
 		<!-- /WRAPPER -->
 
-    <?php require('footer.html');?>
-    <?php require('script.html');?>
+    <?php require('../footer.html');?>
+    <?php require('../script.html');?>
     <script type="text/javascript">
             onContentLoaded();
     </script>

@@ -3,11 +3,11 @@
 <!--[if IE 9]>			<html class="ie ie9"> <![endif]-->
 <!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
 
-	<?php require ('head.html');?>
+	<?php require ('../head.html');?>
 
 	<body class="pattern8"><!-- Available classes for body: boxed , pattern1...pattern10 . Background Image - example add: data-background="assets/images/boxed_background/1.jpg"  -->
 
-		<?php require('nav.html');?>
+		<?php require('../nav.html');?>
 
 
 		<!-- WRAPPER -->
@@ -19,8 +19,8 @@
 		                <h1>科普</h1>
 
 			            <ul class="breadcrumb">
-					       <li><a href="index.php">首页</a></li>
-					       <li><a href="tech-garden.php">技术园地</a></li>
+					       <li><a href="../index.php">首页</a></li>
+					       <li><a href="../tech-garden.php">技术园地</a></li>
 				        </ul>
 		        </div>
             </header>
@@ -95,7 +95,7 @@
                                   <div align="center" >
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -108,7 +108,7 @@
 						          <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel2.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel2.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -119,7 +119,7 @@
                                   <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-malaysia.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-malaysia.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -130,7 +130,7 @@
                                   <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel3.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel3.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -145,7 +145,7 @@
 					    	      <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel4.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel4.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -159,7 +159,7 @@
 					    	      <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel5.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel5.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -172,7 +172,7 @@
                                   <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel6.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel6.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -186,7 +186,7 @@
                                   <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel7.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel7.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -201,7 +201,7 @@
    				    	          <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel8.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel8.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -216,7 +216,7 @@
 					    	      <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel9.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel9.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -229,7 +229,7 @@
                                   <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel-animal.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel-animal.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -240,7 +240,7 @@
 					    	      <div align="center">
 						           
 						                <figure>
-							                    <img class="img-responsive" src="assets/images/articles/particle-accel10.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							                    <img class="img-responsive" src="../assets/images/articles/particle-accel10.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						                </figure>
                                                                       
 					               </div>
@@ -270,8 +270,8 @@
 		</div>
 		<!-- /WRAPPER -->
 
-    <?php require('footer.html');?>
-    <?php require('script.html');?>
+    <?php require('../footer.html');?>
+    <?php require('../script.html');?>
     <script type="text/javascript">
             onContentLoaded();
     </script>

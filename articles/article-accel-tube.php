@@ -5,12 +5,12 @@
 
 	<?php require ('../head.html');?>
 
-	<body class="pattern8"><!-- Available classes for body: boxed , pattern1...pattern10 . Background Image - example add: data-background="assets/images/boxed_background/1.jpg"  -->
+	<body class="pattern8"><!-- Available classes for body: boxed , pattern1...pattern10 . Background Image - example add: data-background="../assets/images/boxed_background/1.jpg"  -->
 
 		<?php require('../nav.html');?>
 
 
-    <!-- WRAPPER -->
+    	<!-- WRAPPER -->
 		<div id="wrapper">
 			
 			<header id="page-title">
@@ -54,7 +54,7 @@
 						</div>
 
 						<!-- recent posts -->
-						<?php require ('../article-updating.html');?>
+						<?php require ('article-updating.html');?>
 				    </aside>
 
                     <div class="col-md-9" style="padding:20px">
