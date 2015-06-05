@@ -122,8 +122,6 @@
                     
 				</div>  <br/><br/> <br/> <br/>    
 			    <div class="col-md-12">
-			    
-		        <p class="lead ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大镭核技术应用设备有限公司是由海外留学高端人才创办的高技术企业，落户在舟山经济开发区新港工业园区。企业以国际尖端技术为依托，专业开发制造民用非动力核技术高技术产业化应用的重要装备——高能电子加速器成套设备及各类部件，推进电子直线加速器的产品化与产业化。</p>
 		         <p class="lead ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注重细节，追求完美，视产品为艺术品，在产品中注入生命和灵魂——不仅仅是人工智能。在紧凑型加速器及高加速梯度研究领域位居国际前列。这就是大镭的技术创新：将复杂深奥的现代高科技装置变成简单易用可靠的普通工业设备。</p>
 			</div>
 		    </section>
@@ -170,7 +168,7 @@
 		    <!-- /ONE NATION -->
 
 
-            <section class="container padding100 margin-top100 margin-footer ">
+            <section class="container padding100 margin-top100 margin-footer text-center">
 			    <div class="isotope-item col-sm-6 col-md-3 development"><!-- item -->
 				    <div class="item-box">
 						<figure>
