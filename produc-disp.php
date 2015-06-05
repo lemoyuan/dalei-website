@@ -39,9 +39,6 @@
 
                 <!--product-->
 				<div class="row" style="font-size:14px;line-height:22px">
-
-
-
 					<ul class="sort-destination isotope" data-sort-id="isotope-list" >
 
                         <!-- item -->
@@ -123,7 +120,7 @@
 											<strong>加速器循环温度控制机</strong> 
 										</span>
 									</a>  
-									<img class="img-responsive" src="assets/images/dalei/tem.jpg"  alt="直线电子加速器辐照加工应用大镭核技术加速器循环温度控制机">
+									<img class="img-responsive" src="assets/images/dalei/tem.jpg"  alt="大镭核技术加速器循环温度控制机">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">加速器循环温度控制机</h4>
@@ -132,8 +129,11 @@
 								</div>
 							</div>
 						</li>
+					</ul>
+				</div>
 
-
+				<div class="row" style="font-size:14px;line-height:22px">
+					<ul class="sort-destination isotope" data-sort-id="isotope-list" >
 						<!-- item 4-->
 						<li class="isotope-item col-sm-6 col-md-3 " >
 							<div class="item-box fixed-box"  >
