@@ -236,51 +236,54 @@
             </section>
 			
 
-			<section id="portfolio" class="special-row padding100 margin-top100 margin-footer">
+			<section id="portfolio" class="special-row padding100 margin-top50 margin-footer">
 				<div class="container">
-				<div class="row text-center">
+						<div class="row">
+<h2 class="text-center">辐照应用</h2>
+<div class="col-md-6 col-sm-6 col-xs-12 margin-top30">
 
-					<div class="col-md-4 col-sm-6 col-xs-12 margin-top30">
-						<figure>
-							<img class="img-responsive" src="assets/images/dalei/pic-plant.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备辐照中心" />
-						</figure>
-
-						<h4>辐照中心一角鸟瞰</h4>
-						
+						<div class="col-md-6">
+						<div class="featured-box nobg border-only">
+							<div class="box-content">
+								<a href="application-food.php"><i class="fa fa-apple"></i></a>
+								<a href="application-food.php"><h4>食品辐照</h4></a>
+							</div>
+						</div>
 					</div>
-
-					<div class="col-md-4 col-sm-6 col-xs-12 margin-top30">
-						<figure>
-							<img class="img-responsive" src="assets/images/dalei/index.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备控制室" />
-						</figure>
-
-						<h4>智能控制系统</h4>
-						
+					<div class="col-md-6">
+						<div class="featured-box nobg border-only">
+							<a href="application-medical.php"><i class="fa fa-medkit"></i></a>
+							<a href="application-medical.php"><h4>医疗保健品辐照</h4></a>
+						</div>
 					</div>
-
-					<div class="col-md-4 col-sm-6 col-xs-12 margin-top30">
-						<figure>
-							<img class="img-responsive" src="assets/images/dalei/pic-ui.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备人机界面" />
-						</figure>
-
-						<h4>人机交互界面</h4>
-						
+					<div class="col-md-6">
+						<div class="featured-box nobg border-only">
+							<a href="application-industry.php"><i class="fa fa-flask"></i></a>
+							<a href="application-industry.php"><h4>工业辐照</h4></a>
+						</div>
 					</div>
+					<div class="col-md-6">
+						<div class="featured-box nobg border-only">
+							<a href="application-agriculture.php"><i class="fa fa-lemon-o"></i></a>
+							<a href="application-agriculture.php"><h4>农产品辐照</h4></a>
+						</div>
+					</div>
+					</div>
+								<div class="col-md-6 col-sm-6 col-xs-12 margin-top30">
+										<figure>
+											<img class="img-responsive" src="assets/images/dalei/plant.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备控制室" />
+										</figure>
+									</div>
 
-				</div>
+						</div>
 				</div>
 			</section>
-
 
 		</div>
 		<!-- /WRAPPER -->
 
-
     <?php require('footer.html');?>
     <?php require('script.html');?>
-
-
-
 		
 	</body>
 </html>
