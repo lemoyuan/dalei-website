@@ -52,9 +52,9 @@
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将一个化合物或元素中的放射性同位素的浓度称为"放射性比度"，也用以表示单位数量的物质的放射性强度。</p>
-
+</br>
 								<!-- read more button -->
-								<a href="/articles/article-radiation-terms.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/article-radiation-terms.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>详细资料&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
 						</li>
 

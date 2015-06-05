@@ -128,36 +128,21 @@
 
 
 		    <!-- ONE NATION -->
-		    <section id="portfolio" class="special-row padding100 margin-top100 margin-footer">
+		    <section id="portfolio" class="special-row padding50 margin-top50 margin-footer">
 					<div class="container">
 			  				<div class="row">
+				        			<h2 class="text-center">电子直线加速器成套设备</h2>
 
 									<!-- SERVICE 1 -->
-									<div class="col-md-4 ">
-											<div class="col-md-10 text-center">
-													<i class=" featured-icon  fa fa-gears"></i>
-				        							<h3 style="color:#66B7E2" >大镭加速器</h3>
-													<p class="text-left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国内首家以工业化产品模式提供高能、高功率电子直线加速器整机及相关部件产品的公司。大镭以技术和人才优势，使尝试工业应用的高能加速器不再是技术成果形式的实验室产品，将有力推进射线加工和应用产业的发展。</p>
-											</div>
+									<div class="col-md-6">
+													<ul><li>用于食品杀菌，医疗用品、药材及化妆品灭菌、电力半导体及高分子材料改性等领域</li></br>
+															<li>全智能化控制系统，在线式操作方式</li></br>
+															<li>产品输出能量10 MeV，功率8～20 kW</li>
+													</ul></br>
+													<div class=" text-center"><a href="prod-eaccel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>详细资料&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a></div>
 									</div>
-
-               
-									<!-- SERVICE 2-->
-									<div class="col-md-4 ">
-											<div class="col-md-10  text-center">
-													<i class=" featured-icon  fa fa-superscript"></i>
-					    							<h3 style="color:#66B7E2" >大镭射线应用技术</h3>
-					    							<p class="text-left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭以技术优势，集十年辐照加工及加速器运行研究之丰厚积累，提供辐照工厂整体解决方案，包括射线防护设计、先进辐照加工工艺、束下系统设计制造。</p>
-											</div>
-									</div>
-
-									<!-- SERVICE 3-->
-									<div class="col-md-4 ">
-											<div class="col-md-10 text-center">
-													<i class=" featured-icon  fa fa-users"></i>
-					    							<h3 style="color:#66B7E2">大镭创新团队</h3>
-                        							<p class="text-left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多学科高技术交叉组合的高能加速器系统，离不开一批国内外行业翘楚和资深专家的精心打造。大镭的技术团队中有享受国务院特殊津贴的资深专家、教授级高工、来自国外著名的国家加速器实验室的博士、国内“211”及其他著名高校的硕士、学士和一批高级技工。</p>
-				    						</div>
+									<div class="col-md-6">
+				        						<img src="assets/images/dalei/accel-sys.jpg"  alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">	
 									</div>
 
 			  				</div>
