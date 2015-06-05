@@ -228,7 +228,7 @@
 		<!-- /WRAPPER -->
 
 
-<?php require('footer.html');?>
+	<?php require('footer.html');?>
     <?php require('script.html');?>
 
 
