@@ -49,17 +49,36 @@
 
 			        <div class="col-md-10"  style="padding:20px">
 
-					    <div class="col-md-7">
+					    <div class="col-md-12">
 					    	<h3><strong>加速器循环温度控制机</strong></h3>
+</br>
+							<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将加速器中精密温度控制与分散的水泵、管道、阀门、热交换部件集中到一台立柜式机架之中，形成一台独立的工业控制设备。具备加速管精密恒温控制与设备冷却双重功能。</p>
 					    	<h4><strong>产品功能</strong></h4>
+
 					    	<ul>						
-						      <li> <p>将加速器中精密温度控制与分散的水泵、管道、阀门、热交换部件集中到一台立柜式机架之中，形成一台独立的工业控制设备，具备加速管精密恒温控制与设备冷却双重功能。</p></li>
+						      <li> <p>加速管精密恒温控制</p></li>
+						      <li> <p>设备冷却</p></li>
 						    </ul>
 						    <br/>
+
 						    <h4><strong>产品特点</strong></h4>
+					<div class="col-md-6">
 						    <ul>
-						    	<li><p>恒温控制采用国际名牌精密温控器，PID控制，精度高。采用热交换流量控制的方式保持恒温，执行机构采用变频器控制水泵，控温精度高，可靠耐用，避免了通常用流量调节阀易磨损带来的故障。机内主要部件循环泵采用国际著名品牌，高效率，高可靠性，无故障寿命在数万小时以上。整机节能效果明显。</p></li>  
+						    	<li><p>恒温控制采用国际名牌精密温控器，PID控制，精度高</p></li>  
+						      	<li> <p>采用热交换流量控制的方式保持恒温</p></li>
+						    	<li><p>执行机构采用变频器控制水泵，控温精度高，可靠耐用，避免了通常用流量调节阀易磨损带来的故障</p></li>  
+						     	<li> <p>机内主要部件循环泵采用国际著名品牌，高效率，高可靠性，无故障寿命在数万小时以上</p></li>
+						      	<li> <p>整机节能效果明显</p></li>
 						    </ul>
+                    </div>
+
+							<div class="col-md-6">
+                                    <div align="center" >
+						                <figure>
+							                    <img alt="直线电子加速器辐照加工应用大镭核技术加速器循环温度控制机" class="img-responsive" src="assets/images/dalei/tem.jpg">
+						                </figure>
+					                 </div>
+                             </div>
 						</div>
 
 						<!--one picture -->
@@ -67,9 +86,7 @@
 
 						
 						    <div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "singleItem": true, "navigation": true, "pagination": true, "transitionStyle":"fadeUp"}'>
-							    <div><br/><br/><br/><br/>
-								    <img alt="直线电子加速器辐照加工应用大镭核技术加速器循环温度控制机" class="img-responsive" src="assets/images/dalei/tem.jpg">
-							    </div>
+
 							
 						    </div>
 				        </div>
