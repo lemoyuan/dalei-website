@@ -135,9 +135,10 @@
 
 									<!-- SERVICE 1 -->
 									<div class="col-md-6">
-													<ul><li>用于食品杀菌，医疗用品、药材及化妆品灭菌、电力半导体及高分子材料改性等领域</li></br>
+													<ul><li>广泛应用于食品杀菌、医疗用品、药材及化妆品灭菌、电力半导体及高分子材料改性等领域</li></br>
 															<li>全智能化控制系统，在线式操作方式</li></br>
-															<li>产品输出能量10 MeV，功率8～20 kW</li>
+															<li>设备数据信息化管理</li></br>
+															<li>产品输出能量10 MeV，输出束流功率8～20 kW</li>
 													</ul></br>
 													<div class=" text-center"><a href="prod-eaccel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>详细资料&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a></div>
 									</div>
