@@ -48,34 +48,8 @@
 							<div class="row">
 									<div class="col-md-12">
 											<h3><strong>工业辐照电子直线加速器</strong></h3></br>
-											<h4><strong>设备结构</strong></h4>
-											<ul>
-						    						<li> <P>电子直线加速器是由微波功率源、电子枪、加速管、真空系统、聚焦系统、冷却与恒温循环系统、束流输运扫描输出系统、结构支撑系统、电气控制系统组成。</P></li>
-						   							<li><P>主要技术指标：</P></li>
-											</ul>
-											<table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
-						    							<tr>
-                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>输出电子束能量10MeV：</span></td>
-                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>10MeV</span></td>
-                            							</tr>
-                            							<tr>
-                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>输出束流功率：</span></td>
-                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>0.5～20KW可调 </span></td>
-                            							</tr>
-                            							<tr>
-                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>脉宽：</span></td>
-                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>2～17us可调</span></td>
-                            							</tr>
-                             							<tr>
-                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>重复频率： </span></td>
-                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>10～550Hz可调</span></td>
-                            							</tr>
-                             							<tr>
-                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>电源转化电子束效率：</span></td>
-                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>≥15%</span></td>
-                            							</tr>
-										</table>
-										<br/>
+										 	<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器是由微波功率源、电子枪、加速管、真空系统、聚焦系统、冷却与恒温循环系统、束流输运扫描输出系统、结构支撑系统、电气控制系统组成。</P></li>	  
+
 								</div>
 
 								<div class="row">
@@ -105,7 +79,7 @@
 						<div class="row">
 								</br><h4><strong>智能化控制系统</strong></h4>
 								<div class="col-md-6">
-				     					<p>直线电子加速器采用设备诊断系统实时数据库平台。</p>
+				     					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;直线电子加速器采用设备诊断系统实时数据库平台。</p>
 				     					<ul>
 												<li><p><strong style="color:#FFE100">数据采集</strong>：依靠传感器等专用检测模块，对加速器运行过程中的电压、电流、温度信号进行采集，并存储到实时数据库。</p></li>
 												<li><p><strong style="color:#FFE100">数据管理</strong>：实时数据库将加速器的瞬时值、统计值、过程报警、操作记录等重要数据长期保存。</p></li>
@@ -120,6 +94,34 @@
 		       
 							</div>
 
+							<div class="row">
+									<div class="col-md-12">
+											<h4><strong>主要技术指标</strong></h4>
+											<table class="table" style="background-color:rgba(0,0,0,0.1); color:rgba(255,255,255,1);">
+						    							<tr>
+                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>输出电子束能量10MeV：</span></td>
+                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>10MeV</span></td>
+                            							</tr>
+                            							<tr>
+                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>输出束流功率：</span></td>
+                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>0.5～20KW可调 </span></td>
+                            							</tr>
+                            							<tr>
+                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>脉宽：</span></td>
+                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>2～17us可调</span></td>
+                            							</tr>
+                             							<tr>
+                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>重复频率： </span></td>
+                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>10～550Hz可调</span></td>
+                            							</tr>
+                             							<tr>
+                              									<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>电源转化电子束效率：</span></td>
+                              									<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>≥15%</span></td>
+                            							</tr>
+										</table>
+										<br/>
+								</div>
+
 							<div class="col-md-12">
 					    			<hr/>
 					    			<h3><strong>设备型号</strong></h3>
@@ -130,6 +132,7 @@
 							</div>
 
 				 	 </div>
+
 					
 				</div>
 			</section>
