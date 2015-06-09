@@ -126,117 +126,6 @@
 			</div>
 		    </section>
 
-
-		    <!-- ONE NATION -->
-		    <section id="portfolio" class="special-row padding50 margin-top50 margin-footer">
-					<div class="container">
-			  				<div class="row">
-				        			<h2 class="text-center">电子直线加速器成套设备</h2>
-
-									<!-- SERVICE 1 -->
-									<div class="col-md-6">
-													<ul><li>广泛应用于食品杀菌、医疗用品、药材及化妆品灭菌、电力半导体及高分子材料改性等领域</li></br>
-															<li>全智能化控制系统，在线式操作方式</li></br>
-															<li>设备数据信息化管理</li></br>
-															<li>产品输出能量10 MeV，输出束流功率8～20 kW</li>
-													</ul></br>
-													<div class=" text-center"><a href="prod-eaccel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>详细资料&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a></div>
-									</div>
-									<div class="col-md-6">
-				        						<img src="assets/images/dalei/accel-sys.jpg"  alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">	
-									</div>
-
-			  				</div>
-					</div>
-		    </section>
-
-		
-		    <!-- /ONE NATION -->
-
-
-            <section class="container padding100 margin-top100 margin-footer text-center">
-			    <div class="isotope-item col-sm-6 col-md-3 development"><!-- item -->
-				    <div class="item-box">
-						<figure>
-							<a class="item-hover " href="prod-eaccel.php" data-plugin-options='{"type":"iframe"}'>
-								<span class="overlay color2"></span>
-								<span class="inner">
-
-								    <span class="block fa fa-plus fsize20"></span>
-								    <strong>加速器</strong> 整机
-								</span>
-							</a>
-							<img class="img-responsive" src="assets/images/dalei/eaccel1.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">
-						</figure>
-						<div class="item-box-desc">
-							<h4 ><strong>电子直线加速主机</strong> </h4>
-						
-						</div>
-					</div>
-				</div>
-
-				<div class="isotope-item col-sm-6 col-md-3 development"><!-- item 2-->
-				    <div class="item-box">
-						<figure>
-							<a class="item-hover " href="prod-modulator.php" data-plugin-options='{"type":"iframe"}'>
-								<span class="overlay color2"></span>
-								<span class="inner">
-
-								    <span class="block fa fa-plus fsize20"></span>
-								    <strong>调制器</strong>
-								</span>
-							</a>
-							<img class="img-responsive" src="assets/images/dalei/modulator1.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备智能高功率脉冲调制器">
-						</figure>
-						<div class="item-box-desc">
-							<h4 > <strong >智能高功率脉冲调制器</strong> </h4>
-							
-						</div>
-					</div>
-				</div>
-
-				<div class="isotope-item col-sm-6 col-md-3 development"><!-- item 3-->
-				    <div class="item-box">
-						<figure>
-							<a class="item-hover " href="prod-acircul-temp.php" data-plugin-options='{"type":"iframe"}'>
-								<span class="overlay color2"></span>
-								<span class="inner">
-
-								    <span class="block fa fa-plus fsize20"></span>
-								    <strong>加速器循环温度控制机</strong> 
-								</span>
-							</a>
-							<img class="img-responsive" src="assets/images/dalei/tem.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备加速器循环温度控制机">
-						</figure>
-						<div class="item-box-desc">
-							<h4 > <strong >加速器循环温度控制机</strong> </h4>
-							
-						</div>
-					</div>
-				</div>
-
-				<div class="isotope-item col-sm-6 col-md-3 development"><!-- item 3-->
-				    <div class="item-box">
-						<figure>
-							<a class="item-hover " href="prod-egun.php" data-plugin-options='{"type":"iframe"}'>
-								<span class="overlay color2"></span>
-								<span class="inner">
-
-								    <span class="block fa fa-plus fsize20"></span>
-								    <strong >电子枪</strong> 
-
-							</a>
-							<img class="img-responsive" src="assets/images/dalei/egun.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子枪">
-						</figure>
-						<div class="item-box-desc">
-							<h4 > <strong >电子枪</strong> </h4>
-							
-						</div>
-					</div>
-				</div>
-            </section>
-			
-
 			<section id="portfolio" class="special-row padding100 margin-top50 margin-footer">
 				<div class="container">
 						<div class="row">
@@ -279,6 +168,115 @@
 						</div>
 				</div>
 			</section>
+	
+		    <!-- /ONE NATION -->
+            <section class="container padding100 margin-top100 margin-footer">
+			    					<div class="container">
+			  				<div class="row">
+				        			<h2 class="text-center">电子直线加速器成套设备</h2>
+
+									<!-- SERVICE 1 -->
+									<div class="col-md-6">
+													<ul><li>广泛应用于食品杀菌、医疗用品、药材及化妆品灭菌、电力半导体及高分子材料改性等领域</li></br>
+															<li>全智能化控制系统，在线式操作方式</li></br>
+															<li>设备数据信息化管理</li></br>
+															<li>产品输出能量10 MeV，输出束流功率8～20 kW</li>
+													</ul></br>
+													<div class=" text-center"><a href="prod-eaccel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>详细资料&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a></div>
+									</div>
+									<div class="col-md-6">
+				        						<img src="assets/images/dalei/accel-sys.jpg"  alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">	
+									</div>
+									</div>
+			  				</div>
+            </section>
+			
+		    <!-- ONE NATION -->
+		    <section id="portfolio" class="special-row padding50 margin-top50 margin-footer  text-center">
+					<div class="container">
+			  				
+					<div class="isotope-item col-sm-6 col-md-3 development"><!-- item -->
+				    <div class="item-box">
+						<figure>
+							<a class="item-hover " href="prod-eaccel.php" data-plugin-options='{"type":"iframe"}'>
+								<span class="overlay color2"></span>
+								<span class="inner">
+
+								    <span class="block fa fa-plus fsize20"></span>
+								    <strong>加速器</strong> 整机
+								</span>
+							</a>
+							<img class="img-responsive" src="assets/images/dalei/eaccel1.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">
+						</figure>
+						<div class="item-box-desc">
+							<h4 >电子直线加速主机</h4>
+						
+						</div>
+					</div>
+				</div>
+
+				<div class="isotope-item col-sm-6 col-md-3 development"><!-- item 2-->
+				    <div class="item-box">
+						<figure>
+							<a class="item-hover " href="prod-modulator.php" data-plugin-options='{"type":"iframe"}'>
+								<span class="overlay color2"></span>
+								<span class="inner">
+
+								    <span class="block fa fa-plus fsize20"></span>
+								    <strong>调制器</strong>
+								</span>
+							</a>
+							<img class="img-responsive" src="assets/images/dalei/modulator1.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备智能高功率脉冲调制器">
+						</figure>
+						<div class="item-box-desc">
+							<h4 > 智能高功率脉冲调制器 </h4>
+							
+						</div>
+					</div>
+				</div>
+
+				<div class="isotope-item col-sm-6 col-md-3 development"><!-- item 3-->
+				    <div class="item-box">
+						<figure>
+							<a class="item-hover " href="prod-acircul-temp.php" data-plugin-options='{"type":"iframe"}'>
+								<span class="overlay color2"></span>
+								<span class="inner">
+
+								    <span class="block fa fa-plus fsize20"></span>
+								    <strong>加速器循环温度控制机</strong> 
+								</span>
+							</a>
+							<img class="img-responsive" src="assets/images/dalei/tem.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备加速器循环温度控制机">
+						</figure>
+						<div class="item-box-desc">
+							<h4 > 加速器循环温度控制机 </h4>
+							
+						</div>
+					</div>
+				</div>
+
+				<div class="isotope-item col-sm-6 col-md-3 development"><!-- item 3-->
+				    <div class="item-box">
+						<figure>
+							<a class="item-hover " href="prod-egun.php" data-plugin-options='{"type":"iframe"}'>
+								<span class="overlay color2"></span>
+								<span class="inner">
+
+								    <span class="block fa fa-plus fsize20"></span>
+								    <strong >电子枪</strong> 
+
+							</a>
+							<img class="img-responsive" src="assets/images/dalei/egun.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子枪">
+						</figure>
+						<div class="item-box-desc">
+							<h4 > 电子枪</h4>
+							
+						</div>
+					</div>
+				</div>
+					</div>
+
+		    </section>
 
 		</div>
 		<!-- /WRAPPER -->
