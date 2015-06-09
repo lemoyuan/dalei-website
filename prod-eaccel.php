@@ -63,7 +63,7 @@
 												</ul>
 										</div>
 										<div class="col-md-6">
-												<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/accel-sys.jpg">
+												<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/accel-sys.png">
 										</div>	
 										<div class="col-md-12">
 												<ul>

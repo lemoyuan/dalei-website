@@ -183,7 +183,7 @@
 													<div class=" text-center"><a href="prod-eaccel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>详细资料&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a></div>
 									</div>
 									<div class="col-md-6">
-				        						<img src="assets/images/dalei/accel-sys.jpg"  alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">	
+				        						<img src="assets/images/dalei/accel-sys.png"  alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">	
 									</div>
 							</div>
 			  		</div>
@@ -275,7 +275,7 @@
 			  				<div class="row">
 				        			<h2 class="text-center">关于大镭</h2>
 									<p class="lead">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大镭核技术应用设备有限公司是来自海外著名加速器国家实验室海归博士领衔创办的专注于电子直线加速器成套设备研发、制造的技术密集型企业，其前身是一家长期从事电子射线设备技术研究、独立承担过省重大科技专项高能加速器研究开发的电子科学研究所。这是一个具有深厚底蕴、又充满年轻活力的创新团体：既有长期从事加速器设备研究的享受国务院特贴的教授级高工、来自Fermi以及SLAC国家加速器实验室的博士、资深的电子技术专家，又有一批毕业于国内著名高校的年轻工程师和技术骨干。</p>
-									<div class=" text-center"><a href="prod-eaccel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>关于大镭&nbsp;&nbsp;&nbsp;&nbsp;ABOUT US</a></div>
+									<div class=" text-center"><a href="brief-intro.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>关于大镭&nbsp;&nbsp;&nbsp;&nbsp;ABOUT US</a></div>
 							</div>
 			  		</div>
             </section>
