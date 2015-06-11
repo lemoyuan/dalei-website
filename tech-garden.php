@@ -28,6 +28,20 @@
 
 				<section class="container">
 
+					<div  class=" col-md-2 " id="sign">
+
+						<aside  id="floatdiv" class="canfloat">
+							<ul class="nav nav-list">
+								<li><a href=""><i class="fa fa-pencil-square-o"></i> 新技术</a></li>
+								<li><a href=""><i class="fa fa-pencil-square-o"></i> 辐照应用</a></li>
+								<li><a href=""><i class="fa fa-pencil-square-o"></i> 加速器科普</a></li>
+								<li><a href=""><i class="fa fa-pencil-square-o"></i> 技术  /  经验</a></li>
+							</ul>
+				    	</aside>
+
+					</div>
+
+					<div class="col-md-10">
 					<!-- Masonry Loader -->
 					<span class="js_loader"><i class="fa fa-asterisk fa-spin"></i>LOADING</span>
 
@@ -246,12 +260,35 @@
 						</li>
 
 					</ul>
+					</div>
 
                </section>
 		    </div>
 		</div>
 		<!-- /WRAPPER -->
 
+	<style type="text/css">
+			.canfloat
+			{
+				 position: fixed;
+				top: 250px;
+			}
+	</style>
+	<script type="text/javascript">
+		$(function () {
+			$(window).scroll(function () {
+				var ref_min = $("#sign")[0];
+				if (!ref_min) return;
+				var scroll_top = $(window).scrollTop();
+				var ref_height_min = ref_min.offsetTop + $("#floatdiv")[0].offsetHeight;
+				if (scroll_top > ref_height_min) {
+					$("#floatdiv").addClass("canfloat");
+				} else {
+					$("#floatdiv").removeClass("canfloat");
+				}
+			});
+		});
+	</script>
     <?php require('footer.html');?>
     <?php require('script.html');?>
 		
