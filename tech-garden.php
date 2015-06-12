@@ -323,6 +323,17 @@
 		</div>
 		<!-- /WRAPPER -->
 
+		<footer>
+
+			<!-- copyright , scrollTo Top -->
+			<div class="footer-bar">
+				<div class="container">
+					<span class="copyright">版权所有 &copy; 浙江大镭核技术应用设备有限公司。浙ICP备14037100号-1</span>
+					<a class="toTop" href="#topNav">All Rights Reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BACK TO TOP <i class="fa fa-arrow-circle-up"></i></a>
+				</div>
+			</div>
+			<!-- copyright , scrollTo Top -->
+		</footer>
 	<style type="text/css">
 			.canfloat
 			{
@@ -345,7 +356,7 @@
 			});
 		});
 	</script>
-    <?php require('footer.html');?>
+
     <?php require('script.html');?>
 		
 	</body>
