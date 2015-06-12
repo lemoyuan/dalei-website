@@ -32,19 +32,107 @@
 
 						<aside  id="floatdiv" class="canfloat">
 							<ul class="nav nav-list">
-								<li><a href=""><i class="fa fa-pencil-square-o"></i> 新技术</a></li>
-								<li><a href=""><i class="fa fa-pencil-square-o"></i> 辐照应用</a></li>
-								<li><a href=""><i class="fa fa-pencil-square-o"></i> 加速器科普</a></li>
-								<li><a href=""><i class="fa fa-pencil-square-o"></i> 技术  /  经验</a></li>
+								<li><a href="#new-tech"><i class="fa fa-pencil-square-o"></i> 新&nbsp;  技  &nbsp;术</a></li>
+								<li><a href="#applications"><i class="fa fa-pencil-square-o"></i> 辐 照 应 用</a></li>
+								<li><a href="#knowledge"><i class="fa fa-pencil-square-o"></i> 加速器科普</a></li>
+								<li><a href="#experience"><i class="fa fa-pencil-square-o"></i> 技术  /  经验</a></li>
 							</ul>
 				    	</aside>
 
 					</div>
 
 					<div class="col-md-10">
+							</br>
+
+							<div id="new-tech" class="row">
+									<div class="white-row styleBackground">
+
+											<!-- article title -->
+											<h4><a href="/articles/article-accel-tube.php">辐照加速器的新技术——带电粒子高梯度加速的研究</a></h4>
+
+											<!-- blog short preview -->
+											<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高梯度加速结构是未来直线加速器的一个重要的发展方向。然而高频真空击穿（rf breakdown）现象严重制约了高梯度加速结构的发展。这是一个极其复杂的物理现象，关于它的研究已经进行几十年了，然而目前学术界对该现象的认识还有很多争议。 · · · · · ·</p>
+
+											<!-- read more button -->
+											<a href="/articles/article-accel-tube.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+									</div>
+							</div>
+
+							<div id="applications" class="row">
+									<div class="col-md-6 "  style="padding-left:0px">
+											<div  style="background-color:rgb(70,70,70);padding:20px;margin-bottom:20px;border-radius:6px">
+													<!-- article title -->
+													<h4><a href="application-food.php">食品辐照</a></h4>
+
+													<!-- blog short preview -->
+													<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp辐照保藏不同于化学熏蒸法和腌制法，不需要加入添加物，是一种物理保藏法，具有许多传统保藏法不可比拟的优点</p>
+
+													<!-- read more button -->
+													<a href="application-food.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+											</div>
+									</div>
+
+									<div class="col-md-6" style="padding-right:0px">
+											<div style="background-color:rgb(70,70,70);padding:20px;margin-bottom:20px;border-radius:6px">
+													<!-- article title -->
+													<h4><a href="application-industry.php">工业辐照</a></h4>
+
+													<!-- blog short preview -->
+													<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照技术在工业领域，特别是辐射化工、工业“三废”处理、半导体辐照等方面都有着广泛的应用 · · · · · ·</p>
+
+													<!-- read more button -->
+													<a href="application-industry.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+											</div>
+									</div>
+
+									<div class="col-md-6 " style="padding-left:0px">
+											<div style="background-color:rgb(70,70,70);padding:20px;margin-bottom:20px;border-radius:6px">
+													<!-- article title -->
+													<h4><a href="application-medical.php">医疗保健产品辐照</a></h4>
+
+													<!-- blog short preview -->
+													<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 医疗保健产品辐射灭菌是一项新技术，比蒸汽或环氧乙烷（Eto)灭菌法有许多优点 · · · · · ·</p>
+
+													<!-- read more button -->
+													<a href="application-medical.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+										
+											</div>
+									</div>
+
+									<div class="col-md-6" style="padding-right:0px">
+											<div style="background-color:rgb(70,70,70);padding:20px;margin-bottom:20px;border-radius:6px">
+													<!-- article title -->
+													<h4><a href="application-agriculture.php">农产品辐照</a></h4>
+
+													<!-- blog short preview -->
+													<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传统的储粮防治多以化学方法为主，化学药剂的长期使用不仅污染环境，而且残留药物也直接危害到人类健康 · · · · · ·</p>
+
+													<!-- read more button -->
+													<a href="application-agriculture.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+											</div>
+									</div>
+
+									<div class="col-md-12">
+											<div style="background-color:rgb(70,70,70);padding:20px;margin-bottom:20px;border-radius:6px">
+													<!-- article title -->
+													<h4><a href="irradi-applications.php">辐照应用</a></h4>
+						
+													<!-- blog short preview -->
+													<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器的使用已经深入到国民经济的各个领域，目前使用最多的领域是医院的癌症治疗，其次是工业应用领域的辐照加工，辐照改性和工业探伤，另外射线的无损检查，如海关集装箱检查等也可以归到工业应用领域，直线加速器的应用在以上两个领域已得到了普遍认同和普及。 · · · · · ·</p>
+
+													<!-- read more button -->
+													<a href="irradi-applications.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
+											</div>
+									</div>
+
+							</div>
+
+					<div id="knowledge" class="row">
 					<!-- Masonry Loader -->
 					<span class="js_loader"><i class="fa fa-asterisk fa-spin"></i>LOADING</span>
-
 					<ul class="masonry-list">
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
@@ -62,32 +150,6 @@
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="/articles/article-equipment.php">辐射源与食品辐照装置</a></h4>
-
-								<!-- blog short preview -->
-								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工业用食品辐照装置是以辐射源为核心，并配有严格的安全防护设施和自动输送、报警系统。所有的运转设备、自动控制、报警与安全系统必须组合得极其严密 · · · · · ·</p>
-
-								<!-- read more button -->
-								<a href="/articles/article-equipment.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
-							</div>
-						</li>
-
-						<li class="masonry-item" style="background-color:#444444">
-							<div class="item">
-								<!-- article title -->
-								<h4><a href="/articles/article-radiation-terms.php">辐照量单位与剂量测量</a></h4>
-
-								<!-- blog short preview -->
-								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将一个化合物或元素中的放射性同位素的浓度称为"放射性比度"，也用以表示单位数量的物质的放射性强度 · · · · · ·</p>
-</br>
-								<!-- read more button -->
-								<a href="/articles/article-radiation-terms.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>详细资料&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
-							</div>
-						</li>
-
-						<li class="masonry-item" style="background-color:#444444">
-							<div class="item">
-								<!-- article title -->
 								<h4><a href="/articles/article-food-history.php">国内外食品辐照发展史</a></h4>
 
 								<!-- blog short preview -->
@@ -95,21 +157,6 @@
 
 								<!-- read more button -->
 								<a href="/articles/article-food-history.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
-							</div>
-						</li>
-
-						<li class="masonry-item" style="background-color:#444444">
-							<div class="item">
-								<!-- article title -->
-								<h4><a href="/articles/article-accel-tube.php">辐照加速器的新技术——带电粒子高梯度加速的研究</a></h4>
-
-								<!-- blog short preview -->
-								<p style="color:#bbb">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高梯度加速结构是未来直线加速器的一个重要的发展方向。然而高频真空击穿（rf breakdown）现象严重制约了高梯度加速结构的发展。这是一个极其复杂的物理现象，关于它的研究已经进行几十年了，然而目前学术界对该现象的认识还有很多争议。 · · · · · ·
-								</p>
-
-								<!-- read more button -->
-								<a href="/articles/article-accel-tube.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
 						</li>
    
@@ -122,7 +169,7 @@
 
 								<!-- blog short preview -->
 								<p style="color:#bbb">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;粒子加速器早在几十年前就逐渐走出实验室、渗入到了工业界，而且科学家们还在不停设想新的应用。当用于基础研究的联邦资金减少的时候，科学家就会想新办法来筹钱。罗伯特•柯法特（Robert Kephart）是伊利诺伊加速器中心费米实验室的主任，伊利诺伊州商业和经济机会部（DCEO）联手资助科学研究，并发展粒子加速器的应用。他和他的同事讲解了你大概可能没听说过的10个粒子加速器的应用： · · · · · ·
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;粒子加速器早在几十年前就逐渐走出实验室、渗入到了工业界，而且科学家们还在不停设想新的应用。当用于基础研究的联邦资金减少的时候，科学家就会想新办法来筹钱。罗伯特•柯法特（Robert Kephart）他的同事讲解了你大概可能没听说过的10个粒子加速器的应用： · · · · · ·
 								</p>
 
 								<!-- read more button -->
@@ -146,6 +193,50 @@
 							</div>
 						</li>
 
+					    <li class="masonry-item" style="background-color:#444444">
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4><a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm">什么是食品辐照加工</a></h4>
+						
+								<!-- blog short preview -->
+								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;什么是食品辐照加工？专家解答：利用γ射线、电子束和X射线对物质具有穿透性的特点，对食品进行辐照加工处理，杀死食品中的寄生的昆虫和致病菌，提高食品的卫生质量和延长食品保藏期的加工工艺过程叫做食品辐射加工。经辐照加工处理过的食品称为辐射食品。 · · · · · ·
+								</p>
+
+								<!-- read more button -->
+								<a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
+
+							</div>
+
+						</li>
+
+					    <li class="masonry-item" style="background-color:#444444">
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4><a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034">辐照食品安全性</a>
+								</h4>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国学者也曾经对世界食品辐照界作出重大贡献。1982～1985年在大量动物试验的基础上，我国组织了382人的辐照食品综合人体试食试验。结果表明，食用吸收剂量在10kGy以下的辐照食品对人体无异常影响，从而结束了由印度学者引发的长达10年之久的淋巴多倍体辐照改变之争。 · · · · · ·
+	                            </p>
+								<!-- read more button -->
+								<a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+							</div>
+
+						</li>
+
+					</ul>
+
+					</div>
+
+
+					<div id="experience" class="row">
+					<ul class="masonry-list">
 						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
 								<!-- article title -->
@@ -196,72 +287,37 @@
 							</div>
 						</li>
 
-                        <li class="masonry-item" style="background-color:#444444">
 
+
+						<li class="masonry-item" style="background-color:#444444">
 							<div class="item">
-
 								<!-- article title -->
-								<h4><a href="irradi-applications.php">辐照应用</a></h4>
-						
-								<!-- blog short preview -->
-								<p style="color:#bbb">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器的使用已经深入到国民经济的各个领域，目前使用最多的领域是医院的癌症治疗，其次是工业应用领域的辐照加工，辐照改性和工业探伤，另外射线的无损检查，如海关集装箱检查等也可以归到工业应用领域，直线加速器的应用在以上两个领域已得到了普遍认同和普及。 · · · · · ·
-								</p>
-                                                 <div class="col-md-12 col-sm-6 col-xs-12" style="margin-bottom:20px;">
-
-                              
-						            <figure>
-							                <img class="img-responsive" src="assets/images/articles/irradiated-foods-logo.jpg" alt="大镭核技术" />
-						            </figure>
-					         
-                                                </div>
-								<!-- read more button -->
-								<a href="irradi-applications.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
-
-							</div>
-
-						</li>
-
-					    <li class="masonry-item" style="background-color:#444444">
-
-							<div class="item">
-
-								<!-- article title -->
-								<h4><a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm">什么是食品辐照加工</a></h4>
-						
-								<!-- blog short preview -->
-								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;什么是食品辐照加工？专家解答：利用γ射线、电子束和X射线对物质具有穿透性的特点，对食品进行辐照加工处理，杀死食品中的寄生的昆虫和致病菌，提高食品的卫生质量和延长食品保藏期的加工工艺过程叫做食品辐射加工。经辐照加工处理过的食品称为辐射食品。 · · · · · ·
-								</p>
-
-								<!-- read more button -->
-								<a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
-
-							</div>
-
-						</li>
-
-					    <li class="masonry-item" style="background-color:#444444">
-
-							<div class="item">
-
-								<!-- article title -->
-								<h4><a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034">辐照食品安全性</a>
-								</h4>
+								<h4><a href="/articles/article-equipment.php">辐射源与食品辐照装置</a></h4>
 
 								<!-- blog short preview -->
-								<p style="color:#bbb">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国学者也曾经对世界食品辐照界作出重大贡献。1982～1985年在大量动物试验的基础上，我国组织了382人的辐照食品综合人体试食试验。结果表明，食用吸收剂量在10kGy以下的辐照食品对人体无异常影响，从而结束了由印度学者引发的长达10年之久的淋巴多倍体辐照改变之争。 · · · · · ·
-	                            </p>
+								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工业用食品辐照装置是以辐射源为核心，并配有严格的安全防护设施和自动输送、报警系统。所有的运转设备、自动控制、报警与安全系统必须组合得极其严密 · · · · · ·</p>
+
 								<!-- read more button -->
-								<a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
-
+								<a href="/articles/article-equipment.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
-
 						</li>
 
-					</ul>
+						<li class="masonry-item" style="background-color:#444444">
+							<div class="item">
+								<!-- article title -->
+								<h4><a href="/articles/article-radiation-terms.php">辐照量单位与剂量测量</a></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将一个化合物或元素中的放射性同位素的浓度称为"放射性比度"，也用以表示单位数量的物质的放射性强度 · · · · · ·</p>
+</br>
+								<!-- read more button -->
+								<a href="/articles/article-radiation-terms.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>详细资料&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+							</div>
+						</li>
+
+</ul>
 					</div>
-
+</div>
                </section>
 		    </div>
 		</div>
