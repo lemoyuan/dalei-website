@@ -28,20 +28,30 @@
 
 				<section class="container">
 
-					<div  class=" col-md-2 " id="sign">
+					<div  class=" col-md-3 " id="sign">
 
-						<aside  id="floatdiv" class="canfloat">
+						<aside  id="floatdiv" class="canfloat  col-md-2">
 							<ul class="nav nav-list">
-								<li><a href="#new-tech"><i class="fa fa-pencil-square-o"></i> 新&nbsp;  技  &nbsp;术</a></li>
+								<li><a href="#new-tech"><i class="fa fa-pencil-square-o"></i> 新&nbsp; &nbsp; 技&nbsp;  &nbsp;术</a></li>
 								<li><a href="#applications"><i class="fa fa-pencil-square-o"></i> 辐 照 应 用</a></li>
-								<li><a href="#knowledge"><i class="fa fa-pencil-square-o"></i> 加速器科普</a></li>
+								<li><a href="#knowledge"><i class="fa fa-pencil-square-o"></i> 加速器百科</a></li>
 								<li><a href="#experience"><i class="fa fa-pencil-square-o"></i> 技术  /  经验</a></li>
 							</ul>
+
+							<div class="widget">
+    								<h4><strong>近期更新</strong></h4>
+									<ul>
+											<li><a href="paper-seafood-highdose-irradiation.php"><i class="fa fa-sign-out"></i>高能量β射线设备与海鲜食品高剂量辐照试验 </a></li>
+	    									<li><a href="paper-maintenance.php"><i class="fa fa-sign-out"></i>工业辐照直线电子加速器技术维护要点与实践 </a></li>
+	    									<li><a href="article-equipment-performance.php"><i class="fa fa-sign-out"></i>食品与半导体辐照加工等行业对射线设备性能的要求 </a></li>
+									</ul>
+							</div>
+
 				    	</aside>
 
 					</div>
 
-					<div class="col-md-10">
+					<div class="col-md-9">
 							</br>
 
 							<div id="new-tech" class="row">
@@ -77,6 +87,19 @@
 									<div class="col-md-6" style="padding-right:0px">
 											<div style="background-color:rgb(70,70,70);padding:20px;margin-bottom:20px;border-radius:6px">
 													<!-- article title -->
+													<h4><a href="application-agriculture.php">农产品辐照</a></h4>
+
+													<!-- blog short preview -->
+													<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传统的储粮防治多以化学方法为主，化学药剂的长期使用不仅污染环境，而且残留药物也直接危害到人类健康 · · · · · ·</p>
+
+													<!-- read more button -->
+													<a href="application-agriculture.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+											</div>
+									</div>
+
+									<div class="col-md-6" style="padding-left:0px">
+											<div style="background-color:rgb(70,70,70);padding:20px;margin-bottom:20px;border-radius:6px">
+													<!-- article title -->
 													<h4><a href="application-industry.php">工业辐照</a></h4>
 
 													<!-- blog short preview -->
@@ -88,7 +111,7 @@
 											</div>
 									</div>
 
-									<div class="col-md-6 " style="padding-left:0px">
+									<div class="col-md-6 " style="padding-right:0px">
 											<div style="background-color:rgb(70,70,70);padding:20px;margin-bottom:20px;border-radius:6px">
 													<!-- article title -->
 													<h4><a href="application-medical.php">医疗保健产品辐照</a></h4>
@@ -99,19 +122,6 @@
 													<!-- read more button -->
 													<a href="application-medical.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 										
-											</div>
-									</div>
-
-									<div class="col-md-6" style="padding-right:0px">
-											<div style="background-color:rgb(70,70,70);padding:20px;margin-bottom:20px;border-radius:6px">
-													<!-- article title -->
-													<h4><a href="application-agriculture.php">农产品辐照</a></h4>
-
-													<!-- blog short preview -->
-													<p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传统的储粮防治多以化学方法为主，化学药剂的长期使用不仅污染环境，而且残留药物也直接危害到人类健康 · · · · · ·</p>
-
-													<!-- read more button -->
-													<a href="application-agriculture.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 											</div>
 									</div>
 
