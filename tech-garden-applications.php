@@ -139,29 +139,8 @@
 			</div>
 			<!-- copyright , scrollTo Top -->
 		</footer>
-	<style type="text/css">
-			.canfloat
-			{
-				 position: fixed;
-				top: 230px;
-			}
-	</style>
-	<script type="text/javascript">
-		$(function () {
-			$(window).scroll(function () {
-				var ref_min = $("#sign")[0];
-				if (!ref_min) return;
-				var scroll_top = $(window).scrollTop();
-				var ref_height_min = ref_min.offsetTop + $("#floatdiv")[0].offsetHeight;
-				if (scroll_top > ref_height_min) {
-					$("#floatdiv").addClass("canfloat");
-				} else {
-					$("#floatdiv").removeClass("canfloat");
-				}
-			});
-		});
-	</script>
 
+    <?php require('float-sidebar.html');?>
     <?php require('script.html');?>
 		
 	</body>
