@@ -271,7 +271,7 @@
 
 		    <!-- /ABOUT US -->
             <section class="container padding100 margin-top100 margin-footer">
-			    	<div class="container">
+			    	<div class="container" background:url(assets/images/dalei/cityscape.jpg)>
 			  				<div class="row">
 				        			<h2 class="text-center">关于大镭</h2>
 									<p class="lead">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大镭核技术应用设备有限公司是来自海外著名加速器国家实验室海归博士领衔创办的专注于电子直线加速器成套设备研发、制造的技术密集型企业，其前身是一家长期从事电子射线设备技术研究、独立承担过省重大科技专项高能加速器研究开发的电子科学研究所。这是一个具有深厚底蕴、又充满年轻活力的创新团体：既有长期从事加速器设备研究的享受国务院特贴的教授级高工、来自Fermi以及SLAC国家加速器实验室的博士、资深的电子技术专家，又有一批毕业于国内著名高校的年轻工程师和技术骨干。</p>

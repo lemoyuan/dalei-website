@@ -70,7 +70,7 @@
                                                               <li><a href="#chart10">加速器紧盯大规模杀伤性武器</a></li>
                                                           </ol>
 
-                                                          <div><a href="tech-garden.php"><i class="fa fa-rotate-left"></i>返回前一页</a></div>
+                                                          <div><a href="../tech-garden.php"><i class="fa fa-rotate-left"></i>返回前一页</a></div>
                                                       </div>
 
                                                  </div>

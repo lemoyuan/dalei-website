@@ -84,7 +84,7 @@
 
                                                           </ol>
 
-                                                          <div><a href="tech-garden.php"><i class="fa fa-rotate-left"></i>返回前一页</a></div>
+                                                          <div><a href="../tech-garden.php"><i class="fa fa-rotate-left"></i>返回前一页</a></div>
                                                       </div>
 
                                                  </div>

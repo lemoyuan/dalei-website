@@ -70,7 +70,7 @@
                                                               <li><a href="#chart10">粒子加速器出现在意想不到的地方</a></li>
                                                           </ol>
 
-                                                          <div><a href="tech-garden.php"><i class="fa fa-rotate-left"></i>返回前一页</a></div>
+                                                          <div><a href="../tech-garden.php"><i class="fa fa-rotate-left"></i>返回前一页</a></div>
                                                       </div>
 
                                                  </div>
