@@ -28,9 +28,7 @@
 
 				<section class="container">
 
-					<div  class=" col-md-3 " id="sign">
-
-						<aside  id="floatdiv" class="canfloat  col-md-2">
+						<aside  class="col-md-2">
 							<ul class="nav nav-list">
 								<li><a href="tech-garden.php"><i class="fa fa-pencil-square-o"></i> 新&nbsp; &nbsp; 技&nbsp;  &nbsp;术</a></li>
 								<li><a href="tech-garden-applications.php"><i class="fa fa-pencil-square-o"></i> 辐 照 应 用</a></li>
@@ -46,8 +44,6 @@
 							</div>
 
 				    	</aside>
-
-					</div>
 
 					<div class="col-md-9">
 
@@ -90,7 +86,7 @@
 			</div>
 			<!-- copyright , scrollTo Top -->
 		</footer>
-    <?php require('float-sidebar.html');?>
+
     <?php require('script.html');?>
 		
 	</body>

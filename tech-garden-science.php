@@ -28,9 +28,7 @@
 
 				<section class="container">
 
-					<div  class=" col-md-3 " id="sign">
-
-						<aside  id="floatdiv" class="canfloat  col-md-2">
+						<aside  class="col-md-3">
 							<ul class="nav nav-list">
 								<li><a href="tech-garden.php"><i class="fa fa-pencil-square-o"></i> 新&nbsp; &nbsp; 技&nbsp;  &nbsp;术</a></li>
 								<li><a href="tech-garden-applications.php"><i class="fa fa-pencil-square-o"></i> 辐 照 应 用</a></li>
@@ -49,14 +47,7 @@
 
 				    	</aside>
 
-					</div>
-
 					<div class="col-md-9">
-					<div class="row">
-					<!-- Masonry Loader -->
-					<span class="js_loader"><i class="fa fa-asterisk fa-spin"></i>LOADING</span>
-					<ul class="masonry-list">
-						<li class="masonry-item" style="background-color:#555555">
 							<div class="item">
 								<!-- article title -->
 								<h4><a href="/articles/article-Amercia-astronaut.php">太空食品也辐照</a></h4>
@@ -67,9 +58,7 @@
 								<!-- read more button -->
 								<a href="/articles/article-Amercia-astronaut.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
-						</li>
 
-						<li class="masonry-item" style="background-color:#555555">
 							<div class="item">
 								<!-- article title -->
 								<h4><a href="/articles/article-food-history.php">国内外食品辐照发展史</a></h4>
@@ -78,11 +67,8 @@
 								<p style="color:#eee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二次世界大战结束后--随着放射性同位素的大量应用和电子加速器等机械辐射源的问世，促进了射线处理食品的发展 · · · · · ·</p>
 
 								<!-- read more button -->
-								<a href="/articles/article-food-history.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/article-food-history.php" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
-						</li>
-   
-						<li class="masonry-item" style="background-color:#555555">
 
 							<div class="item">
 
@@ -95,12 +81,10 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="/articles/paper-without-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/paper-without-accel.php" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 
 							</div>
-						</li>
 
-						<li class="masonry-item" style="background-color:#555555">
 							<div class="item">
 								<!-- article title -->
 								<h4><a href="/articles/paper-unknown-particle-accel.php">关于粒子加速器你可能不知道的10件事</a></h4>
@@ -111,11 +95,8 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="/articles/paper-unknown-particle-accel.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="/articles/paper-unknown-particle-accel.php" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
-						</li>
-
-					    <li class="masonry-item" style="background-color:#555555">
 
 							<div class="item">
 
@@ -127,13 +108,9 @@
 								</p>
 
 								<!-- read more button -->
-								<a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
+								<a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
 
 							</div>
-
-						</li>
-
-					    <li class="masonry-item" style="background-color:#555555">
 
 							<div class="item">
 
@@ -146,12 +123,7 @@
 									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国学者也曾经对世界食品辐照界作出重大贡献。1982～1985年在大量动物试验的基础上，我国组织了382人的辐照食品综合人体试食试验。结果表明，食用吸收剂量在10kGy以下的辐照食品对人体无异常影响，从而结束了由印度学者引发的长达10年之久的淋巴多倍体辐照改变之争。 · · · · · ·
 	                            </p>
 								<!-- read more button -->
-								<a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
-
-							</div>
-
-						</li>
-					</ul>
+								<a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 
 					</div>
 
@@ -172,7 +144,6 @@
 			<!-- copyright , scrollTo Top -->
 		</footer>
 
-    <?php require('float-sidebar.html');?>
     <?php require('script.html');?>
 		
 	</body>
