@@ -17,7 +17,7 @@
 
                     <div class="container">	
 
-		                <h1>技术园地</h1>
+		                <h1>新&nbsp; &nbsp; 技&nbsp;  &nbsp;术</h1>
 
 			            <ul class="breadcrumb">
 					       <li><a href="index.php">首页</a></li>
@@ -28,7 +28,7 @@
 
 				<section class="container">
 
-						<aside  class="col-md-2">
+						<aside  class="col-md-3">
 							<ul class="nav nav-list">
 								<li><a href="tech-garden.php"><i class="fa fa-pencil-square-o"></i> 新&nbsp; &nbsp; 技&nbsp;  &nbsp;术</a></li>
 								<li><a href="tech-garden-applications.php"><i class="fa fa-pencil-square-o"></i> 辐 照 应 用</a></li>
