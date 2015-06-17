@@ -156,14 +156,12 @@
 									</div>
 							</div>
 			  		</div>
+			  		</div>
 		    </section>
 		<!-- /WRAPPER -->
 
     <?php require('footer.html');?>
     <?php require('script.html');?>
-
-
-
-		
+	
 	</body>
 </html>
