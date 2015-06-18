@@ -125,7 +125,7 @@
 									<div class="col-md-4 ">
 											<div class="featured-box nobg border-only">
 													<div class="box-context">
-													<i class="fa fa-gears"></i>
+													<a href="prod-eaccel.php"><i class="fa fa-gears"></i></a>
 				        							<h3 style="color:#66B7E2" >大镭加速器</h3>
 													<p class="text-left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国内首家以工业化产品模式提供高能、高功率电子直线加速器整机及相关部件产品的公司。大镭以技术和人才优势，使尝试工业应用的高能加速器不再是技术成果形式的实验室产品，将有力推进射线加工和应用产业的发展。</br></br></br></br></p>
 											</div>
@@ -137,7 +137,7 @@
 									<div class="col-md-4 ">
 											<div class="featured-box nobg border-only left-separator">
 													<div class="box-context">
-													<i class="fa fa-superscript"></i>
+													<a href="irradi-applications.php"><i class="fa fa-superscript"></i></a>
 					    							<h3 style="color:#66B7E2" >大镭射线应用技术</h3>
 					    							<p class="text-left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭以技术优势，集十年辐照加工及加速器运行研究之丰厚积累，提供辐照工厂整体解决方案，包括射线防护设计、先进辐照加工工艺、束下系统设计制造。</br></br></br></p>
 											</div>
@@ -148,7 +148,7 @@
 									<div class="col-md-4 ">
 											<div class="featured-box nobg border-only left-separator">
 													<div class="box-context">
-													<i class="fa fa-users"></i>
+													<a href="innovation.php"><i class="fa fa-users"></i></a>
 					    							<h3 style="color:#66B7E2">大镭创新团队</h3>
                         							<p class="text-left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多学科高技术交叉组合的高能加速器系统，离不开一批国内外行业翘楚和资深专家的精心打造。大镭的技术团队中有享受国务院特殊津贴的资深专家、教授级高工、来自国外著名的国家加速器实验室的博士、国内“211”及其他著名高校的硕士、学士和一批高级技工。</p>
 				    						</div>
