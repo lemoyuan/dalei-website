@@ -50,7 +50,7 @@
 					<div class="col-md-9">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="/articles/article-Amercia-astronaut.php">太空食品也辐照</a></h4>
+								<h4><a href="/articles/article-Amercia-astronaut.php">太空食品也辐照</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#eee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在一些发达国家如美国、法国、荷兰、葡萄牙和以色列等，对食品辐照进行灭菌保鲜已成为司空见惯的做法 · · · · · ·</p>
@@ -60,20 +60,9 @@
 							</div>
 
 							<div class="item">
-								<!-- article title -->
-								<h4><a href="/articles/article-food-history.php">国内外食品辐照发展史</a></h4>
-
-								<!-- blog short preview -->
-								<p style="color:#eee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二次世界大战结束后--随着放射性同位素的大量应用和电子加速器等机械辐射源的问世，促进了射线处理食品的发展 · · · · · ·</p>
-
-								<!-- read more button -->
-								<a href="/articles/article-food-history.php" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
-							</div>
-
-							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="/articles/paper-without-accel.php">没了粒子加速器就活不下去的10个理由</a></h4>
+								<h4><a href="/articles/paper-without-accel.php">没了粒子加速器就活不下去的10个理由</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#eee">
@@ -87,7 +76,7 @@
 
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="/articles/paper-unknown-particle-accel.php">关于粒子加速器你可能不知道的10件事</a></h4>
+								<h4><a href="/articles/paper-unknown-particle-accel.php">关于粒子加速器你可能不知道的10件事</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#eee">
@@ -96,6 +85,17 @@
 
 								<!-- read more button -->
 								<a href="/articles/paper-unknown-particle-accel.php" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+							</div>
+
+							<div class="item">
+								<!-- article title -->
+								<h4><a href="/articles/article-food-history.php">国内外食品辐照发展史</a></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#eee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二次世界大战结束后--随着放射性同位素的大量应用和电子加速器等机械辐射源的问世，促进了射线处理食品的发展 · · · · · ·</p>
+
+								<!-- read more button -->
+								<a href="/articles/article-food-history.php" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 							</div>
 
 							<div class="item">

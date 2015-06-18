@@ -56,7 +56,7 @@
 
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="/articles/paper-seafood-highdose-irradiation.php">高能量β射线设备与海鲜食品高剂量辐照试验</a></h4>
+								<h4><a href="/articles/paper-seafood-highdose-irradiation.php">高能量β射线设备与海鲜食品高剂量辐照试验</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#fff">
@@ -71,7 +71,7 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="/articles/paper-maintenance.php">工业辐照直线电子加速器技术维护要点与实践</a></h4>
+								<h4><a href="/articles/paper-maintenance.php">工业辐照直线电子加速器技术维护要点与实践</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#fff">
@@ -85,7 +85,7 @@
 
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="/articles/article-equipment-performance.php">食品与半导体辐照加工等行业对射线设备性能的要求</a></h4>
+								<h4><a href="/articles/article-equipment-performance.php">食品与半导体辐照加工等行业对射线设备性能的要求</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#fff">
