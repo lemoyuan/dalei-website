@@ -48,6 +48,40 @@
 				    	</aside>
 
 					<div class="col-md-9">
+
+							<div class="item">
+								<!-- article title -->
+								<h4><a href="/articles/article-particle-accel-in-China.php">中国四大高能物理研究装置——中国的粒子加速器</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#eee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二十世纪80年代以来，我国陆续建设了四大高能物理研究装置――北京正负电子对撞机、兰州重离子加速器和合肥同步辐射装置。2000年以后，国家和地方政府合作，花费14亿元之巨兴建了大科学装置上海同步辐射光源。为什么国家要花费如此巨资，建设这高能物理研究装置呢？</p>
+
+								<!-- read more button -->
+								<a href="/articles/article-particle-accel-in-China.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+							</div>
+
+							<div class="item">
+								<!-- article title -->
+								<h4><a href="/articles/article-particle-accel-history.php">粒子加速器发展史</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#eee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;粒子加速器最初是作为人们探索原子核的重要手段而发展起来的。其发展历史概括如下：· · · · · ·</p>
+
+								<!-- read more button -->
+								<a href="/articles/article-particle-accel-history.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+							</div>
+
+							<div class="item">
+								<!-- article title -->
+								<h4><a href="/articles/article-lhc.php">LHC--欧洲大型强子对撞机</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#eee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欧洲大型强子对撞机是目前全球最大、能量最高的粒子加速器，它通过埋入地下100米深、总长27公里的超导磁铁加速并碰撞粒子，可在微观尺度上还原宇宙大爆炸后的宇宙初期形态，帮助科学家研究宇宙起源并寻找新粒子。　 · · · · · ·</p>
+
+								<!-- read more button -->
+								<a href="/articles/article-lhc.php" class="btn btn-s pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+							</div>
+
 							<div class="item">
 								<!-- article title -->
 								<h4><a href="/articles/article-Amercia-astronaut.php">太空食品也辐照</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
