@@ -72,8 +72,15 @@
 						    <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大型强子对撞机是世界最大的粒子加速器，项目投资达39亿欧元(约合56亿美元)，位于日内瓦附近瑞士和法国交界地区地下100米深处、总长17英里(约合27公里)的环形隧道内，建造用以寻找暗物质、反物质等现象，最终揭开宇宙形成之谜。</p>
 </P>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;重启比原计划晚了一周，因为对撞机磁路在2015年3月21日出现了故障。</p>
-							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　欧核中心在公报中说，欧洲大型强子对撞机于当地时间2015年4月5日上午10时41分发射出第一束质子束流，另一束相反方向的质子束流于5日中午12时27分发射，两束质子束流循环的注入能量为0.45万亿电子伏特。</p>
-							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　欧核中心在公报中说，欧洲大型强子对撞机于当地时间2015年4月5日上午10时41分发射出第一束质子束流，另一束相反方向的质子束流于5日中午12时27分发射，两束质子束流循环的注入能量为0.45万亿电子伏特。</p>
+							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欧核中心在公报中说，欧洲大型强子对撞机于当地时间2015年4月5日上午10时41分发射出第一束质子束流，另一束相反方向的质子束流于5日中午12时27分发射，两束质子束流循环的注入能量为0.45万亿电子伏特。</p>
+							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欧核中心在公报中说，欧洲大型强子对撞机于当地时间2015年4月5日上午10时41分发射出第一束质子束流，另一束相反方向的质子束流于5日中午12时27分发射，两束质子束流循环的注入能量为0.45万亿电子伏特。</p>
+                                  <div align="center" >
+						           
+						                <figure>
+							                    <img class="img-responsive" src="../assets/images/articles/lch1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						                </figure>
+                                                                      
+					               </div>
 
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按规划，欧洲大型强子对撞机第二阶段运行可实现每个质子束流产生6.5万亿电子伏特的能量，进而在今夏实现以创纪录的13万亿电子伏特的质子束流总能量进行对撞实验。公报说，未来数天科研人员将会在检查各系统状况后逐步提升质子束能量。
  </p>
@@ -86,6 +93,13 @@
  
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前DESY的150名工作人员参与了欧洲粒子物理研究所的实验项目，而世界范围内有上万名科学家参与了该实验。</p>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国粒子物理学迎头赶上。</p>
+                                  <div class="col-md-6" align="center" >
+						           
+						                <figure>
+							                    <img class="img-responsive" src="../assets/images/articles/lch2.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						                </figure>
+                                                                      
+					               </div>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Majorana（马约拉纳）和Gerda（锗探测列阵）其实都是女子名，它们指的是两个欧、美联合项目。这两个项目都在“搜寻反中微子”（确认中微子是否就是自己的反粒子，可发生“无中微子双β衰变”）—在物理学中，目前尚未发现任何支持反中微子存在的证据。但是如果得到证实，可以将科学的发展向前推进数十年。因为这可以解释宇宙中暗物质的组成，从而揭开自然科学史上的一大迷题。</p>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;尽管历经多年，无论马约拉纳研究还是锗探测列阵研究都没拿出有力的结果。德国之声去年曾在一篇评论中称，不过在中国人还没有加入这一研究前，这不算太糟糕。然而现在，中国人不但加入而且似乎超过了西方—至少他们已经为此创造了最好的条件。</p>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;梅东明是建造反中微子探测器最有声望的专家之一，本已在美国工作多年。然而当听说自己的祖国也开始进行这项研究后，他回国了。谁能为此责怪他呢？他的美国同事此前做梦也没想到，中国有一天会成为比美国更吸引人的研究地。</p>
@@ -107,9 +121,17 @@
  </p>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他告诉BBC记者说：“这很有趣，因为这是另一个小小暗示。它暗示我们到今年年底时将有可能发现这种粒子，而不是宣布排除了这种可能性。”他说：“证据就隐藏在LHC的数据中，我们今年就将找到它；到今年年底，我们将走出模糊和不确定，得到清晰的证实或排除的结果。对我来说，不管结果如何，这两个结果中其中任意一个的确认都将让人兴奋不已。”</p>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;粒子加速器（particle accelerator）是用人工方法产生高速带电粒子的装置。日常生活中常见的粒子加速器有用于电视的阴极射线管及X光管等设施。是探索原子核和粒子的性质、内部结构和相互作用的重要工具，在工农业生产、医疗卫生、科学技术等方面也都有重要而广泛的实际应用。</p>
+                                  <div  class="col-md-6"  align="center" >
+						           
+						                <figure>
+							                    <img class="img-responsive" src="../assets/images/articles/lch3.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						                </figure>
+                                                                      
+					               </div>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 自E·卢瑟福1919年用天然放射性元素放射出来的α射线轰击氮原子首次实现了元素的人工转变以后，物理学家就认识到，要想认识原子核必须和粒子进行同步的研究。随后应用粒子加速器[1] 发现了绝大部分新的超铀元素和合成了上千种新的人工放射性核素，高能加速器的发展又使人们发现了包括重子、介子、轻子和各种共振态粒子在内的几百种粒子。</p>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;粒子加速器的结构一般包括3个主要部分 ： ①粒子源，用以提供所需加速的粒子，有电子、正电子、质子、反质子以及重离子等等。②真空加速系统，其中有一定形态的加速电场，并且为了使粒子在不受空气中的分子散射的影响的条件下加速 ，整个系统放在真空度极高的真空室内。③导引、聚焦系统，用一定形态的电磁场来引导并约束被加速的粒子束，使之沿预定轨道接受电场的加速。所有这些都要求高、精、尖技术的综合和配合。</p>
 							<P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;加速器的效能指标是粒子所能达到的能量和粒子流的强度（流强）。按照粒子能量的大小，加速器可分为低能加速器（能量小于10^8eV）、中能加速器（能量在10^8～10^9eV）、高能加速器（能量在10^9～10^12eV）和超高能加速器（能量在10^12eV以上)。低能和中能加速器主要用于各种实际应用。</p>
+
 
 						    <div class="row bs-callout" style="background-color:#05173b; margin-bottom:0px"><!-- divider -->
 						    	<div class="text-center">
