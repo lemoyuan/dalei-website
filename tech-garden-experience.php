@@ -49,10 +49,21 @@
 
 				    	</aside>
 
-
-
 					<div class="col-md-9">
 
+							<div class="item">
+								<!-- article title -->
+								<h4><a href="/articles/article-food-radiation-management.php">食品辐照生产的质量管理体系</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#fff">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保证食品辐照的质量既要有好的硬件包括高水平的辐照装置和必要的仪器仪表,更需要有完善的软件系统,那就是良好的管理。 · · · · · ·
+								</p>
+
+								<!-- read more button -->
+								<a href="/articles/article-food-radiation-management.php" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+							</div>
 
 							<div class="item">
 								<!-- article title -->
