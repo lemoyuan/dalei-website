@@ -61,7 +61,7 @@
 						    				</ul>
 									</div>
 									<div class="col-md-6">
-								  		  <img alt="直线电子加速器辐照加工应用大镭核技术智能高功率脉冲调制器<" class="img-responsive" src="assets/images/dalei/modulator.jpg">
+								  		  <img alt="直线电子加速器辐照加工应用大镭核技术智能高功率脉冲调制器<" class="img-responsive" src="assets/images/dalei/modulator.png">
 							    	</div>
 
 									<div class="col-md-12">
