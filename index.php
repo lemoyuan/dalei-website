@@ -171,7 +171,7 @@
             <section class="container padding100 margin-top100 margin-footer">
 			    	<div class="container">
 			  				<div class="row">
-				        			<h2 class="text-center">电子直线加速器成套设备</h2>
+				        			<h2 class="text-center">辐照中心</h2>
 
 									<!-- SERVICE 1 -->
 									<div class="col-md-6">
@@ -207,7 +207,7 @@
 													<img class="img-responsive" src="assets/images/dalei/eaccel.png" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">
 											</figure>
 											<div class="item-box-desc">
-													<h4 >电子直线加速主机</h4>
+													<h4 >电子直线加速器</h4>
 						
 											</div>
 				    				</div>
@@ -241,7 +241,7 @@
 								    						<strong>加速器循环温度控制机</strong> 
 													</span>
 												</a>
-												<img class="img-responsive" src="assets/images/dalei/tem.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备加速器循环温度控制机">
+												<img class="img-responsive" src="assets/images/dalei/temp.png" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备加速器循环温度控制机">
 										</figure>
 										<div class="item-box-desc">
 												<h4 > 加速器循环温度控制机 </h4>

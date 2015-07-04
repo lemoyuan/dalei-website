@@ -75,7 +75,7 @@
 							<div class="col-md-6">
                                     <div align="center" >
 						                <figure>
-							                    <img alt="直线电子加速器辐照加工应用大镭核技术加速器循环温度控制机" class="img-responsive" src="assets/images/dalei/tem.jpg">
+							                    <img alt="直线电子加速器辐照加工应用大镭核技术加速器循环温度控制机" class="img-responsive" src="assets/images/dalei/temp.png">
 						                </figure>
 					                 </div>
                              </div>
