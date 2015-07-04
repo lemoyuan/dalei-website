@@ -204,7 +204,7 @@
 								    								<strong>加速器</strong> 整机
 															</span>
 													</a>
-													<img class="img-responsive" src="assets/images/dalei/eaccel1.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">
+													<img class="img-responsive" src="assets/images/dalei/eaccel.png" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子直线加速主机">
 											</figure>
 											<div class="item-box-desc">
 													<h4 >电子直线加速主机</h4>
