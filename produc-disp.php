@@ -162,7 +162,7 @@
 											<strong>束流偏转控制器</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/pro.jpg"  alt="直线电子加速器辐照加工应用大镭核技术束流偏转控制器">
+									<img class="img-responsive" src="assets/images/dalei/scan_power.jpg"  alt="直线电子加速器辐照加工应用大镭核技术束流偏转控制器">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">束流偏转控制器</h4>
@@ -184,7 +184,7 @@
 											<strong>溅射离子泵控制器</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/ion.jpg"  alt="直线电子加速器辐照加工应用大镭核技术溅射离子泵控制器">
+									<img class="img-responsive" src="assets/images/dalei/ion_pump_power.jpg"  alt="直线电子加速器辐照加工应用大镭核技术溅射离子泵控制器">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">溅射离子泵控制器</h4>
