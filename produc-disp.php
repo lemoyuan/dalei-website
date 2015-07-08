@@ -28,14 +28,9 @@
 		        </div>
             </header>
 
-
-
 			<section id="portfolio" class="container text-center">
 
-
 				<h1><strong>产品</strong> 展示</h1>
-
-
 
                 <!--product-->
 				<div class="row" style="font-size:14px;line-height:22px">
@@ -52,7 +47,7 @@
 											<strong>电子加速器</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/eaccel1.jpg"  alt="直线电子加速器辐照加工应用大镭核技术成套设备">
+									<img class="img-responsive" src="assets/images/dalei/eaccel.png"  alt="直线电子加速器辐照加工应用大镭核技术成套设备">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">工业辐照电子直线加速器</h4>
@@ -75,7 +70,7 @@
 											<strong>智能高功率调制器</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/modulator1.jpg" alt="直线电子加速器辐照加工应用大镭核技术智能高功率调制器">
+									<img class="img-responsive" src="assets/images/dalei/modulator.png" alt="直线电子加速器辐照加工应用大镭核技术智能高功率调制器">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">智能高功率脉冲调制器</h4>
@@ -120,7 +115,7 @@
 											<strong>加速器循环温度控制机</strong> 
 										</span>
 									</a>  
-									<img class="img-responsive" src="assets/images/dalei/tem.jpg"  alt="大镭核技术加速器循环温度控制机">
+									<img class="img-responsive" src="assets/images/dalei/temp.png"  alt="大镭核技术加速器循环温度控制机">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">加速器循环温度控制机</h4>
