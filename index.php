@@ -139,26 +139,26 @@
 												<div class="featured-box nobg border-only">
 														<div class="box-content">
 																<a href="application-food.php"><i class="fa fa-apple"></i></a>
-																<a href="application-food.php"><h4>食品辐照</h4></a>
+																<h4>食品辐照</h4>
 														</div>
 												</div>
 										</div>
 										<div class="col-md-6">
 												<div class="featured-box nobg border-only">
 														<a href="application-medical.php"><i class="fa fa-medkit"></i></a>
-														<a href="application-medical.php"><h4>医疗保健品辐照</h4></a>
+														<h4>医疗保健品辐照</h4>
 												</div>
 										</div>
 										<div class="col-md-6">
 												<div class="featured-box nobg border-only">
 														<a href="application-industry.php"><i class="fa fa-flask"></i></a>
-														<a href="application-industry.php"><h4>工业辐照</h4></a>
+														<h4>工业辐照</h4>
 												</div>
 										</div>
 										<div class="col-md-6">
 												<div class="featured-box nobg border-only">
 														<a href="application-agriculture.php"><i class="fa fa-lemon-o"></i></a>
-														<a href="application-agriculture.php"><h4>农产品辐照</h4></a>
+														<h4>农产品辐照</h4>
 												</div>
 										</div>
 								</div>
@@ -171,7 +171,7 @@
             <section class="container padding100 margin-top100 margin-footer">
 			    	<div class="container">
 			  				<div class="row">
-				        			<h2 class="text-center">辐照中心</h2>
+				        			<h2 class="text-center">电子直线加速器</h2>
 
 									<!-- SERVICE 1 -->
 									<div class="col-md-6">
