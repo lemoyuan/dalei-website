@@ -110,8 +110,8 @@
 						<div class="widget">
 							<h4><strong>产品</strong></h4>
 						    <ul class="nav nav-list">
-							    <li><a href=""><i class="fa fa-circle-o"></i>建设方案</a></li>
-							    <li><a href="center-management.php"><i class="fa fa-circle-o"></i>质量管理体系</a></li>
+							    <li><a href="/center-construt.php"><i class="fa fa-circle-o"></i>建设方案</a></li>
+							    <li><a href="/center-management.php"><i class="fa fa-circle-o"></i>质量管理体系</a></li>
 							    <li><a href=""><i class="fa fa-circle-o"></i>辐照工艺管理</a></li>
 						    </ul>
 						</div>
