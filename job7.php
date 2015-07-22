@@ -109,19 +109,7 @@
 
 				<div class="row">
 
-					<aside class="col-md-3">
-
-						<ul class="nav nav-list">
-							<li><a href="jobs.php"><i class="fa fa-hand-o-right"></i> 电子设备技术开发工程师</a></li>
-							<li><a href="job2.php"><i class="fa fa-hand-o-right"></i> 电子设备运行管理工程师</a></li>
-							<li><a href="job3.php"><i class="fa fa-hand-o-right"></i> 核技术应用开发工程师</a></li>
-							<li><a href="job4.php"><i class="fa fa-hand-o-right"></i> 机械与自动化工程师</a></li>
-							<li><a href="job5.php"><i class="fa fa-hand-o-right"></i> 业务经理</a></li>
-							<li><a href="job6.php"><i class="fa fa-hand-o-right"></i> 软件工程师</a></li>
-							<li><a href="job7.php"><i class="fa fa-hand-o-right"></i> 营销工程师</a></li>
-						</ul>
-
-					</aside>
+				    <?php require('job-aside.html');?>
 
 					<div class="col-md-9">
 
@@ -155,15 +143,13 @@
 										4、有相关工作经验者优先考虑。<br/>
 									</p>
 								</div>
-							</div><br/>
-							<p>有意向者，请投邮箱： support@bigradium.com。</p>
+							</div>
 							
 						</div>
 
 					</div>
 
 				</div>
-
 
 			</section>
            <!--jobs-->
@@ -173,9 +159,6 @@
 
     <?php require('footer.html');?>
     <?php require('script.html');?>
-
-
-
-		
+	
 	</body>
 </html>
