@@ -30,23 +30,9 @@
             <section class="container">
 
 				<div class="row">
-
-					<aside class="col-md-2">
-
-					    <ul class="nav nav-list">
-							<li><a href="prod-eaccel.php"><i class="fa fa-circle-o"></i> 电子直线加速器</a></li>
-							<li><a href="prod-modulator.php"><i class="fa fa-circle-o"></i> 智能高功率调制器</a></li>
-							<li><a href="prod-acircul-temp.php"><i class="fa fa-circle-o"></i> 循环温度控制机</a></li>
-							<li><a href="prod-egun.php"><i class="fa fa-circle-o"></i> 脉冲强流电子枪</a></li>
-							<li><a href="prod-micro-sourc.php"><i class="fa fa-circle-o"></i>全固态微波功率源 </a></li>
-							<li><a href="prod-egun-power.php"><i class="fa fa-circle-o"></i> 电子枪智能控制器</a></li>
-							<li><a href="prod-scan-power.php"><i class="fa fa-circle-o"></i> 束流偏转控制器</a></li>
-							<li><a href="prod-ion-pump-power.php"><i class="fa fa-circle-o"></i> 溅射离子泵控制器</a></li>
-						</ul>
-
-				    </aside>
+					<?php require ('prod-aside.html');?>
                     
-                    <div class="col-md-10"  style="padding:20px">
+                    <div class="col-md-9"  style="padding:20px">
                     	<div class="col-md-7">
                     		<h3><strong>DL-7000溅射离子泵控制器</strong></h3>
 

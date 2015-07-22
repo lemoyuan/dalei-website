@@ -30,24 +30,9 @@
             <section class="container">
 
 				<div class="row">
-
-					<aside class="col-md-2">
-
-					
-						<ul class="nav nav-list">
-							<li><a href="prod-eaccel.php"><i class="fa fa-circle-o"></i> 电子直线加速器</a></li>
-							<li><a href="prod-modulator.php"><i class="fa fa-circle-o"></i> 智能高功率调制器</a></li>
-							<li><a href="prod-acircul-temp.php"><i class="fa fa-circle-o"></i> 循环温度控制机</a></li>
-							<li><a href="prod-egun.php"><i class="fa fa-circle-o"></i> 脉冲强流电子枪</a></li>
-							<li><a href="prod-micro-sourc.php"><i class="fa fa-circle-o"></i>全固态微波功率源 </a></li>
-							<li><a href="prod-egun-power.php"><i class="fa fa-circle-o"></i> 电子枪智能控制器</a></li>
-							<li><a href="prod-scan-power.php"><i class="fa fa-circle-o"></i> 束流偏转控制器</a></li>
-							<li><a href="prod-ion-pump-power.php"><i class="fa fa-circle-o"></i> 溅射离子泵控制器</a></li>
-						</ul>
-
-				    </aside>
+					<?php require ('prod-aside.html');?>
                     
-                    <div class="col-md-10"  style="padding:20px">
+                    <div class="col-md-9"  style="padding:20px">
 							<div class="row">
                     				<h3><strong>智能高功率脉冲调制器</strong></h3></br>
                     				<h4><strong>产品结构特点</strong></h4>
@@ -57,7 +42,6 @@
 							    					<li><p><label style="color:#FFE100">模块化</label>，高压部件全封闭，结构简单可靠，可按不同功率等级方便组合，功率富裕量大。</p></li>
 							    					<li><p>采用<label style="color:#FFE100">变压器与电容双重储能技术</label>，脉冲高压精度高，抗高压打火短路能力强，电源转换效率高，节能。</p></li>
 							    					<li><p><label style="color:#FFE100">独创设计</label>的脉冲形成网络（PFN），脉冲前后沿、平坦度技术指标优异，匹配不同负载调整方便。</p></li>
-							    					<li><p>脉冲定时<label style="color:#FFE100">精度高</label>，达ns量级，运行中可任意设定脉冲宽度、重复频率、能谱要求，以适合不同辐射加工工艺和工况要求。</p></li>
 						    				</ul>
 									</div>
 									<div class="col-md-6">
@@ -66,6 +50,7 @@
 
 									<div class="col-md-12">
 											<ul>
+							    					<li><p>脉冲定时<label style="color:#FFE100">精度高</label>，达ns量级，运行中可任意设定脉冲宽度、重复频率、能谱要求，以适合不同辐射加工工艺和工况要求。</p></li>
 							    					<li><p>设备各主要部位都有数据采样且<label style="color:#FFE100">数据长期保存</label>，便于比较分析主要零部件性能徐变趋向，以提前主动维护确保设备正常安全工作。</p></li>
 						    				</ul>
 									</div>
