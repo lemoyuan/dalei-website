@@ -31,14 +31,14 @@
                     <div class="col-md-10" style="padding:20px">
 							<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照中心对外提供辐照加工服务，是当前辐照行业的主要经营方式。</h4>
 
-							<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;投资建设辐照中心通常<label style="color:#FFE100">2~3年</label>可以回收成本，此后每年投资<label style="color:#FFE100">回报率在50%以上</label>。</p>
+							<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;投资建设辐照中心通常<label style="color:#FFE100">2~3年</label>可以回收成本，投资<label style="color:#FFE100">回报率在40%以上</label>。</p>
 							<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照中心建设是一项复杂的工程，涉及土建、防护体设计、加速器设备制造等多个领域。建设周期通常在一年以上。耗时长、前期投入大、技术难度高、设备维护成本高等成为辐照行业快速发展的最大障碍。</p>
 
-							<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭公司提供辐照中心建设的完整解决方案，与同行相比具有以下优势：</p>
+							<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭公司提供辐照中心建设的完整解决方案，与其他的辐照中心建设相比具有以下优势：</p>
                             <div class="row">
                             	<div class="col-md-6">
 									<ul>
-										<li><label style="color:#FFE100">建设时间成本为同行的三分之一</label><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭首推加速器设备产品化，极大的缩短了设备制造时间；丰富的防护体设计经验，缩短了建设施工时间。</p></li>
+										<li><label style="color:#FFE100">建设时间成本为通常的的三分之一</label><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭首推加速器设备产品化，极大的缩短了设备制造时间；丰富的防护体设计经验，缩短了建设施工时间。</p></li>
 										<li><label style="color:#FFE100">资金成本大幅度降低 </label><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术创新和设备管理贯穿研发始终。</p>
 											<ul><li><p>技术创新降低了设备制造成本</p></li>
 													<li><p>更优化的防护体建设方案降低了建设成本</p></li>
@@ -53,7 +53,6 @@
                            		<div class="col-md-12">
 										<ul><li><label style="color:#FFE100">完善的服务平台 </label><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭加速器设备采用领先与同行的智能化控制，极大降低了操作和维修的复杂度，同时提供完善的售后技术服务，使客户无需担心任何设备相关的技术问题。</p></li></ul>
 								</div>	
-								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基于以上优势，我们可以提供不超过同行售价的更先进的设备和更优质的服务。</p>
 					</div>
 
 				    <aside class="col-md-2">
