@@ -28,10 +28,11 @@
 			<section class="container">
 				<div class="row">
 
-                    <div class="col-md-9" style="padding:20px">
+                    <div class="col-md-10" style="padding:20px">
                             <h4><strong>辐照装置验收与加工生效</strong></h4>
+                            <div class="col-md-6"><img src="/assets/images/dalei/certificate.png"></div>
 						    <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照装置验收的目的是保证辐照装置安全可靠、正确运行, 确保工作人员和公众的健康和安全, 并有稳定的辐照场以保证辐照产品的质量。</P>
-                            <div class="col-md-8"><img src="/assets/images/dalei/certificate.png"></div>
+
 					    	<ul>
 						            <li><P style="color:#bbb">根据国家有关法规, 辐照装置在正式运行前必须经主管部门验收, 并获得“辐照加工许可证”。辐照装置的安全防护设施必须符合国家标准。剂量计必须符合国家计量检测规程的要求, 并根据规程对各检定项目进行测定。</p></li>
 						            <li><P style="color:#bbb">正式运行前, 应根据辐照装置和辐照产品的情况建立辐照模式, 其原则是在保证产品内剂量不均匀度满足要求的条件下, 最大限度地利用辐照空间。</p></li>
@@ -106,7 +107,7 @@
 		       			       			       			       	
 					    </div>
 
-				    <aside class="col-md-3">
+				    <aside class="col-md-2">
 						<div class="widget">
 							<h4><strong>产品</strong></h4>
 						    <ul class="nav nav-list">
