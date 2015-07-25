@@ -59,21 +59,21 @@
 
 							<div class="row">
 						    		<h4><strong>智能化控制系统</strong></h4>
-						    				<div  class="col-md-6">
+						    		<div  class="col-md-6">
 
-						   							<ul>
-						            						<li>扁平化UI人机交互界面，触摸屏操作；</li></br>
-						            						<li>可设置允许远程控制；</li></br>
-						            						<li>实时电压、电流、温度数据显示，历史数据查询，历史操作记录；</li></br>
-						            						<li>历史数据查询，历史操作记录；</li></br>
-						            						<li>软硬件参数设置，调制器账户加密；</li></br>
-						            						<li>设备故障保护与故障指示。</li>
-						    						</ul>
-                        					</div>
-						  					<div  class="col-md-6">
-								    				<img alt="直线电子加速器辐照加工应用大镭核技术调制器控制系统" class="img-responsive" src="assets/images/dalei/modulator2.jpg">
-							    			</div>
+						   					<ul>
+						            				<li>扁平化UI人机交互界面，触摸屏操作；</li></br>
+						            				<li>可设置允许远程控制；</li></br>
+						            				<li>实时电压、电流、温度数据显示，历史数据查询，历史操作记录；</li></br>
+						            				<li>历史数据查询，历史操作记录；</li></br>
+						            				<li>软硬件参数设置，调制器账户加密；</li></br>
+						            				<li>设备故障保护与故障指示。</li>
+						    				</ul>
                         			</div>
+						  			<div  class="col-md-6">
+								   			<img alt="直线电子加速器辐照加工应用大镭核技术调制器控制系统" class="img-responsive" src="assets/images/dalei/modulator2.jpg">
+							    	</div>
+                        	</div>
 			
                         			<div class="col-md-12"><br/>
 				          					<h4><strong>主要技术指标</strong></h4>

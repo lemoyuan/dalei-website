@@ -113,26 +113,45 @@
 					<div class="col-md-8">
 
 						<h2>联系方式</h2>
-						<span>
-							如果您有任何的疑问或需求，请致电或邮件我们！
-						</span></br>
+						<label style="font-size:20px">如果您有任何的疑问或需求，请致电或邮件我们！</label>
 
-						<p style="font-size:16px">
-							<span class="block"><strong><i class="fa fa-flag"></i> &nbsp;公司名称：</strong> 浙江大镭核技术应用设备有限公司</span>
-
-							<span class="block"><strong><i class="fa fa-home"></i> &nbsp;大镭官网：</strong> <a href="http://www.bigradium.com">http://www.bigradium.com</a></span>
-
-							<span class="block"><strong><i class="fa fa-map-marker"></i> &nbsp;&nbsp;公司地址：</strong> 浙江省舟山市经济开发区新港工业园区迎宾大道36号</span>
-
-							<span class="block"><strong><i class="fa fa-envelope-o"></i> &nbsp;邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;编：</strong> 316000</span>
-
-							<span class="block"><strong><i class="fa fa-phone"></i> &nbsp;电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：</strong> 0580-2929878</span>
-
-							<span class="block"><strong><i class="fa fa-print"></i> &nbsp;传&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;真：</strong> 0580-2929879</span>
-
-							<span class="block"><strong><i class="fa fa-envelope"></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email:</strong> <a href="mailto:support@bigradium.com"> &nbsp;&nbsp;support@bigradium.com</a></span>	
-						</p>
-
+						<table style="background-color:rgba(0,0,0,0.02); color:rgba(255,255,255,1); font-size:20px">
+						    <tr>
+                              	<td height="35px" class="text-right"><i class="fa fa-flag"></i></td>
+                              	<td class="text-right"><span>公司名称：</span></td>
+                              	<td class="text-left"> <span> 浙江大镭核技术应用设备有限公司</span></td>
+                            </tr>
+						    <tr>
+                              	<td height="35px" class="text-right"><i class="fa fa-home"> </i></td>
+                              	<td class="text-right"><span>大镭官网： </span></td>
+                              	<td class="text-left"><span><a href="http://www.bigradium.com"> http://www.bigradium.com</a> </span></td>
+                            </tr>
+						    <tr>
+                              	<td height="35px" class="text-center"><i class="fa fa-map-marker"></i></td>
+                              	<td class="text-right"><span>公司地址：</span></td>
+                              	<td class="text-left"> 浙江省舟山市经济开发区新港工业园区迎宾大道36号</td>
+                            </tr>
+						    <tr>
+                              	<td height="35px" class="text-right"><i class="fa fa-envelope-o"></i><span></span></td>
+                              	<td class="text-right"><span>邮编：</span></td>
+                              	<td class="text-left"> 316000</td>
+                            </tr>
+						    <tr>
+                              	<td height="35px" class="text-right"><i class="fa fa-phone"></i></td>
+                              	<td class="text-right"><span>电话：</span></td>
+                              	<td class="text-left"> 0580-2929878</td>
+                            </tr>
+						    <tr>
+                              	<td height="35px" class="text-right"><i class="fa fa-print"></i></td>
+                              	<td class="text-right"><span>传真：</span></td>
+                              	<td class="text-left"> 0580-2929879</td>
+                            </tr>
+						    <tr>
+                              	<td height="35px" class="text-right"><i class="fa fa-envelope"></i></td>
+                              	<td class="text-right"><span> Email：</span></td>
+                              	<td class="text-left"><a href="mailto:support@bigradium.com"> support@bigradium.com</a></td>
+                            </tr>
+						</table></br>
 						<div style="width:700px;height:250px;border:#ccc solid 1px;font-size:12px" id="map"></div>
 					</div>
 					<!-- /INFO -->
@@ -167,7 +186,7 @@
 								<div class="form-group">
 									<div class="col-md-12">
 										<label>消息内容 *</label>
-										<textarea maxlength="5000" data-msg-required="Please enter your message." rows="8" class="form-control" name="message" id="message"></textarea>
+										<textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" id="message"></textarea>
 									</div>
 								</div>
 							</div>
