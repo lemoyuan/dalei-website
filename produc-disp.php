@@ -28,16 +28,15 @@
 		        </div>
             </header>
 
-			<section id="portfolio" class="container text-center">
+			<section class="container text-center">
 
 				<h1><strong>产品</strong> 展示</h1>
 
                 <!--product-->
 				<div class="row" style="font-size:14px;line-height:22px">
-					<ul class="sort-destination isotope" data-sort-id="isotope-list" >
 
                         <!-- item -->
-						<li class="isotope-item col-sm-6  col-md-3   ">
+						<div class="col-sm-6  col-md-3 col-xs-6  ">
 							<div class="item-box fixed-box "  >
 								<figure>
 								    <a class="item-hover" href="prod-eaccel.php">
@@ -56,11 +55,11 @@
 									</p>	
 								</div>
 							</div>
-						</li>
+						</div>
                         
                       
                         <!-- item 2 -->
-						<li class="isotope-item col-sm-6  col-md-3   ">
+						<div class="col-sm-6  col-md-3 col-xs-6">
 							<div class="item-box  fixed-box" >
 								<figure>
 									<a class="item-hover" href="prod-modulator.php" >
@@ -79,10 +78,10 @@
 									</p>	
 								</div>
 							</div>
-						</li>
+						</div>
                         
 				        <!-- item 3-->
-						<li class="isotope-item col-sm-6  col-md-3 ">
+						<div class="col-sm-6  col-md-3 col-xs-6">
 							<div class="item-box fixed-box"  >
 								<figure>
 									<a class="item-hover" href="prod-egun.php">
@@ -100,14 +99,13 @@
 									</p>	
 								</div>
 							</div>
-						</li>
+						</div>
 
 
 						<!-- item 4 -->
-						<li class="isotope-item  col-sm-6 col-md-3 ">
+						<div class="col-sm-6 col-md-3 col-xs-6">
 							<div class="item-box  fixed-box"  >
 								<figure>
-
 									<a class="item-hover" href="prod-acircul-temp.php">
 										<span class="overlay color2"></span>
 										<span class="inner">
@@ -123,14 +121,13 @@
 			                        </p>									
 								</div>
 							</div>
-						</li>
-					</ul>
+						</div>
+
 				</div>
 
 				<div class="row" style="font-size:14px;line-height:22px">
-					<ul class="sort-destination isotope" data-sort-id="isotope-list" >
 						<!-- item 4-->
-						<li class="isotope-item col-sm-6 col-md-3 " >
+						<div class="col-sm-6 col-md-3 col-xs-6" >
 							<div class="item-box fixed-box"  >
 								<figure>
 									<a class="item-hover" href="prod-egun-power.php">
@@ -148,11 +145,11 @@
 								    </p>	
 								</div>
 							</div>
-						</li>
+						</div>
 
 
 						<!-- item 5-->
-						<li class="isotope-item col-sm-6  col-md-3 " >
+						<div class="col-sm-6  col-md-3 col-xs-6" >
 							<div class="item-box  fixed-box"  >
 								<figure>
 									<a class="item-hover"  href="prod-scan-power.php">
@@ -170,10 +167,10 @@
 									</p>	
 								</div>
 							</div>
-						</li>
+						</div>
 
 						<!-- item 6 -->
-						<li class="isotope-item  col-sm-6 col-md-3 ">
+						<div class="col-sm-6 col-md-3 col-xs-6">
 							<div class="item-box  fixed-box" >
 								<figure>
 
@@ -192,10 +189,10 @@
 									</p>	
 								</div>
 							</div>
-						</li>
+						</div>
 
 						<!-- item 7-->
-						<li class="isotope-item col-sm-6 col-md-3 " >
+						<div class="col-sm-6 col-md-3 col-xs-6" >
 							<div class="item-box fixed-box"  >
 								<figure>
 									<a class="item-hover" href="prod-micro-sourc.php">
@@ -213,15 +210,13 @@
 								    </p>	
 								</div>
 							</div>
-						</li>
+						</div>
 
-                    </ul>
 				</div>       
             </section>
 
 		</div>
 		<!-- /WRAPPER -->
-
 
 	<?php require('footer.html');?>
     <?php require('script.html');?>
