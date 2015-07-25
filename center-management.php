@@ -34,7 +34,7 @@
 						    <P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐照装置验收的目的是保证辐照装置安全可靠、正确运行, 确保工作人员和公众的健康和安全, 并有稳定的辐照场以保证辐照产品的质量。</P>
 
 					    	<ul>
-						            <li><P style="color:#bbb">根据国家有关法规, 辐照装置在正式运行前必须经主管部门验收, 并获得“辐照加工许可证”。辐照装置的安全防护设施必须符合国家标准。剂量计必须符合国家计量检测规程的要求, 并根据规程对各检定项目进行测定。</p></li>
+						            <li><P style="color:#bbb">根据国家有关法规, 辐照装置在正式运行前必须经主管部门验收, 并获得“辐照安全许可证”。辐照装置的安全防护设施必须符合国家标准。剂量计必须符合国家计量检测规程的要求, 并根据规程对各检定项目进行测定。</p></li>
 						            <li><P style="color:#bbb">正式运行前, 应根据辐照装置和辐照产品的情况建立辐照模式, 其原则是在保证产品内剂量不均匀度满足要求的条件下, 最大限度地利用辐照空间。</p></li>
 						            <li><P style="color:#bbb">在辐照装置启用前, 应制定一系列生产管理细则, 如运行管理规程、工作人员管理制度、安全管理制度、辐照产品质量管理制度、剂量监测制度、故障发生的请示报告和对策、实验室管理制度、环境监测制度、财务管理制度、档案制度、车间生产管理制度、参观接待制度等。</p></li>
 					    	</ul>
@@ -111,6 +111,7 @@
 						<div class="widget">
 							<h4><strong>产品</strong></h4>
 						    <ul class="nav nav-list">
+							    <li><a href="/center-intro.php"><i class="fa fa-circle-o"></i>辐照中心简介</a></li>
 							    <li><a href="/center-construt.php"><i class="fa fa-circle-o"></i>建设方案</a></li>
 							    <li><a href="/center-management.php"><i class="fa fa-circle-o"></i>质量管理体系</a></li>
 							    <li><a href="/center-intro.php"><i class="fa fa-circle-o"></i>辐照工艺管理</a></li>
