@@ -135,21 +135,21 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm">什么是食品辐照加工</a></h4>
+								<h4><a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm" target="_blank">什么是食品辐照加工</a></h4>
 						
 								<!-- blog short preview -->
 								<p style="color:#eee">&nbsp;&nbsp;&nbsp;&nbsp;什么是食品辐照加工？专家解答：利用γ射线、电子束和X射线对物质具有穿透性的特点，对食品进行辐照加工处理，杀死食品中的寄生的昆虫和致病菌，提高食品的卫生质量和延长食品保藏期的加工工艺过程叫做食品辐射加工。经辐照加工处理过的食品称为辐射食品。 · · · · · ·
 								</p>
 
 								<!-- read more button -->
-								<a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
+								<a href="http://news.xinhuanet.com/science/2015-01/04/c_133832749.htm" target="_blank" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp; READ MORE</a>
 
 							</div>
 
 							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034">辐照食品安全性</a>
+								<h4><a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034" target="_blank">辐照食品安全性</a>
 								</h4>
 
 								<!-- blog short preview -->
@@ -157,7 +157,7 @@
 									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国学者也曾经对世界食品辐照界作出重大贡献。1982～1985年在大量动物试验的基础上，我国组织了382人的辐照食品综合人体试食试验。结果表明，食用吸收剂量在10kGy以下的辐照食品对人体无异常影响，从而结束了由印度学者引发的长达10年之久的淋巴多倍体辐照改变之争。 · · · · · ·
 	                            </p>
 								<!-- read more button -->
-								<a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+								<a href="http://news.sciencenet.cn/sbhtmlnews/2011/5/244034.html?id=244034" class="btn btn-xs pull-center" style="background-color:#2a6496" target="_blank"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
 
 					</div>
 
