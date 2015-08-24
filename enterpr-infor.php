@@ -29,8 +29,34 @@
 				<section class="container">
 
 					<div class="blog-timeline">
-
 						<article class="timeline-item pull-left" style="background-color:#444444">
+							<div class="item-date">
+								8.20<span>2015</span>
+							</div>
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4 style="color:#36a0da">大镭摘得“第四届创新创业大赛浙江赛区——先进制造专场复赛”探花</h4>
+									
+								<!-- add class "controlls-over" if you need the button controlls over the image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-150820-1.jpg">
+									</div>
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-150820-2.jpg">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在刚刚谢幕的第四届中国创新创业大赛浙江赛区先进制造专场上，于3D打印、机器人等先进制造的激烈角逐下，大镭创新创业团队凭借工业辐照高能电子加速器项目脱颖而出，最终以88.5分获得了先进制造专场复赛第三名。								</p>								
+							</div>
+
+						</article>
+
+						<article class="timeline-item pull-right" style="background-color:#444444">
 							<div class="item-date">
 								4.8<span>2015</span>
 							</div>
@@ -40,7 +66,6 @@
 								<!-- article title -->
 								<h4 style="color:#36a0da">舟山市科技局郭局长莅临大镭考察指导</h4>
 									
-
 								<!-- add class "controlls-over" if you need the button controlls over the image -->
 								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
 									<div>
@@ -59,7 +84,7 @@
 
 						</article>
 
-						<article class="timeline-item pull-right" style="background-color:#444444">
+						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
 								3.20<span>2015</span>
 							</div>
@@ -88,7 +113,7 @@
 
 						</article>
 
-						<article class="timeline-item pull-left" style="background-color:#444444">
+						<article class="timeline-item pull-right" style="background-color:#444444">
 							<div class="item-date">
 								12.30<span>2014</span>
 							</div>
@@ -116,7 +141,7 @@
 
 						</article>
 
-						<article class="timeline-item pull-right" style="background-color:#444444">
+						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
 								11.5<span>2014</span>
 							</div>
@@ -152,15 +177,10 @@
 				</section>
 
 			</div>
-	
 	    </div>
-
 
         <?php require('footer.html');?>
         <?php require('script.html');?>
 
-
-
-		
 	</body>
 </html>
