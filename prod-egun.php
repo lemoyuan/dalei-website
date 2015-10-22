@@ -58,7 +58,7 @@
 
 						<!--one picture -->
 					    <div class="col-md-6">
-								    <div><img alt="直线电子加速器辐照加工应用大镭核技术电子枪" class="img-responsive" src="assets/images/dalei/egun.jpg"></br></div>					
+								    <div><img alt="直线电子加速器辐照加工应用大镭核技术电子枪" class="img-responsive" src="assets/images/dalei/egun.png"></br></div>					
 				        </div>
 				        <!-- /one picture -->		
 

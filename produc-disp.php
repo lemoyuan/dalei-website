@@ -91,7 +91,7 @@
 											<strong>电子枪</strong> 
 										</span>
 									</a>
-									<img class="img-responsive" src="assets/images/dalei/egun.jpg"  alt="直线电子加速器辐照加工应用大镭核技术电子枪">
+									<img class="img-responsive" src="assets/images/dalei/egun.png"  alt="直线电子加速器辐照加工应用大镭核技术电子枪">
 								</figure>
 								<div class="item-box-desc">
 									<h4 class="text-center">脉冲强流电子枪</h4>
