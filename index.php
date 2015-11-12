@@ -259,7 +259,7 @@
 								    						<strong >电子枪</strong> 
 													</span>
 												</a>
-												<img class="img-responsive" src="assets/images/dalei/egun.jpg" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子枪">
+												<img class="img-responsive" src="assets/images/dalei/egun.png" width="260" height="260" alt="直线电子加速器辐照加工应用大镭核技术成套设备电子枪">
 										</figure>
 										<div class="item-box-desc">
 												<h4 > 电子枪</h4>
