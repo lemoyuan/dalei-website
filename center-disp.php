@@ -97,7 +97,7 @@
 							<div class="item-box"  >
 								<figure>
 
-									<a class="item-hover" href="">
+									<a class="item-hover" href="center-technics.php">
 										<span class="overlay color2"></span>
 										<span class="inner">
 											<span class="block fa fa-plus fsize20"></span>
