@@ -31,6 +31,25 @@
 					<div class="blog-timeline">
 						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
+								11.17<span>2015</span>
+							</div>
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4 style="color:#36a0da">“深圳高交会”一展风采</h4>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“泡椒凤爪、卤味豆干、布丁牛奶等食品，若要延长保质期商家会怎么做？不错，就是加防腐剂；纱布、注射器、针管等一次性医用设备，若要杀毒灭菌生产商会怎么做？市面上一般用环氧乙烷。但防腐剂和环氧乙烷是有毒致癌物质，将损害人类健康。
+　　那怎么办？浙江团这次带来的辐照高能电子加速器将改变这一切。浙江大镭核技术应用设备有限公司总工程师陆锐峰告诉记者，通过这套电子加速器设备所产生的β射线可以使得生物体（菌虫类）失去活性，从而延长食品的保质期；也可以改变分子结构，使材料改变性能，比如说通过β射线的辐射的电线可实现不起火不老化。”</p>			
+								<h4><a href="http://zjrb.zjol.com.cn/html/2015-11/17/content_2926877.htm?div=-1" >--《浙江日报》</a>	</h4>		
+							</div>
+
+						</article>
+
+						<article class="timeline-item pull-right" style="background-color:#444444">
+							<div class="item-date">
 								8.20<span>2015</span>
 							</div>
 
@@ -56,7 +75,7 @@
 
 						</article>
 
-						<article class="timeline-item pull-right" style="background-color:#444444">
+						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
 								4.8<span>2015</span>
 							</div>
