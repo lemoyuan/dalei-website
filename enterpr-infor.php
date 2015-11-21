@@ -50,6 +50,33 @@
 
 						<article class="timeline-item pull-right" style="background-color:#444444">
 							<div class="item-date">
+								11.13<span>2015</span>
+							</div>
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4 style="color:#36a0da">大镭入选市“科技创业企业”助飞计划</h4>
+
+								<!-- add class "controlls-over" if you need the button controlls over the image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/fly-program.png">
+									</div>
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/fly.png">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“科技创业企业”助飞计划是市委、市政府全面实施创新驱动发展战略的举措之一，旨在进一步推动我市科技型中小微企业快速成长，在全市培育形成一批科技含量高、发展前景好、具有行业竞争优势的“科技创业企业”。入选企业将在三年内获得市科创资金最高1000万元的支持。</p>				
+							</div>
+
+						</article>
+
+						<article class="timeline-item pull-left" style="background-color:#444444">
+							<div class="item-date">
 								8.20<span>2015</span>
 							</div>
 
