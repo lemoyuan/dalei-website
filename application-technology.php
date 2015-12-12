@@ -52,15 +52,15 @@
 						    </div>
 						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辐射加工技术，是民用非动力核技术的一种，属于原子能的和平利用，即核能和射线技术的应用。</p>
 						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;原理：将电子加速器（0.2MeV~10MeV）产生的电子射线（β射线）或放射性同位素（Cs-137或Co-60）产生的γ射线的能量转移给被辐照物质，电离辐射作用到被辐照的物质上，产生电离和激发，释放出轨道电子，形成自由基，通过控制辐射条件，而使被辐照物质的物理性能和化学组成发生变化并能使其成为人们所需要的一种新的物质，或使生物体（微生物等）受到不可恢复的损失和破坏，达到人们所需要的目标。</p>
-						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前使用的射线源装置主要有：</p>
+						    <p style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前使用的辐照装置主要有：</p>
 				     	    <ul>
 				     	    	<li><P style="color:#bbb">电子直线加速器</P></li>
-				     	    	<li><P style="color:#bbb">钴60辐照装置</P></li>
+				     	    	<li><P style="color:#bbb">钴60射线源装置</P></li>
 							    <li><P style="color:#bbb">高频高压加速器（地那米加速器）</P></li>
 						    </ul>	
 
 						    </br>
-                         <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;大镭电子直线加速器优势</strong></h4>
+                         <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;大镭 <a href="http://www.bigradium.com/prod-eaccel.php">电子直线加速器</a> 优势</strong></h4>
                          </br>
 
                          <P style="color:#bbb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;针对电子直线加速器结构复杂、故障率高、维护难的特点，大镭投入了大量的人力和物力。在丰富的设备应用经验和较强的团队研发能力的基础上，目前已取得了重要突破。</P>
@@ -75,7 +75,7 @@
                           
                         </br>
 
-                        <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器、钴60射线源装置比较：</strong></h4>
+                        <h4><strong>&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器、钴60辐照装置比较：</strong></h4>
                         
 
 			<div class="col-md-12">
@@ -83,7 +83,7 @@
                           <tr>
                             <th width="100" style="border-top:1px dashed rgba(102,102,102,0.5); "><span>比较因素</span></th>
                             <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>电子直线加速器</span></th>
-                            <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>钴60射线源装置</span></th>
+                            <th width=""  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>钴60辐照装置</span></th>
                           </tr>
                           <tr>
                             <td width=""  style="border-top:1px dashed rgba(102,102,102,0.5); "><span>建源成本</span></td>
