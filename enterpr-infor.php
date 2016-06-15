@@ -31,6 +31,45 @@
 					<div class="blog-timeline">
 						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
+								6.12<span>2016</span>
+							</div>
+
+							<div class="item">
+
+								<!-- article title -->
+								<h4 style="color:#36a0da">我公司舟山辐照中心—舟山雷大电子科技有限公司被认定为“2016年舟山市专利示范企业”。</h4>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山市科技局于2016年6月6日发布了<a href="http://www.zhoushan.gov.cn/web/zhzf/zwdt/bmdt/201606/t20160612_826991.shtml">《关于认定舟山雷大电子科技有限公司等企业为2016年市专利示范企业》</a>的通知，这是我公司一直以来致力于技术创新的成果，我们会再接再厉，不断增强企业竞争力。</p>				
+							</div>
+
+						</article>
+						<article class="timeline-item pull-right" style="background-color:#444444">
+							<div class="item-date">
+								5.30<span>2016</span>
+							</div>
+
+							<div class="item">
+
+								<!-- add class "controlls-over" if you need the button controlls over the image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/fly-program.png">
+									</div>
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/fly.png">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5月30日，浙江如山创投董事长王涌一行人到我公司视察，就获得首轮注资后如何加快我公司的战略布局进行讨论。。</p>				
+							</div>
+
+						</article>
+						<article class="timeline-item pull-left" style="background-color:#444444">
+							<div class="item-date">
 								11.17<span>2015</span>
 							</div>
 
@@ -102,7 +141,7 @@
 
 						</article>
 
-						<article class="timeline-item pull-left" style="background-color:#444444">
+						<article class="timeline-item pull-right" style="background-color:#444444">
 							<div class="item-date">
 								4.8<span>2015</span>
 							</div>
