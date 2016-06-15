@@ -55,10 +55,10 @@
 								<!-- add class "controlls-over" if you need the button controlls over the image -->
 								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
 									<div>
-										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/fly-program.png">
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-160530-2.jpg">
 									</div>
 									<div>
-										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/fly.png">
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-160530-1.jpg">
 									</div>
 								</div>
 
