@@ -127,40 +127,18 @@
 				<div class="container">
 						<div class="row">
 								<h2 class="text-center">辐照应用</h2>
-								<div class="col-md-6 col-sm-6 col-xs-12 margin-top30">
+								<div class="col-md-12 col-sm-6 col-xs-12 margin-top30">
 										<figure>
-											<img class="img-responsive" src="assets/images/dalei/plant.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备控制室" />
+											<img class="img-responsive" src="assets/images/dalei/plant.png" usemap="#plantmap" alt="直线电子加速器辐照加工应用大镭核技术成套设备控制室" />
+                                            <map name="plantmap" id="plantmap">
+                                                   <area shape="circle" coords="103,376,20" href ="application-medical.php" target ="_blank" alt="medical" />
+                                                   <area shape="circle" coords="164,268,20" href ="application-food.php" target ="_blank" alt="food" />
+                                                   <area shape="circle" coords="278,200,20" href ="application-agriculture.php" target ="_blank"  alt="agriculture" />
+                                                   <area shape="circle" coords="567,166,20" href ="application-industry.php" target ="_blank"  alt="industry" />
+                                                   <area shape="circle" coords="723,197,20" href ="application-industry.php" target ="_blank"  alt="industry" />
+                                                   <area shape="circle" coords="851,272,20" href ="application-industry.php" target ="_blank"  alt="industry" />
+                                            </map>
 										</figure>
-								</div>
-
-								<div class="col-md-6 col-sm-6 col-xs-12 margin-top30">
-
-										<div class="col-md-6">
-												<div class="featured-box nobg border-only">
-														<div class="box-content">
-																<a href="application-food.php"><i class="fa fa-apple"></i></a>
-																<h4>食品辐照</h4>
-														</div>
-												</div>
-										</div>
-										<div class="col-md-6">
-												<div class="featured-box nobg border-only">
-														<a href="application-medical.php"><i class="fa fa-medkit"></i></a>
-														<h4>医疗保健品辐照</h4>
-												</div>
-										</div>
-										<div class="col-md-6">
-												<div class="featured-box nobg border-only">
-														<a href="application-industry.php"><i class="fa fa-flask"></i></a>
-														<h4>工业辐照</h4>
-												</div>
-										</div>
-										<div class="col-md-6">
-												<div class="featured-box nobg border-only">
-														<a href="application-agriculture.php"><i class="fa fa-lemon-o"></i></a>
-														<h4>农产品辐照</h4>
-												</div>
-										</div>
 								</div>
 
 						</div>
