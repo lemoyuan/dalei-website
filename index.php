@@ -127,7 +127,7 @@
 				<div class="container">
 						<div class="row">
 								<h2 class="text-center">辐照应用</h2>
-								<div class="col-md-12 col-sm-6 col-xs-12 margin-top30">
+								<div class="col-md-12 col-sm-6 col-xs-12 margin-top30" align="center">
 										<figure>
 											<img class="img-responsive" src="assets/images/dalei/plant.png" usemap="#plantmap" alt="直线电子加速器辐照加工应用大镭核技术成套设备控制室" />
                                             <map name="plantmap" id="plantmap">
