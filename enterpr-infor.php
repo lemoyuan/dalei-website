@@ -31,6 +31,29 @@
 					<div class="blog-timeline">
 						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
+								6.22<span>2016</span>
+							</div>
+
+							<div class="item">
+								<!-- add class "controlls-over" if you need the button controlls over the image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-160622-2.jpg">
+									</div>
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-160622-1.jpg">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6月22日，浙江省科技厅党组书记、厅长周国辉一行赴舟山调研科技创新工作，在副市长沈仁华等市委领导的陪同下对舟山海洋产业集聚区科技创新工作进行调研，期间实地走访了我公司，考察了我公司加速器设备制造和应用情况。周厅长提出“坚定不移大力推进高新技术产业发展 ”。</p>				
+							</div>
+
+						</article>
+
+						<article class="timeline-item pull-left" style="background-color:#444444">
+							<div class="item-date">
 								6.12<span>2016</span>
 							</div>
 
@@ -64,7 +87,7 @@
 
 								<!-- blog short preview -->
 								<p style="color:#bbb;margin:0px">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5月30日，浙江如山创投董事长王涌一行人到我公司视察，就获得首轮注资后如何加快我公司的战略布局进行讨论。。</p>				
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5月30日，浙江如山创投董事长王涌一行人到我公司视察，就获得首轮注资后如何加快我公司的战略布局进行讨论。</p>				
 							</div>
 
 						</article>
@@ -110,6 +133,29 @@
 								<!-- blog short preview -->
 								<p style="color:#bbb;margin:0px">
 									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“科技创业企业”助飞计划是市委、市政府全面实施创新驱动发展战略的举措之一，旨在进一步推动我市科技型中小微企业快速成长，在全市培育形成一批科技含量高、发展前景好、具有行业竞争优势的“科技创业企业”。入选企业将在三年内获得市科创资金最高1000万元的支持。</p>				
+							</div>
+
+						</article>
+
+						<article class="timeline-item pull-left" style="background-color:#444444">
+							<div class="item-date">
+								10.30<span>2015</span>
+							</div>
+
+							<div class="item">
+
+								<!-- add class "controlls-over" if you need the button controlls over the image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-151030.jpg">
+									</div>
+
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据浙江省科技厅《关于省科技型企业认定有关事项的通知》（浙科发高【2012】286号）的通知，受省科技厅委托，按照《关于浙江省科技型中小企业认定工作实施意见》（浙科发高【2002】201号）有关规定，经研究，现认定浙江大镭核技术应用设备有限公司等53家企业为2015年第二批浙江省科技型企业。2015年10月30日，舟山市科学技术局印发。
+								</p>								
 							</div>
 
 						</article>
