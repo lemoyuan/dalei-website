@@ -52,7 +52,7 @@
 
 						</article>
 
-						<article class="timeline-item pull-left" style="background-color:#444444">
+						<article class="timeline-item pull-right" style="background-color:#444444">
 							<div class="item-date">
 								6.12<span>2016</span>
 							</div>
@@ -68,7 +68,7 @@
 							</div>
 
 						</article>
-						<article class="timeline-item pull-right" style="background-color:#444444">
+						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
 								5.30<span>2016</span>
 							</div>
@@ -91,7 +91,7 @@
 							</div>
 
 						</article>
-						<article class="timeline-item pull-left" style="background-color:#444444">
+						<article class="timeline-item pull-right" style="background-color:#444444">
 							<div class="item-date">
 								11.17<span>2015</span>
 							</div>
@@ -110,7 +110,7 @@
 
 						</article>
 
-						<article class="timeline-item pull-right" style="background-color:#444444">
+						<article class="timeline-item pull-left" style="background-color:#444444">
 							<div class="item-date">
 								11.13<span>2015</span>
 							</div>
@@ -137,7 +137,7 @@
 
 						</article>
 
-						<article class="timeline-item pull-left" style="background-color:#444444">
+						<article class="timeline-item pull-right" style="background-color:#444444">
 							<div class="item-date">
 								10.30<span>2015</span>
 							</div>
