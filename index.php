@@ -109,27 +109,29 @@
 			</div>
 			<!-- /REVOLUTION SLIDER -->
 
-            <section class="container ">
+                        <section class="container ">
 			    <h1 class="text-center"><strong>大镭</strong>核技术</h1> 
 			    <div class="col-md-2">
 			    </div>
 
 			    <div class="col-md-8">     
-                    <img  class="img-responsive "  style="text-align: center" src="assets/images/font1.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-				</div>  <br/><br/> <br/> <br/>    
+                                <img  class="img-responsive "  style="text-align: center" src="assets/images/font1.png" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+	      	            </div>  <br/><br/> <br/> <br/>    
 			    <div class="col-md-12">
-		         <p class="lead ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注重细节，追求完美，视产品为艺术品，在产品中注入生命和灵魂——不仅仅是人工智能。在紧凑型加速器及高加速梯度研究领域位居国际前列。这就是大镭的技术创新：将复杂深奥的现代高科技装置变成简单易用可靠的普通工业设备。</p>
-			</div>
+		              <p class="lead ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注重细节，追求完美，视产品为艺术品，在产品中注入生命和灵魂——不仅仅是人工智能。在紧凑型加速器及高加速梯度研究领域位居国际前列。这就是大镭的技术创新：将复杂深奥的现代高科技装置变成简单易用可靠的普通工业设备。</p>
+			    </div>
 		    </section>
 	
 		    <!-- /APPLICATIONS-->
 			<section id="portfolio" class="special-row padding100 margin-top100 margin-footer">
 				<div class="container">
 						<div class="row">
-								<h2 class="text-center">辐照应用</h2>
-								<div class="col-md-12 col-sm-6 col-xs-12 margin-top30" align="center">
+								<h2 class="text-center">辐照加工</h2>
+
+								<div class="col-md-12 col-sm-6 col-xs-12 " align="center">
+<p class="lead" style="text-align:left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/leida.php">射线加工</a>在常温下实施深度杀菌、材料改性，无需拆包装、无毒性和有害物残留，安全、高效、快速，是迄今最为有效的灭菌消毒及材料改性方法。</p>
 										<figure>
-											<img class="img-responsive" src="assets/images/dalei/plant.png" usemap="#plantmap" alt="直线电子加速器辐照加工应用大镭核技术成套设备控制室" />
+											<img class="img-responsive"  align="center" src="assets/images/dalei/plant.png" usemap="#plantmap" alt="直线电子加速器辐照加工应用大镭核技术成套设备控制室" />
                                             <map name="plantmap" id="plantmap">
                                                    <area shape="circle" coords="103,376,20" href ="application-medical.php" target ="_blank" alt="medical" />
                                                    <area shape="circle" coords="164,268,20" href ="application-food.php" target ="_blank" alt="food" />
