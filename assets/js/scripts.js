@@ -83,7 +83,7 @@ function _topNav() {
 	var addActiveClass = false;
 
 	jQuery("#topMain li.dropdown > a, #topMain li.dropdown-submenu > a").bind("click", function(e) {
-		e.preventDefault();
+	//	e.preventDefault();
 
 		if($(window).width() > 979) {
 			return;
