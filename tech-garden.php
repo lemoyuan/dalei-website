@@ -30,7 +30,6 @@
 
 						<aside  class="col-md-3">
 							<ul class="nav nav-list">
-								<li><a href="tech-garden.php"><i class="fa fa-pencil-square-o"></i> 新&nbsp; &nbsp; 技&nbsp;  &nbsp;术</a></li>
 								<li><a href="tech-garden-applications.php"><i class="fa fa-pencil-square-o"></i> 辐 照 应 用</a></li>
 								<li><a href="tech-garden-science.php"><i class="fa fa-pencil-square-o"></i> 加速器百科</a></li>
 								<li><a href="tech-garden-experience.php"><i class="fa fa-pencil-square-o"></i> 技术  /  经验</a></li>
