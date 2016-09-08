@@ -36,38 +36,39 @@
                          <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						 </div>
-					      <div class="row">
-					      <div class="col-md-12">
-                                <p class="lead"><strong>联系方式</strong></p>
-                                <p class="lead">地    址：浙江省舟山市新港工业园区迎宾大道36号</p>
-                                <p class="lead">电    话：0580 - 8831626</p>
-                                <p class="lead">传    真：0580 - 2975980</p>
-						 </div>
 
-					     <div class="col-md-6">
-									<div>
-										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/applications/jiagongliucheng.png">
+					     <div class="row">
+					     <div class="col-md-4 col-sm-6 col-xs-12">
+									<div class="item-box">
+										<figure><img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/applications/huowu1.jpg"></figure>
+										<div class="item-box-desc"><p class="text-center" style="margin:0px">操作流程</p></div>
 									</div>
-						 </div>
-					     <div class="col-md-6">
-									<div>
-										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/applications/huowu1.jpg">
-									</div>
-						 </div>
-					     <div class="col-md-6" style="padding-top:20px">
-									<div>
-										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/applications/kongzhitai.jpg">
-									</div>
-						 </div>
-					     <div class="col-md-6" style="padding-top:20px">
-									<div>
-										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/applications/jiankong.png">
-									</div>
-						 </div>
 
 						 </div>
+					     <div class="col-md-4 col-sm-6 col-xs-12">
+									<div class="item-box">
+										<figure><img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/applications/kongzhitai.jpg"></figure>
+										<div class="item-box-desc"><p class="text-center" style="margin:0px"> 控制系统</p></div>
+									</div>
 
+						 </div>
+					     <div class="col-md-4 col-sm-6 col-xs-12">
+									<div class="item-box">
+										<figure><img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/applications/jiankong.png"></figure>
+										<div class="item-box-desc"><p class="text-center" style="margin:0px"> 射线灭菌监控画面</p></div>
+									</div>
+						 </div>
+						 </div>
 
+					      <div class="white-row styleBackground">
+                                <p class="lead" style="color:#FFE100"><strong>联系方式</strong></p>
+                                <p class="lead">地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;址：浙江省舟山市新港工业园区迎宾大道36号</p>
+                                <p class="lead">业&nbsp;&nbsp;&nbsp;务&nbsp;&nbsp;&nbsp;部：15068019514 （韩经理）</p>
+                                <p class="lead">市&nbsp;&nbsp;&nbsp;场&nbsp;&nbsp;&nbsp;部：13705809538 （周先生）</p>
+                                <p class="lead">传真 / 电话：0580 - 2975980</p>
+						 </div>
+						 </div>
+						 </div>
 					</div>
 			</section>
 			<!-- /ONE NATION -->
