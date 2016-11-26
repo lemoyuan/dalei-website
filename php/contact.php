@@ -8,10 +8,10 @@ $msg = $_POST["message"];
 $ret = mail("support@bigradium.com", $sub, htmlspecialchars($msg) . "\n\n from: " . $name . "\n email: " . $email);
 
 if ($ret) {
-    header("Location: http://www.bigradium.com/contact-us-thankyou.html");
+    header("Location: http://www.bigradium.com/contact-us-thankyou.php");
       exit();
 } else {
-    header("Location: http://www.bigradium.com/contact-us-error.html");
+    header("Location: http://www.bigradium.com/contact-us-error.php");
       exit();
 }
 
