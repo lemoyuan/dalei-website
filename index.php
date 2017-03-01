@@ -133,8 +133,13 @@
 										<figure>
 											<img class="img-responsive"  align="center" src="assets/images/dalei/plant.png" usemap="#plantmap" alt="直线电子加速器辐照加工应用大镭核技术成套设备控制室" />
                                             <map name="plantmap" id="plantmap">
+                                                   <area shape="circle" coords="41,282,20" href ="https://leidatech.com/#medical" target ="_blank" alt="medical" />
                                                    <area shape="circle" coords="103,376,20" href ="application-medical.php" target ="_blank" alt="medical" />
+
+                                                   <area shape="circle" coords="102,188,20" href ="https://leidatech.com/#food" target ="_blank" alt="food" />
                                                    <area shape="circle" coords="164,268,20" href ="application-food.php" target ="_blank" alt="food" />
+
+                                                   <area shape="circle" coords="242,97,20" href ="https://leidatech.com/leida-food.php" target ="_blank"  alt="agriculture" />
                                                    <area shape="circle" coords="278,200,20" href ="application-agriculture.php" target ="_blank"  alt="agriculture" />
                                                    <area shape="circle" coords="567,166,20" href ="application-industry.php" target ="_blank"  alt="industry" />
                                                    <area shape="circle" coords="723,197,20" href ="application-industry.php" target ="_blank"  alt="industry" />
