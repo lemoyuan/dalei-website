@@ -22,7 +22,8 @@
 					<aside class="col-md-2">
 						<ul class="nav nav-list">
 							<li><a href="leida-business.php"><i class="fa fa-circle-o"></i> 业务范围</a></li>
-							<li><a href="leida.php"><i class="fa fa-circle-o"></i> 舟山辐照中心</a></li>
+							<li><a href="leida-zjzhoushan.php"><i class="fa fa-circle-o"></i> 舟山辐照中心</a></li>
+							<li><a href="leida-gdjieyang.php"><i class="fa fa-circle-o"></i> 揭阳辐照中心</a></li>
 						</ul>
 
 					</aside>
