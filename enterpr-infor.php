@@ -31,7 +31,36 @@
 					<span class="js_loader"><i class="fa fa-asterisk fa-spin"></i>LOADING</span>
 
 					<ul class="masonry-list">
+						<li class="masonry-item" style="background-color:#444444">
 
+							<div class="item">
+								<!-- article title -->
+								<div class="item-title">
+
+								</div>
+
+								<!-- image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-17-03.jpg">
+									</div>
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-17-02.jpg">
+									</div>
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-17-01.jpg">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#36a0da">2017年9月9日 </span>，在第五届中国（绵阳）科技城国际科技博览会军民融合创新展区，中央军委科技专家对我们的加速器表现出浓厚的兴趣。</p>	
+
+
+
+							</div>
+
+						</li>
 						<li class="masonry-item" style="background-color:#444444">
 
 							<div class="item">
@@ -249,34 +278,6 @@
 									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近日，浙江省能源与核技术应用研究院郭院长一行3人莅临我司，实地考察了我司的研发中心和设备运行情况。双方就高能电子直线加速器的制造现状、发展前景、开发合作等事宜进行探讨，郭院长对我司的产品给予高度评价，认为其技术指标先进、智能化程度高，运行稳定。
 								</p>
 	                                                                <p style="color:#36a0da" class="pull-right">   2015年3月20日 记录 </p>
-							</div>
-
-						</li>
-
-						<li class="masonry-item" style="background-color:#444444">
-
-							<div class="item">
-
-								<!-- article title -->
-								<div class="item-title">
-								  <h4 style="color:#36a0da">大镭实用新型专利获得国家授权</h4>
-								</div>
-
-								<!-- add class "controlls-over" if you need the button controlls over the image -->
-								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
-									<div>
-										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/articles/inno-11.jpg">
-									</div>
-									<div>
-										<img alt="直线电子加速器辐照加工应用大镭核技术成套设备" class="img-responsive" src="assets/images/articles/inno-12.jpg">
-									</div>
-								</div>
-
-								<!-- blog short preview -->
-								<p style="color:#bbb;margin:0px">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长久以来，大镭在技术创新和产品研发的道路上坚持不懈，获得的国家专利逐年增加，相关的专利转化成果为公司“推动工业辐照电子直线加速器普及，助力辐照产业壮大”提供了强有力的技术支撑，亦坚定了大镭在技术研发的道路上持之以恒的信念！
-								</p>
-	                                                                <p style="color:#36a0da" class="pull-right">   2014年12月30日 记录 </p>
 							</div>
 
 						</li>
