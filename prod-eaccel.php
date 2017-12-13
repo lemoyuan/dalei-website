@@ -32,7 +32,7 @@
 
                   	<div class="col-md-9" style="padding:20px">
 							<div class="row">
-									<div class="col-md-12">
+								<div class="col-md-12">
 											<h3><strong>工业辐照电子直线加速器</strong></h3></br>
 										 	<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子直线加速器是由微波功率源、电子枪、加速管、真空系统、聚焦系统、冷却与恒温循环系统、束流输运扫描输出系统、结构支撑系统、电气控制系统组成。</P></li>	  
 
@@ -106,7 +106,7 @@
                             							</tr>
 										</table>
 										<br/>
-								</div>
+									</div>
 
 							<div class="col-md-12">
 					    			<hr/>

@@ -108,7 +108,7 @@
                               										<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span>≤1×10-5</span></td>
                             								</tr><tr>
                               										<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>输出脉冲宽度：</span></td>
-                              										<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 8.5us（90%-90%处）可分级设定</span></td>
+                              										<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> 8.5us（10%-90%处）可分级设定</span></td>
                             								</tr><tr>
                               										<td width="423"  style="border-top:1px dashed rgba(102,102,102,0.5);"><span>脉冲前沿：</span></td>
                               										<td width="424"  style="border-top:1px dashed rgba(102,102,102,0.5); border-left:1px dashed rgba(102,102,102,0.5);"><span> ≤0.8us</span></td>

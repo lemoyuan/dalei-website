@@ -34,7 +34,7 @@
 
 				    </aside>
                     <div class="col-md-10" style="padding:20px">
-		                <h3> 浙江舟山辐照中心</h3>
+		                <h3> 江苏连云港辐照中心</h3>
                          <div class="divider half-margins"><!-- divider -->
 							    <i class="fa fa-star"></i>
 						 </div>
@@ -64,10 +64,10 @@
 
 					      <div class="white-row styleBackground">
                                 <p class="lead" style="color:#FFE100"><strong>联系方式</strong></p>
-                                <p class="lead">地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;址：浙江省舟山市新港工业园区迎宾大道36号</p>
-                                <p class="lead">业&nbsp;&nbsp;&nbsp;务&nbsp;&nbsp;&nbsp;部：15068019514 （韩经理）</p>
-                                
-                                <p class="lead">传真 / 电话：0580 - 2975980</p>
+                                <p class="lead">地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;址：连云港市经济开发区黄海大道与大浦路交叉口开发区中德园中心企业产业园B2-2号</p>
+                                <p class="lead">业&nbsp;&nbsp;&nbsp;务&nbsp;&nbsp;&nbsp;部：17751876176 （陈经理）</p>
+                              
+                                <p class="lead">传真 / 电话：0580 - 2929878</p>
 						 </div>
 						 </div>
 						 </div>
