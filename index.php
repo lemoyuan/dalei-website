@@ -110,7 +110,7 @@
 			<!-- /REVOLUTION SLIDER -->
 
                         <section class="container ">
-			    <h1 class="text-center"><strong>大镭</strong>核技术</h1> 
+			    <h1 class="text-center"><strong>大 镭 </strong> 核 技 术</h1> 
 			    <div class="col-md-2">
 			    </div>
 

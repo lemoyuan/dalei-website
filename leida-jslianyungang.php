@@ -64,7 +64,7 @@
 
 					      <div class="white-row styleBackground">
                                 <p class="lead" style="color:#FFE100"><strong>联系方式</strong></p>
-                                <p class="lead">地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;址：连云港市经济开发区黄海大道与大浦路交叉口开发区中德园中心企业产业园B2-2号</p>
+                                <p class="lead">地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;址：连云港市连云区猴嘴街道经济技术开发区中德园中小企业产业园B2-2号</p>
                                 <p class="lead">业&nbsp;&nbsp;&nbsp;务&nbsp;&nbsp;&nbsp;部：17751876176 （陈经理）</p>
                               
                                 <p class="lead">传真 / 电话：0580 - 2929878</p>

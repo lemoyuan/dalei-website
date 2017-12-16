@@ -142,6 +142,7 @@
 								<div class="item-box-desc " >
 									<h4 class="text-center">电子枪智能控制器</h4>
 									<p class="text-center">
+										MODBUS TCP/IP电压设置 , 输出电压精度<1% , 最大输出功率200W
 								    </p>	
 								</div>
 							</div>
