@@ -66,7 +66,7 @@
                                 <p class="lead">地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;址：浙江省舟山市新港工业园区迎宾大道36号</p>
                                 <p class="lead">业&nbsp;&nbsp;&nbsp;务&nbsp;&nbsp;&nbsp;部：15068019514 （韩经理）</p>
                                 <p class="lead">市&nbsp;&nbsp;&nbsp;场&nbsp;&nbsp;&nbsp;部：13705809538 （周先生）</p>
-                                <p class="lead">传真 / 电话：0580 - 2975980</p>
+                                <p class="lead">传真 / 电话：0580 - 2929879</p>
 						 </div>
 						 </div>
 						 </div>
