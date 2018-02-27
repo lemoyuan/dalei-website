@@ -108,7 +108,7 @@
             <section id="portfolio">
 				<div class="container">
 					<ul class="nav nav-pills isotope-filter isotope-filter" data-sort-id="isotope-list" data-option-key="filter">	
-						<li data-option-value=".development" ><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+						<li data-option-value=".development" ><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014~2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
 						<li data-option-value=".photography"><a href="#">&nbsp;2011~2013&nbsp;</a></li>
 						<li data-option-value=".design"><a href="#">&nbsp;2004~2010&nbsp;</a></li>
 					</ul>
@@ -122,7 +122,27 @@
 						<ul class="sort-destination isotope" data-sort-id="isotope-list">
 							<li class="isotope-item col-sm-6 col-md-3 development " style="width:100%"><!-- item -->
 						        <div class="col-md-2 development ">
-							 
+					                
+                                    <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+					                
+                                    <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+					                
+                                    <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+					                
+                                    <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+							        
 					                <figure>
 							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
@@ -139,6 +159,18 @@
 					            </div>
 
                                 <div class="col-md-10">
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年4月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;揭阳辐照中心投入运营
+                                </p><br/>
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2016年12月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山辐照中心被正式认定为浙江省高新技术企业
+                                </p><br/>
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2016年6月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山辐照中心被认定为舟山市专利示范企业
+                                </p><br/>
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2015年6月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;被认定为浙江省科技型中小企业
+                                </p><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年11月9日 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在美国硅谷成立研发中心，与斯坦福、阿贡国家实验室、加州半导体3位博士签订项目研发合作协议。  </p><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年10月</h4>
