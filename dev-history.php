@@ -169,7 +169,7 @@
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山辐照中心被认定为舟山市专利示范企业
                                 </p><br/>
                                 <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2015年6月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;被认定为浙江省科技型中小企业
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭被认定为浙江省科技型中小企业
                                 </p><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年11月9日 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在美国硅谷成立研发中心，与斯坦福、阿贡国家实验室、加州半导体3位博士签订项目研发合作协议。  </p><br/>
