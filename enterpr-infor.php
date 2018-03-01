@@ -31,6 +31,51 @@
 					<span class="js_loader"><i class="fa fa-asterisk fa-spin"></i>LOADING</span>
 
 					<ul class="masonry-list">
+            		<li class="masonry-item" style="background-color:#444444">
+							<div class="item">
+								<!-- article title -->
+								<div class="item-title">
+
+								</div>
+
+								<!-- image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-17-05.png">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#36a0da">2017年12月初 </span>，将输出束功率20KW大功率加速器设备交付于江苏连云港新建的辐照加工中心，目前正处于设备调试阶段。</p>
+
+							</div>
+
+						</li>
+
+						<li class="masonry-item" style="background-color:#444444">
+
+							<div class="item">
+								<!-- article title -->
+								<div class="item-title">
+
+								</div>
+
+								<!-- image -->
+								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
+									<div>
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-17-04.png">
+									</div>
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#36a0da">2017年11月13日 </span>，顺利通过由舟山市科技创业服务中心组织有关专家对我司承担的“5313”领军人才项目“高能电子加速器研发生产基地”的终期验收会。</p>
+
+							</div>
+
+						</li>
+
 						<li class="masonry-item" style="background-color:#444444">
 
 							<div class="item">
