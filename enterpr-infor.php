@@ -99,10 +99,26 @@
 
 								<!-- blog short preview -->
 								<p style="color:#bbb;margin:0px">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#36a0da">2017年9月9日 </span>，在第五届中国（绵阳）科技城国际科技博览会军民融合创新展区，中央军委科技专家对我们的加速器表现出浓厚的兴趣。</p>	
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#36a0da">2017年9月9日 </span>，在第五届中国（绵阳）科技城国际科技博览会军民融合创新展区，中央军委科技专家对我们的加速器表现出浓厚的兴趣。</p>
+							</div>
 
+						</li>
+						<li class="masonry-item" style="background-color:#444444">
 
+							<div class="item">
+								<!-- article title -->
+								<div class="item-title">
 
+								</div>
+
+								<!-- image -->
+								<div>
+									<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-1701.jpg">
+								</div>
+
+								<!-- blog short preview -->
+								<p style="color:#bbb;margin:0px">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#36a0da">2017年1月 </span>由大镭自主研发的第二代电子直线加速器设备运抵揭阳辐照中心, 同年4月整机交付客户使用</p>
 							</div>
 
 						</li>
@@ -126,10 +142,7 @@
 
 								<!-- blog short preview -->
 								<p style="color:#bbb;margin:0px">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#36a0da">2016年6月22日 </span>，浙江省科技厅党组书记、厅长周国辉一行赴舟山调研科技创新工作，在副市长沈仁华等市委领导的陪同下对舟山海洋产业集聚区科技创新工作进行调研，期间实地走访了我公司，考察了我公司加速器设备制造和应用情况。周厅长提出“坚定不移大力推进高新技术产业发展 ”。</p>	
-
-
-
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#36a0da">2016年6月22日 </span>，浙江省科技厅党组书记、厅长周国辉一行赴舟山调研科技创新工作，在副市长沈仁华等市委领导的陪同下对舟山海洋产业集聚区科技创新工作进行调研，期间实地走访了我公司，考察了我公司加速器设备制造和应用情况。周厅长提出“坚定不移大力推进高新技术产业发展 ”。</p>
 							</div>
 
 						</li>
@@ -139,15 +152,13 @@
 							<div class="item">
 								<!-- article title -->
 								<div class="item-title">
-                                                                            <h4 style="color:#36a0da">我公司舟山辐照中心—舟山雷大电子科技有限公司被认定为“2016年舟山市专利示范企业”。</h4>
+                                    <h4 style="color:#36a0da">我公司舟山辐照中心—舟山雷大电子科技有限公司被认定为“2016年舟山市专利示范企业”。</h4>
 								</div>
 
 
 								<!-- blog short preview -->
 								<p style="color:#bbb;margin:0px">
-									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山市科技局于<span style="color:#36a0da"> 2016年6月6日 </span>发布了<a href="http://www.zhoushan.gov.cn/web/zhzf/zwdt/bmdt/201606/t20160612_826991.shtml">《关于认定舟山雷大电子科技有限公司等企业为2016年市专利示范企业》</a>的通知，这是我公司一直以来致力于技术创新的成果，我们会再接再厉，不断增强企业竞争力。</p>				
-
-
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山市科技局于<span style="color:#36a0da"> 2016年6月6日 </span>发布了<a href="http://www.zhoushan.gov.cn/web/zhzf/zwdt/bmdt/201606/t20160612_826991.shtml">《关于认定舟山雷大电子科技有限公司等企业为2016年市专利示范企业》</a>的通知，这是我公司一直以来致力于技术创新的成果，我们会再接再厉，不断增强企业竞争力。</p>
 							</div>
 
 						</li>

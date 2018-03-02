@@ -129,12 +129,12 @@
 						            <br/>
 					                
                                     <figure>
-							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							            <img class="img-responsive" src="assets/images/dalei/dyn-17-04.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
 						            <br/>
 					                
                                     <figure>
-							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							            <img class="img-responsive" src="assets/images/dalei/dyn-1701.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
 						            <br/>
 					                
@@ -156,29 +156,54 @@
 						            <figure>
 							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
+						            <br/>
+					                <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+
+						            <figure>
+							            <img class="img-responsive" src="assets/images/applications/kongzhitai.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
 					            </div>
 
                                 <div class="col-md-10">
-                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年4月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;揭阳辐照中心投入运营
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年12月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;设备运抵连云港辐照中心进行现场调试
                                 </p><br/>
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年11月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由大镭承担的舟山市“5313”领军人才项目“高能电子加速器研发生产基地”的通过终期验收。
+                                </p><br/><br/>
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年1月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由大镭自主研发的第二代电子直线加速器设备运抵揭阳辐照中心，同年4月，正式交付客户使用
+                                </p><br/><br/>
                                 <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2016年12月 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山辐照中心被正式认定为浙江省高新技术企业
-                                </p><br/>
+                                </p><br/><br/>
                                 <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2016年6月 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山辐照中心被认定为舟山市专利示范企业
-                                </p><br/>
+                                </p><br/><br/>
                                 <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2015年6月 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭被认定为浙江省科技型中小企业
-                                </p><br/>
+                                </p><br/><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年11月9日 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在美国硅谷成立研发中心，与斯坦福、阿贡国家实验室、加州半导体3位博士签订项目研发合作协议。  </p><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在美国硅谷成立研发中心，与斯坦福、阿贡国家实验室、加州半导体3位博士签订项目研发合作协议。  </p><br/><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年10月</h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相继研制成功辐照加速器用脉冲强流电子枪、电子枪智能控制器、离子泵控制器、束流扫描控制器等加速器用辅助设备设备。</p><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年8月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公司投入1800万元建造的辐射防护设施与新车间厂房投入使用。 </p><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公司投入1800万元建造的辐射防护设施与新车间厂房投入使用。 </p><br/><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年7月1日 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市科技创业投资公司向本公司完成第1轮注资300万元。 </p><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市科技创业投资公司向本公司完成第1轮注资300万元。 </p><br/><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年5月 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全部自创研制的工业辐照高功率电子直线加速器成套设备在车间内调试老练完成，整机运抵用户单位交付使用。 </p>
 					            </div>
