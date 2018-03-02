@@ -41,7 +41,7 @@
 								<!-- image -->
 								<div class="owl-carousel controlls-over" data-plugin-options='{"items": 1, "autoHeight": true, "navigation": true, "pagination": false, "transitionStyle":"fadeUp"}'><!-- transitionStyle: fade, backSlide, goDown, fadeUp,  -->
 									<div>
-										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-17-05.jpg">
+										<img alt="大镭核技术成套设备" class="img-responsive" src="assets/images/dalei/dyn-17-12.jpg">
 									</div>
 								</div>
 
