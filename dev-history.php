@@ -108,8 +108,8 @@
             <section id="portfolio">
 				<div class="container">
 					<ul class="nav nav-pills isotope-filter isotope-filter" data-sort-id="isotope-list" data-option-key="filter">	
-						<li data-option-value=".development" ><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014~2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-						<li data-option-value=".photography"><a href="#">&nbsp;2011~2013&nbsp;</a></li>
+						<li data-option-value=".development" ><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016~至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+						<li data-option-value=".photography"><a href="#">&nbsp;2011~2015&nbsp;</a></li>
 						<li data-option-value=".design"><a href="#">&nbsp;2004~2010&nbsp;</a></li>
 					</ul>
 
@@ -146,7 +146,48 @@
 					                <figure>
 							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
+						            
+					            </div>
+
+                                <div class="col-md-10">
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年12月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;设备运抵连云港辐照中心进行现场调试
+                                </p><br/>
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年11月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由大镭承担的舟山市“5313”领军人才项目“高能电子加速器研发生产基地”的通过终期验收。
+                                </p><br/><br/>
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年1月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由大镭自主研发的第二代电子直线加速器设备运抵揭阳辐照中心，同年6月，正式交付客户使用
+                                </p><br/><br/>
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2016年12月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山辐照中心被正式认定为浙江省高新技术企业
+                                </p><br/><br/>
+                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2016年6月 </h4>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山辐照中心被认定为舟山市专利示范企业
+                                </p><br/><br/>
+                                
+					            </div>
+					           
+							</li>
+				
+                      
+							<li class="isotope-item col-sm-6 col-md-3 photography " style="width:100%"><!-- item -->
+								<div class="col-md-2 photopraphy ">
+							 
+					                <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
 						            <br/>
+
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/dev21.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+									<br/>
 
 						            <figure>
 							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
@@ -181,67 +222,29 @@
 					            </div>
 
                                 <div class="col-md-10">
-                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年12月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;设备运抵连云港辐照中心进行现场调试
-                                </p><br/>
-                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年11月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由大镭承担的舟山市“5313”领军人才项目“高能电子加速器研发生产基地”的通过终期验收。
-                                </p><br/><br/>
-                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2017年1月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由大镭自主研发的第二代电子直线加速器设备运抵揭阳辐照中心，同年6月，正式交付客户使用
-                                </p><br/><br/>
-                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2016年12月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山辐照中心被正式认定为浙江省高新技术企业
-                                </p><br/><br/>
-                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2016年6月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;舟山辐照中心被认定为舟山市专利示范企业
-                                </p><br/><br/>
-                                <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2015年6月 </h4>
+                            	<h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2015年6月 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭被认定为浙江省科技型中小企业
-                                </p><br/>
+                                </p><br/><br/>
                                 <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2015年3月 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭申报的“工业辐照电子加速器智能控制系统及软件开发”项目成功入选《2015年浙江省信息服务业发展专项计划》
                                 </p><br/><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年11月9日 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在美国硅谷成立研发中心，与斯坦福、阿贡国家实验室、加州半导体3位博士签订项目研发合作协议。  </p><br/><br/>
-					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年10月</h4>
+					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年10月</h4><br>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相继研制成功辐照加速器用脉冲强流电子枪、电子枪智能控制器、离子泵控制器、束流扫描控制器等加速器用辅助设备设备。</p><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年8月 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公司投入1800万元建造的辐射防护设施与新车间厂房投入使用。 </p><br/><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年7月1日 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市科技创业投资公司向本公司完成第1轮注资300万元。 </p><br/><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市科技创业投资公司向本公司完成第1轮注资300万元。 </p><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2014年5月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全部自创研制的工业辐照高功率电子直线加速器成套设备在车间内调试老练完成，整机运抵用户单位交付使用。 </p>
-					            </div>
-					           
-							</li>
-				
-                      
-							<li class="isotope-item col-sm-6 col-md-3 photography " style="width:100%"><!-- item -->
-								<div class="col-md-2 photopraphy ">
-							 
-					                <figure>
-							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-						            </figure>
-						            <br/>
-
-						            <figure>
-							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-						            </figure>
-						            <br/>
-
-						            <figure>
-							            <img class="img-responsive" src="assets/images/dalei/dev21.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-						            </figure>
-					            </div>
-
-                                <div class="col-md-10">
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;全部自创研制的工业辐照高功率电子直线加速器成套设备在车间内调试老练完成，整机运抵用户单位交付使用。 </p><br/><br/>
 								<h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2013年12月</h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第1台智能化60KW脉冲功率调制器样机研制完成。 </p><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2013年9月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第1台电子直线加速整机样机在车间内研制完成，进入真空与高压锻炼。 </p><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第1台电子直线加速整机样机在车间内研制完成，进入真空与高压锻炼。 </p><br/><br/>
 								<h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2011年1月 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由长风电子所、海外留学高端人才共同创办的“浙江大镭核技术应用设备有限公司”挂牌，市政府授予“领军人才企业”。技术研发团队全身心投入“闭门造车”式的加速器设备研发。</p>  
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由长风电子所、海外留学高端人才共同创办的“浙江大镭核技术应用设备有限公司”挂牌，市政府授予“领军人才企业”。技术研发团队全身心投入“闭门造车”式的加速器设备研发。</p> 
+
 					            </div>
 							</li>
 					
@@ -262,19 +265,32 @@
 						            <figure>
 							            <img class="img-responsive" src="assets/images/dalei/dev2.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
+						            <br>
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
 					            </div>
 
                                 <div class="col-md-10">
 								<h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2007～2010 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研制设备工作正常，年加工海产品5000～7000吨；加速器设备经一系列改进、改造、提高。  </p><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研制设备工作正常，年加工海产品5000～7000吨；加速器设备经一系列改进、改造、提高。  </p><br/><br/>
 								<h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2009年2月20日 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长风电子所参与的浙江省重大科技专项“海产品中抗生素等药物残留快速降解技术及设备研制”通过成科技厅组织的验收。  </p><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长风电子所参与的浙江省重大科技专项“海产品中抗生素等药物残留快速降解技术及设备研制”通过成科技厅组织的验收。  </p><br/><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2007月10月23日</h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由长风电子所承担的浙江省重大科技专项“食品辐照高能电子加速器的开发与产业化”通过省科技厅组织的验收。</p><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由长风电子所承担的浙江省重大科技专项“食品辐照高能电子加速器的开发与产业化”通过省科技厅组织的验收。</p><br/><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2007年1月  </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第1台研制的全国产器件工业辐照高能加速器投入使用。 </p><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第1台研制的全国产器件工业辐照高能加速器投入使用。 </p><br/><br/>
 					            <h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2005年6月2日 </h4>
-					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长风电子所与南京大学合作开发电子加速器项目签约。 </p><br/>
+					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长风电子所与南京大学合作开发电子加速器项目签约。 </p><br/><br/>
 								<h4><i class="fa fa-caret-right"></i>&nbsp;&nbsp;2004年5月 </h4>
 					            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大镭的前身“舟山长风电子科学研究所”成立。</p>  
 					            </div>
