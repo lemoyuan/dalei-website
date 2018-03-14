@@ -49,10 +49,23 @@
 				    	</aside>
 
 					<div class="col-md-9">
+							<div class="item">
+								<!-- article title -->
+								<h4><a href="/articles/article-equipment-irradiation.php">电子射线设备与辐照加工</a></h4>
+
+								<!-- blog short preview -->
+								<p style="color:#fff">
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;新兴的辐照加工产业，由于其在食品安全、医疗灭菌、材料改性等应用领域的巨大贡献，曾被认为是最具发展潜力和发展速度的行业之一。 · · · · · ·
+								</p>
+
+								<!-- read more button -->
+								<a href="/articles/article-equipment-irradiation.php" class="btn btn-xs pull-center" style="background-color:#2a6496"><i class="fa fa-sign-out"></i>阅读全文&nbsp;&nbsp;&nbsp;&nbsp;READ MORE</a>
+
+							</div>
 
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="/articles/article-food-radiation-management.php">食品辐照生产的质量管理体系</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
+								<h4><a href="/articles/article-food-radiation-management.php">食品辐照生产的质量管理体系</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#fff">
@@ -66,7 +79,7 @@
 
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="/articles/paper-seafood-highdose-irradiation.php">高能量β射线设备与海鲜食品高剂量辐照试验</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
+								<h4><a href="/articles/paper-seafood-highdose-irradiation.php">高能量β射线设备与海鲜食品高剂量辐照试验</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#fff">
@@ -81,7 +94,7 @@
 							<div class="item">
 
 								<!-- article title -->
-								<h4><a href="/articles/paper-maintenance.php">工业辐照直线电子加速器技术维护要点与实践</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
+								<h4><a href="/articles/paper-maintenance.php">工业辐照直线电子加速器技术维护要点与实践</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#fff">
@@ -95,7 +108,7 @@
 
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="/articles/article-equipment-performance.php">食品与半导体辐照加工等行业对射线设备性能的要求</a><span class="lable pull-right" style="font-style: italic;color:#ff0033">new</span></h4>
+								<h4><a href="/articles/article-equipment-performance.php">食品与半导体辐照加工等行业对射线设备性能的要求</a></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#fff">
