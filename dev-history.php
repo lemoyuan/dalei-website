@@ -185,23 +185,9 @@
 						            <br/>
 
 						            <figure>
-							            <img class="img-responsive" src="assets/images/dalei/dev21.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
 									<br/>
-
-						            <figure>
-							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-						            </figure>
-						            <br/>
-
-						            <figure>
-							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-						            </figure>
-						            <br/>
-					                <figure>
-							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
-						            </figure>
-						            <br/>
 
 						            <figure>
 							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
@@ -212,12 +198,27 @@
 							            <img class="img-responsive" src="assets/images/dalei/fac.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
 						            <br/>
+
 						            <figure>
 							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
 						            <br/>
 						            <figure>
 							            <img class="img-responsive" src="assets/images/applications/kongzhitai.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/fnal-1.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
+						            </figure>
+						            <br/>
+						            <figure>
+							            <img class="img-responsive" src="assets/images/dalei/dev21.jpg" alt="直线电子加速器辐照加工应用大镭核技术成套设备" />
 						            </figure>
 					            </div>
 

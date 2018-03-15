@@ -51,7 +51,7 @@
 					<div class="col-md-9">
 							<div class="item">
 								<!-- article title -->
-								<h4><a href="/articles/article-equipment-irradiation.php">电子射线设备与辐照加工</a></h4>
+								<h4><a href="/articles/article-equipment-irradiation.php">电子射线设备与辐照加工</a><span class="lable pull-right" style="font-style: italic;color:#FFE100">new</span></h4>
 
 								<!-- blog short preview -->
 								<p style="color:#fff">

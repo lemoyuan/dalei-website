@@ -66,9 +66,9 @@
 					      <div class="white-row styleBackground">
                                 <p class="lead" style="color:#FFE100"><strong>联系方式</strong></p>
                                 <p class="lead">地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;址：连云港市连云区猴嘴街道经济技术开发区中德园中小企业产业园B2-2号</p>
-                                <p class="lead">业&nbsp;&nbsp;&nbsp;务&nbsp;&nbsp;&nbsp;部：17751877795 </p>
+                                <p class="lead">业&nbsp;&nbsp;&nbsp;务&nbsp;&nbsp;&nbsp;部：17751877795（王经理） </p>
                               
-                                <p class="lead">传真 / 电话：0518 - 85856176</p>
+                                <p class="lead">固 定 电 话：0518 - 85856176</p>
 						 </div>
 						 </div>
 						 </div>
